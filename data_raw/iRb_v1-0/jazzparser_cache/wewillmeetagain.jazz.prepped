@@ -1,0 +1,44 @@
+!!!OTL: We Will Meet Again
+!!!COM: Evans, Bill
+!!!ODT: 1977
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3	*M3/4
+*c:	*c:	*c:	*c:	*c:	*c:	*c:
+2.C:min6	C	min6	do	[C]	min	3.0000
+=	=	=	=	=	=	=
+2.C:min6	C	min6	do	P1	min	3.0000
+=	=	=	=	=	=	=
+2.F:min7	F	min7	fa	P4	min7	3.0000
+=	=	=	=	=	=	=
+2.F:min7	F	min7	fa	P1	min7	3.0000
+=	=	=	=	=	=	=
+2.Dh7	D	h7	re	M6	half	3.0000
+=	=	=	=	=	=	=
+2.G7b9	G	7b9	so	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.C:min6	C	min6	do	P4	min	3.0000
+=	=	=	=	=	=	=
+2.C:min6	C	min6	do	P1	min	3.0000
+=	=	=	=	=	=	=
+2.A-:maj7	A-	maj7	le	m6	maj	3.0000
+=	=	=	=	=	=	=
+2.G7b9	G	7b9	so	M7	dom	3.0000
+=	=	=	=	=	=	=
+2.C:min6	C	min6	do	P4	min	3.0000
+=	=	=	=	=	=	=
+2.C:min6	C	min6	do	P1	min	3.0000
+=	=	=	=	=	=	=
+2.Ah7	A	h7	la	M6	half	3.0000
+=	=	=	=	=	=	=
+2.D7#9	D	7#9	re	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.G7b9sus	G	7b9sus	so	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.G13b9	G	13b9	so	P1	dom	3.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

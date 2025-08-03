@@ -1,0 +1,38 @@
+!!!OTL: Relaxin' At Camarillo
+!!!COM: Parker, Charlie
+!!!ODT: 1947
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*C:	*C:	*C:	*C:	*C:	*C:	*C:
+1C7	C	7	do	[C]	dom	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	do	P1	dom	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	do	P1	dom	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	do	P1	dom	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	fa	P4	dom	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	fa	P1	dom	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	do	P5	dom	4.0000
+=	=	=	=	=	=	=
+1A7	A	7	la	M6	dom	4.0000
+=	=	=	=	=	=	=
+1D:min7	D	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+1G7	G	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+2E:min7	E	min7	mi	M6	min7	2.0000
+2A7	A	7	la	P4	dom	2.0000
+=	=	=	=	=	=	=
+2D:min7	D	min7	re	P4	min7	2.0000
+2G7	G	7	so	P4	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

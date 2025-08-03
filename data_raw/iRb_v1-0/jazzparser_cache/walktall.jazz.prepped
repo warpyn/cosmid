@@ -1,0 +1,66 @@
+!!!OTL: Walk Tall
+!!!COM: Adderley, Cannonball
+!!!ODT: 1967
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*C:	*C:	*C:	*C:	*C:	*C:	*C:
+2G7	G	7	so	[G]	dom	2.0000
+2C7	C	7	do	P4	dom	2.0000
+=	=	=	=	=	=	=
+2G7	G	7	so	P5	dom	2.0000
+2C7	C	7	do	P4	dom	2.0000
+=	=	=	=	=	=	=
+2G7	G	7	so	P5	dom	2.0000
+2C7	C	7	do	P4	dom	2.0000
+=	=	=	=	=	=	=
+2G7	G	7	so	P5	dom	2.0000
+2C7	C	7	do	P4	dom	2.0000
+=	=	=	=	=	=	=
+2G7	G	7	so	P5	dom	2.0000
+2C7	C	7	do	P4	dom	2.0000
+=	=	=	=	=	=	=
+2G7	G	7	so	P5	dom	2.0000
+2C7	C	7	do	P4	dom	2.0000
+=	=	=	=	=	=	=
+2G7	G	7	so	P5	dom	2.0000
+2C7	C	7	do	P4	dom	2.0000
+=	=	=	=	=	=	=
+2G7	G	7	so	P5	dom	2.0000
+2C7	C	7	do	P4	dom	2.0000
+=	=	=	=	=	=	=
+1B:min7	B	min7	ti	M7	min7	4.0000
+=	=	=	=	=	=	=
+1E:min7	E	min7	mi	P4	min7	4.0000
+=	=	=	=	=	=	=
+1D7sus	D	7sus	re	m7	sus	4.0000
+=	=	=	=	=	=	=
+4A:min7	A	min7	la	P5	min7	1.0000
+4B:min7	B	min7	ti	M2	min7	1.0000
+2C:maj7	C	maj7	do	m2	maj	2.0000
+=	=	=	=	=	=	=
+1B:min7	B	min7	ti	M7	min7	4.0000
+=	=	=	=	=	=	=
+1E:min7	E	min7	mi	P4	min7	4.0000
+=	=	=	=	=	=	=
+1A:min7	A	min7	la	P4	min7	4.0000
+=	=	=	=	=	=	=
+1D7sus	D	7sus	re	P4	sus	4.0000
+=	=	=	=	=	=	=
+1D7sus	D	7sus	re	P1	sus	4.0000
+=	=	=	=	=	=	=
+*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2	*M2/4
+2D7sus	D	7sus	re	P1	sus	2.0000
+==	==	==	==	==	==	==
+!! Vamp
+2G7	G	7	so	P4	dom	2.0000
+2C7	C	7	do	P4	dom	2.0000
+=	=	=	=	=	=	=
+2G7	G	7	so	P5	dom	2.0000
+2C7	C	7	do	P4	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

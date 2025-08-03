@@ -1,0 +1,86 @@
+!!!OTL: Ugly Beauty
+!!!COM: Monk, Thelonious
+!!!ODT: 1967
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3	*M3/4
+*D-:	*D-:	*D-:	*D-:	*D-:	*D-:	*D-:
+2.Dh7	D	h7	di	[D]	half	3.0000
+=	=	=	=	=	=	=
+2.G7b9	G	7b9	fi	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.Dh7	D	h7	di	P5	half	3.0000
+=	=	=	=	=	=	=
+4.D-:maj7	D-	maj7	do	d1	maj	1.5000
+4.E-7#11	E-	7#11	re	M2	dom	1.5000
+=	=	=	=	=	=	=
+2.E-:min7	E-	min7	re	P1	min7	3.0000
+=	=	=	=	=	=	=
+2.A-13b9	A-	13b9	so	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.D-:maj7	D-	maj7	do	P4	maj	3.0000
+=	=	=	=	=	=	=
+2.D-:maj7	D-	maj7	do	P1	maj	3.0000
+==	==	==	==	==	==	==
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3	*M3/4
+*D-:	*D-:	*D-:	*D-:	*D-:	*D-:	*D-:
+2.Dh7	D	h7	di	A1	half	3.0000
+=	=	=	=	=	=	=
+2.G7b9	G	7b9	fi	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.Dh7	D	h7	di	P5	half	3.0000
+=	=	=	=	=	=	=
+4.D-:maj7	D-	maj7	do	d1	maj	1.5000
+4.E-7#11	E-	7#11	re	M2	dom	1.5000
+=	=	=	=	=	=	=
+2.E-:min7	E-	min7	re	P1	min7	3.0000
+=	=	=	=	=	=	=
+2.A-13b9	A-	13b9	so	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.D-:maj7	D-	maj7	do	P4	maj	3.0000
+=	=	=	=	=	=	=
+2.D-:maj7	D-	maj7	do	P1	maj	3.0000
+==	==	==	==	==	==	==
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+2.A-:min7	A-	min7	so	P5	min7	3.0000
+=	=	=	=	=	=	=
+2.D-7b9	D-	7b9	do	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.B-7#5	B-	7#5	la	M6	dom	3.0000
+=	=	=	=	=	=	=
+4.F:min7	F	min7	mi	P5	min7	1.5000
+4.B-7#11	B-	7#11	la	P4	dom	1.5000
+=	=	=	=	=	=	=
+2.A-9sus	A-	9sus	so	m7	dom	3.0000
+=	=	=	=	=	=	=
+2.A-7#11	A-	7#11	so	P1	dom	3.0000
+=	=	=	=	=	=	=
+2.A-:min7	A-	min7	so	P1	min7	3.0000
+=	=	=	=	=	=	=
+2.G7b5	G	7b5	fi	M7	dom	3.0000
+==	==	==	==	==	==	==
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
+2.Dh7	D	h7	di	P5	half	3.0000
+=	=	=	=	=	=	=
+2.G7b9	G	7b9	fi	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.Dh7	D	h7	di	P5	half	3.0000
+=	=	=	=	=	=	=
+4.D-:maj7	D-	maj7	do	d1	maj	1.5000
+4.E-7#11	E-	7#11	re	M2	dom	1.5000
+=	=	=	=	=	=	=
+2.E-:min7	E-	min7	re	P1	min7	3.0000
+=	=	=	=	=	=	=
+2.A-13b9	A-	13b9	so	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.A-13b9	A-	13b9	so	P1	dom	3.0000
+=	=	=	=	=	=	=
+2.D-:maj7	D-	maj7	do	P4	maj	3.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

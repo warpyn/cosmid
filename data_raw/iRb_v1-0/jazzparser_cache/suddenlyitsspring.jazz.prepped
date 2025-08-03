@@ -1,0 +1,87 @@
+!!!OTL: Suddenly It's Spring
+!!!COM: van Heusen, Jimmy
+!!!ODT: 1943
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*B-:	*B-:	*B-:	*B-:	*B-:	*B-:	*B-:
+1C:min7	C	min7	re	[C]	min7	4.0000
+=	=	=	=	=	=	=
+1D7	D	7	mi	M2	dom	4.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	la	P4	min7	4.0000
+=	=	=	=	=	=	=
+1C13	C	13	re	P4	dom	4.0000
+=	=	=	=	=	=	=
+1C:min7	C	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1B-:maj7	B-	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2Dh7	D	h7	mi	M3	half	2.0000
+2G7	G	7	la	P4	dom	2.0000
+=	=	=	=	=	=	=
+1C:min7	C	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+1D7	D	7	mi	M2	dom	4.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	la	P4	min7	4.0000
+=	=	=	=	=	=	=
+2C13	C	13	re	P4	dom	2.0000
+2C#o7	C#	o7	ri	A1	dim	2.0000
+=	=	=	=	=	=	=
+2D:maj7	D	maj7	mi	m2	maj	2.0000
+2B:min7	B	min7	di	M6	min7	2.0000
+=	=	=	=	=	=	=
+2E:min7	E	min7	fi	P4	min7	2.0000
+2A7	A	7	ti	P4	dom	2.0000
+=	=	=	=	=	=	=
+1D6	D	6	mi	P4	maj	4.0000
+=	=	=	=	=	=	=
+2F:min7	F	min7	so	m3	min7	2.0000
+2B-7	B-	7	do	P4	dom	2.0000
+==	==	==	==	==	==	==
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+2F:min7	F	min7	so	P5	min7	2.0000
+2B-7	B-	7	do	P4	dom	2.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	fa	P4	maj	4.0000
+=	=	=	=	=	=	=
+1B-7	B-	7	do	P5	dom	4.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	fa	P4	maj	4.0000
+=	=	=	=	=	=	=
+2D:min7	D	min7	mi	M7	min7	2.0000
+2G7	G	7	la	P4	dom	2.0000
+=	=	=	=	=	=	=
+1C:min7	C	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+1Dh7	D	h7	mi	M2	half	4.0000
+=	=	=	=	=	=	=
+1G7	G	7	la	P4	dom	4.0000
+==	==	==	==	==	==	==
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
+1C:min7	C	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+1D7	D	7	mi	M2	dom	4.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	la	P4	min7	4.0000
+=	=	=	=	=	=	=
+1C13	C	13	re	P4	dom	4.0000
+=	=	=	=	=	=	=
+1C:min7	C	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1B-6	B-	6	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2Dh7	D	h7	mi	M3	half	2.0000
+2G7	G	7	la	P4	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

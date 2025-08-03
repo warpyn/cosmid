@@ -1,0 +1,54 @@
+!!!OTL: Night Dreamer
+!!!COM: Shorter, Wayne
+!!!ODT: 1964
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3	*M3/4
+*G:	*G:	*G:	*G:	*G:	*G:	*G:
+4.G:maj7	G	maj7	do	[G]	maj	1.5000
+4.F:min7	F	min7	te	m7	min7	1.5000
+=	=	=	=	=	=	=
+4.E-:maj7	E-	maj7	le	m7	maj	1.5000
+4.D7	D	7	so	M7	dom	1.5000
+=	=	=	=	=	=	=
+4.G:maj7	G	maj7	do	P4	maj	1.5000
+4.F:min7	F	min7	te	m7	min7	1.5000
+=	=	=	=	=	=	=
+4.E-:maj7	E-	maj7	le	m7	maj	1.5000
+4.D7	D	7	so	M7	dom	1.5000
+=	=	=	=	=	=	=
+4.G:maj7	G	maj7	do	P4	maj	1.5000
+4.F:min7	F	min7	te	m7	min7	1.5000
+=	=	=	=	=	=	=
+4.E-:maj7	E-	maj7	le	m7	maj	1.5000
+4.D7	D	7	so	M7	dom	1.5000
+=	=	=	=	=	=	=
+2.E-:min7	E-	min7	le	m2	min7	3.0000
+=	=	=	=	=	=	=
+2.A-7	A-	7	ra	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.E7sus	E	7sus	la	A5	sus	3.0000
+=	=	=	=	=	=	=
+2.E7sus	E	7sus	la	P1	sus	3.0000
+=	=	=	=	=	=	=
+2.F7sus	F	7sus	te	m2	sus	3.0000
+=	=	=	=	=	=	=
+2.F7sus	F	7sus	te	P1	sus	3.0000
+=	=	=	=	=	=	=
+4.G:maj7	G	maj7	do	M2	maj	1.5000
+4.F:min7	F	min7	te	m7	min7	1.5000
+=	=	=	=	=	=	=
+4.E:maj7	E	maj7	la	M7	maj	1.5000
+4.D7	D	7	so	m7	dom	1.5000
+=	=	=	=	=	=	=
+4.G:maj7	G	maj7	do	P4	maj	1.5000
+4.F:min7	F	min7	te	m7	min7	1.5000
+=	=	=	=	=	=	=
+4.E-:maj7	E-	maj7	le	m7	maj	1.5000
+4.D7	D	7	so	M7	dom	1.5000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

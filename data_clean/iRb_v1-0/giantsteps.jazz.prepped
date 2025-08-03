@@ -1,0 +1,54 @@
+!!!OTL: Giant Steps
+!!!COM: Coltrane, John
+!!!ODT: 1959
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*B:	*B:	*B:	*B:	*B:	*B:	*B:
+2B:maj7	B	maj7	do	[B]	maj	2.0000
+2D7	D	7	me	m3	dom	2.0000
+=	=	=	=	=	=	=
+2G:maj7	G	maj7	le	P4	maj	2.0000
+2B-7	B-	7	de	m3	dom	2.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	fe	P4	maj	4.0000
+=	=	=	=	=	=	=
+2A:min7	A	min7	te	A4	min7	2.0000
+2D7	D	7	me	P4	dom	2.0000
+=	=	=	=	=	=	=
+2G:maj7	G	maj7	le	P4	maj	2.0000
+2B-7	B-	7	de	m3	dom	2.0000
+=	=	=	=	=	=	=
+2E-:maj7	E-	maj7	fe	P4	maj	2.0000
+2F#7	F#	7	so	A2	dom	2.0000
+=	=	=	=	=	=	=
+1B:maj7	B	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2F:min7	F	min7	se	d5	min7	2.0000
+2B-7	B-	7	de	P4	dom	2.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	fe	P4	maj	4.0000
+=	=	=	=	=	=	=
+2A:min7	A	min7	te	A4	min7	2.0000
+2D7	D	7	me	P4	dom	2.0000
+=	=	=	=	=	=	=
+1G:maj7	G	maj7	le	P4	maj	4.0000
+=	=	=	=	=	=	=
+2C#:min7	C#	min7	re	A4	min7	2.0000
+2F#7	F#	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+1B:maj7	B	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2F:min7	F	min7	se	d5	min7	2.0000
+2B-7	B-	7	de	P4	dom	2.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	fe	P4	maj	4.0000
+=	=	=	=	=	=	=
+2C#:min7	C#	min7	re	A6	min7	2.0000
+2F#7	F#	7	so	P4	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

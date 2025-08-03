@@ -1,0 +1,96 @@
+!!!OTL: All Through The Day
+!!!COM1: Kern, Jerome
+!!!COM2: Hammerstein, Oscar
+!!!ODT: 1946
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*F:	*F:	*F:	*F:	*F:	*F:	*F:
+1F:maj7	F	maj7	do	[F]	maj	4.0000
+=	=	=	=	=	=	=
+2G:min7	G	min7	re	M2	min7	2.0000
+2C7	C	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2G:min7	G	min7	re	M2	min7	2.0000
+2C9	C	9	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2D:min9	D	min9	la	M6	min7	2.0000
+2G9	G	9	re	P4	dom	2.0000
+=	=	=	=	=	=	=
+1G:min9	G	min9	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1C13	C	13	so	P4	dom	4.0000
+==	==	==	==	==	==	==
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1F:maj7	F	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2G:min7	G	min7	re	M2	min7	2.0000
+2C7	C	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2G:min7	G	min7	re	M2	min7	2.0000
+2C9	C	9	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2F:maj7	F	maj7	do	P4	maj	2.0000
+2D:min7	D	min7	la	M6	min7	2.0000
+=	=	=	=	=	=	=
+2G:min7	G	min7	re	P4	min7	2.0000
+2C7	C	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+1F69	F	69	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+1F69	F	69	do	P1	maj	4.0000
+==	==	==	==	==	==	==
+*>C	*>C	*>C	*>C	*>C	*>C	*>C
+1G:min7	G	min7	re	M2	min7	4.0000
+=	=	=	=	=	=	=
+1C9	C	9	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	re	P5	min7	4.0000
+=	=	=	=	=	=	=
+2C11	C	11	so	P4	dom	2.0000
+2C9	C	9	so	P1	dom	2.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	re	P5	min7	4.0000
+=	=	=	=	=	=	=
+2D:min7	D	min7	la	P5	min7	2.0000
+2G9	G	9	re	P4	dom	2.0000
+=	=	=	=	=	=	=
+1G:min11	G	min11	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+2C13(G-9)	C	13	so	P4	dom	2.0000
+2C7#5	C	7#5	so	P1	dom	2.0000
+==	==	==	==	==	==	==
+*>D	*>D	*>D	*>D	*>D	*>D	*>D
+1A-:maj7	A-	maj7	me	m6	maj	4.0000
+=	=	=	=	=	=	=
+2B-:min7	B-	min7	fa	M2	min7	2.0000
+2E-7	E-	7	te	P4	dom	2.0000
+=	=	=	=	=	=	=
+2A-:maj7	A-	maj7	me	P4	maj	2.0000
+2A-:maj7(F:min7)	A-	maj7	me	P1	maj	2.0000
+=	=	=	=	=	=	=
+2G:min7	G	min7	re	M7	min7	2.0000
+2C9	C	9	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2F:maj7	F	maj7	do	P4	maj	2.0000
+2D:min7	D	min7	la	M6	min7	2.0000
+=	=	=	=	=	=	=
+2G:min7	G	min7	re	P4	min7	2.0000
+2C7	C	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+1F69	F	69	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+1F69	F	69	do	P1	maj	4.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

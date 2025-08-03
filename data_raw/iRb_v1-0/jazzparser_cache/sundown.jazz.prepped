@@ -1,0 +1,80 @@
+!!!OTL: Sun down
+!!!COM: Montgomery, Wes
+!!!ODT: 1966
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>Intro	*>Intro	*>Intro	*>Intro	*>Intro	*>Intro	*>Intro
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*A:	*A:	*A:	*A:	*A:	*A:	*A:
+1A13	A	13	do	[A]	dom	4.0000
+=	=	=	=	=	=	=
+2A:min7	A	min7	do	P1	min7	2.0000
+2D9	D	9	fa	P4	dom	2.0000
+=	=	=	=	=	=	=
+1A13	A	13	do	P5	dom	4.0000
+=	=	=	=	=	=	=
+2E:min9	E	min9	so	P5	min7	2.0000
+2A7#5	A	7#5	do	P4	dom	2.0000
+=	=	=	=	=	=	=
+2A:min7	A	min7	do	P1	min7	2.0000
+2D9	D	9	fa	P4	dom	2.0000
+=	=	=	=	=	=	=
+2A:min7	A	min7	do	P5	min7	2.0000
+2D9	D	9	fa	P4	dom	2.0000
+=	=	=	=	=	=	=
+1A13	A	13	do	P5	dom	4.0000
+=	=	=	=	=	=	=
+2D-:min7	D-	min7	fe	d4	min7	2.0000
+2G-7b9	G-	7b9	te	P4	dom	2.0000
+=	=	=	=	=	=	=
+2B:min7	B	min7	re	A3	min7	2.0000
+2D-:min7	D-	min7	fe	d3	min7	2.0000
+=	=	=	=	=	=	=
+2B:min7	B	min7	re	A6	min7	2.0000
+2D:min7	D	min7	fa	m3	min7	2.0000
+=	=	=	=	=	=	=
+2D-:min7	D-	min7	fe	d1	min7	2.0000
+2C:min7	C	min7	me	M7	min7	2.0000
+=	=	=	=	=	=	=
+2B:min7	B	min7	re	M7	min7	2.0000
+2E7#9	E	7#9	so	P4	dom	2.0000
+==	==	==	==	==	==	==
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+!! *69 Solos
+1A13	A	13	do	P4	dom	4.0000
+=	=	=	=	=	=	=
+2A:min7	A	min7	do	P1	min7	2.0000
+2D9	D	9	fa	P4	dom	2.0000
+=	=	=	=	=	=	=
+1A13	A	13	do	P5	dom	4.0000
+=	=	=	=	=	=	=
+2E:min9	E	min9	so	P5	min7	2.0000
+2A7#5	A	7#5	do	P4	dom	2.0000
+=	=	=	=	=	=	=
+2A:min7	A	min7	do	P1	min7	2.0000
+2D9	D	9	fa	P4	dom	2.0000
+=	=	=	=	=	=	=
+2A:min7	A	min7	do	P5	min7	2.0000
+2D9	D	9	fa	P4	dom	2.0000
+=	=	=	=	=	=	=
+1A13	A	13	do	P5	dom	4.0000
+=	=	=	=	=	=	=
+2D-:min7	D-	min7	fe	d4	min7	2.0000
+2C:min7	C	min7	me	M7	min7	2.0000
+=	=	=	=	=	=	=
+!! Theme or A, Solos on B ( blues )
+1B:min7	B	min7	re	M7	min7	4.0000
+=	=	=	=	=	=	=
+1B:min7	B	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+2A13	A	13	do	m7	dom	2.0000
+2C13	C	13	me	m3	dom	2.0000
+=	=	=	=	=	=	=
+2B13	B	13	re	M7	dom	2.0000
+2B-13	B-	13	ra	d1	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

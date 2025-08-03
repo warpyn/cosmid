@@ -1,0 +1,87 @@
+!!!OTL: Blue Lou
+!!!COM: Mills, Irving
+!!!ODT: 1935
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*B-:	*B-:	*B-:	*B-:	*B-:	*B-:	*B-:
+1Ch7	C	h7	re	[C]	half	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1Ch7	C	h7	re	P5	half	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1B-:maj7	B-	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	fa	P4	maj	4.0000
+=	=	=	=	=	=	=
+*>N1	*>N1	*>N1	*>N1	*>N1	*>N1	*>N1
+1C:min7	C	min7	re	M6	min7	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	so	P4	dom	4.0000
+==	==	==	==	==	==	==
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*B-:	*B-:	*B-:	*B-:	*B-:	*B-:	*B-:
+1Ch7	C	h7	re	P5	half	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1Ch7	C	h7	re	P5	half	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1B-:maj7	B-	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	fa	P4	maj	4.0000
+=	=	=	=	=	=	=
+*>N2	*>N2	*>N2	*>N2	*>N2	*>N2	*>N2
+2C7	C	7	re	M6	dom	2.0000
+2F7	F	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+1B-:maj7	B-	maj7	do	P4	maj	4.0000
+==	==	==	==	==	==	==
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1F:maj7	F	maj7	so	P5	maj	4.0000
+=	=	=	=	=	=	=
+1F#o7	F#	o7	si	A1	dim	4.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	la	m2	min7	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	re	P4	dom	4.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	so	P4	maj	4.0000
+=	=	=	=	=	=	=
+1F#o7	F#	o7	si	A1	dim	4.0000
+=	=	=	=	=	=	=
+2G:min7	G	min7	la	m2	min7	2.0000
+2C7	C	7	re	P4	dom	2.0000
+=	=	=	=	=	=	=
+1F7	F	7	so	P4	dom	4.0000
+==	==	==	==	==	==	==
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
+1Ch7	C	h7	re	P5	half	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1Ch7	C	h7	re	P5	half	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1B-:maj7	B-	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	fa	P4	maj	4.0000
+=	=	=	=	=	=	=
+2C7	C	7	re	M6	dom	2.0000
+2F7	F	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+1B-:maj7	B-	maj7	do	P4	maj	4.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

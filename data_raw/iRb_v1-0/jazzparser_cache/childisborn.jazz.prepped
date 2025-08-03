@@ -1,0 +1,74 @@
+!!!OTL: Child Is Born, A
+!!!COM: Jones, Thad
+!!!ODT: 1972
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3	*M3/4
+*B-:	*B-:	*B-:	*B-:	*B-:	*B-:	*B-:
+2.B-:maj7	B-	maj7	do	[B-]	maj	3.0000
+=	=	=	=	=	=	=
+2.E-:min/B-	E-	min	fa	P4	min	3.0000
+=	=	=	=	=	=	=
+2.B-:maj7	B-	maj7	do	P5	maj	3.0000
+=	=	=	=	=	=	=
+2.E-:min/B-	E-	min	fa	P4	min	3.0000
+=	=	=	=	=	=	=
+2.B-:maj7	B-	maj7	do	P5	maj	3.0000
+=	=	=	=	=	=	=
+2.E-:min/B-	E-	min	fa	P4	min	3.0000
+=	=	=	=	=	=	=
+2.Ah7	A	h7	ti	A4	half	3.0000
+=	=	=	=	=	=	=
+2.D7#9	D	7#9	mi	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.G:min7	G	min7	la	P4	min7	3.0000
+=	=	=	=	=	=	=
+2.D7#5	D	7#5	mi	P5	dom	3.0000
+=	=	=	=	=	=	=
+2.G:min7	G	min7	la	P4	min7	3.0000
+=	=	=	=	=	=	=
+2.D7#5	D	7#5	mi	P5	dom	3.0000
+=	=	=	=	=	=	=
+2.G:min7	G	min7	la	P4	min7	3.0000
+=	=	=	=	=	=	=
+2.C7	C	7	re	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.F7sus	F	7sus	so	P4	sus	3.0000
+=	=	=	=	=	=	=
+2.F7	F	7	so	P1	dom	3.0000
+=	=	=	=	=	=	=
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+2.B-:maj7	B-	maj7	do	P4	maj	3.0000
+=	=	=	=	=	=	=
+2.E-:min/B-	E-	min	fa	P4	min	3.0000
+=	=	=	=	=	=	=
+2.B-:maj7	B-	maj7	do	P5	maj	3.0000
+=	=	=	=	=	=	=
+2.E-:min/B-	E-	min	fa	P4	min	3.0000
+=	=	=	=	=	=	=
+2.B-:maj7	B-	maj7	do	P5	maj	3.0000
+=	=	=	=	=	=	=
+2.D7alt	D	7alt	mi	M3	dom	3.0000
+=	=	=	=	=	=	=
+2.E-:maj7	E-	maj7	fa	m2	maj	3.0000
+=	=	=	=	=	=	=
+2.A-7	A-	7	te	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.B-/F	B-	.	do	M2	maj	3.0000
+=	=	=	=	=	=	=
+2.G-6	G-	6	le	m6	maj	3.0000
+=	=	=	=	=	=	=
+2.G:min7	G	min7	la	A1	min7	3.0000
+=	=	=	=	=	=	=
+2.C7	C	7	re	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.F7sus	F	7sus	so	P4	sus	3.0000
+=	=	=	=	=	=	=
+2.F7	F	7	so	P1	dom	3.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

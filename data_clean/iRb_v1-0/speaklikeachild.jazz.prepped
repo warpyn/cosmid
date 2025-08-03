@@ -1,0 +1,109 @@
+!!!OTL: Speak Like A Child
+!!!COM: Hancock, Herbie
+!!!ODT: 1968
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*a:	*a:	*a:	*a:	*a:	*a:	*a:
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+1C#7alt	C#	7alt	mi	[C#]	dom	4.0000
+=	=	=	=	=	=	=
+1C#7alt	C#	7alt	mi	P1	dom	4.0000
+=	=	=	=	=	=	=
+1G#7alt	G#	7alt	ti	P5	dom	4.0000
+=	=	=	=	=	=	=
+2E9sus	E	9sus	so	m6	dom	2.0000
+2A:min7	A	min7	do	P4	min7	2.0000
+=	=	=	=	=	=	=
+1B-13	B-	13	ra	m2	dom	4.0000
+=	=	=	=	=	=	=
+1B-7#5	B-	7#5	ra	P1	dom	4.0000
+=	=	=	=	=	=	=
+1B-:min9	B-	min9	ra	P1	min7	4.0000
+=	=	=	=	=	=	=
+1E-13	E-	13	se	P4	dom	4.0000
+=	=	=	=	=	=	=
+1A-13sus	A-	13sus	de	P4	dom	4.0000
+=	=	=	=	=	=	=
+2A-13sus	A-	13sus	de	P1	dom	2.0000
+2A-13b9	A-	13b9	de	P1	dom	2.0000
+=	=	=	=	=	=	=
+1G7alt	G	7alt	te	M7	dom	4.0000
+=	=	=	=	=	=	=
+1G7alt	G	7alt	te	P1	dom	4.0000
+=	=	=	=	=	=	=
+1G-:maj7#11	G-	maj7#11	te	d1	maj	4.0000
+=	=	=	=	=	=	=
+1G-:maj7#11	G-	maj7#11	te	P1	maj	4.0000
+=	=	=	=	=	=	=
+1G-o7	G-	o7	te	P1	dim	4.0000
+=	=	=	=	=	=	=
+1G-o7	G-	o7	te	P1	dim	4.0000
+=	=	=	=	=	=	=
+1E-9sus	E-	9sus	se	M6	dom	4.0000
+=	=	=	=	=	=	=
+1E-13	E-	13	se	P1	dom	4.0000
+=	=	=	=	=	=	=
+1E-:min9	E-	min9	se	P1	min7	4.0000
+=	=	=	=	=	=	=
+1D7#9	D	7#9	fa	M7	dom	4.0000
+=	=	=	=	=	=	=
+2D-7alt	D-	7alt	fe	d1	dom	2.0000
+2C7	C	7	me	M7	dom	2.0000
+=	=	=	=	=	=	=
+2F:maj7	F	maj7	le	P4	maj	2.0000
+2B-:min9	B-	min9	ra	P4	min7	2.0000
+==	==	==	==	==	==	==
+1A:min9	A	min9	do	M7	min7	4.0000
+=	=	=	=	=	=	=
+1E9sus	E	9sus	so	P5	dom	4.0000
+!! Repeat 3x
+==	==	==	==	==	==	==
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1C#7alt	C#	7alt	mi	M6	dom	4.0000
+=	=	=	=	=	=	=
+1C#7alt	C#	7alt	mi	P1	dom	4.0000
+=	=	=	=	=	=	=
+1G#7alt	G#	7alt	ti	P5	dom	4.0000
+=	=	=	=	=	=	=
+2E9sus	E	9sus	so	m6	dom	2.0000
+2A:min7	A	min7	do	P4	min7	2.0000
+=	=	=	=	=	=	=
+1B-13	B-	13	ra	m2	dom	4.0000
+=	=	=	=	=	=	=
+1B-7#5	B-	7#5	ra	P1	dom	4.0000
+=	=	=	=	=	=	=
+1A7#9#5	A	7#9#5	do	M7	dom	4.0000
+=	=	=	=	=	=	=
+1A13b9	A	13b9	do	P1	dom	4.0000
+=	=	=	=	=	=	=
+1A-13	A-	13	de	d1	dom	4.0000
+=	=	=	=	=	=	=
+1A-13b9	A-	13b9	de	P1	dom	4.0000
+=	=	=	=	=	=	=
+1G7alt	G	7alt	te	M7	dom	4.0000
+=	=	=	=	=	=	=
+1G7alt	G	7alt	te	P1	dom	4.0000
+=	=	=	=	=	=	=
+1G-:maj7#11	G-	maj7#11	te	d1	maj	4.0000
+=	=	=	=	=	=	=
+1G-:maj7#11	G-	maj7#11	te	P1	maj	4.0000
+=	=	=	=	=	=	=
+1G-o7	G-	o7	te	P1	dim	4.0000
+=	=	=	=	=	=	=
+1G-o7	G-	o7	te	P1	dim	4.0000
+=	=	=	=	=	=	=
+2C/D-	D-	7sus	fe	P5	sus	2.0000
+2B-/C	B-	.	ra	M6	maj	2.0000
+=	=	=	=	=	=	=
+!! Open
+1A:min9	A	min9	do	M7	min7	4.0000
+=	=	=	=	=	=	=
+1E9sus	E	9sus	so	P5	dom	4.0000
+!! D.C. on Cue
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

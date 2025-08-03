@@ -1,0 +1,59 @@
+!!!OTL: I Wish I Knew How It Would Feel To Be Free
+!!!COM: Taylor, Billy
+!!!ODT: 1963
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*F:	*F:	*F:	*F:	*F:	*F:	*F:
+2F	F	.	do	[F]	maj	2.0000
+2A7	A	7	mi	M3	dom	2.0000
+=	=	=	=	=	=	=
+2D:min	D	min	la	P4	min	2.0000
+2C:min7	C	min7	so	m7	min7	2.0000
+=	=	=	=	=	=	=
+2B-	B-	.	fa	m7	maj	2.0000
+2C7sus	C	7sus	so	M2	sus	2.0000
+=	=	=	=	=	=	=
+1F	F	.	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2F	F	.	do	P1	maj	2.0000
+4B-	B-	.	fa	P4	maj	1.0000
+4F/A	F	.	do	P5	maj	1.0000
+=	=	=	=	=	=	=
+2F	F	.	do	P1	maj	2.0000
+4C/E	C	.	so	P5	maj	1.0000
+4F	F	.	do	P4	maj	1.0000
+=	=	=	=	=	=	=
+2C/E	C	.	so	P5	maj	2.0000
+2G7	G	7	re	P5	dom	2.0000
+=	=	=	=	=	=	=
+1C7	C	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+2F	F	.	do	P4	maj	2.0000
+2A7	A	7	mi	M3	dom	2.0000
+=	=	=	=	=	=	=
+2D:min	D	min	la	P4	min	2.0000
+2C:min7	C	min7	so	m7	min7	2.0000
+=	=	=	=	=	=	=
+2B-	B-	.	fa	m7	maj	2.0000
+2C7sus	C	7sus	so	M2	sus	2.0000
+=	=	=	=	=	=	=
+2F	F	.	do	P4	maj	2.0000
+2Bo	B	o	fi	A4	dim	2.0000
+=	=	=	=	=	=	=
+2F/C	F	.	do	d5	maj	2.0000
+2C#o	C#	o	si	A5	dim	2.0000
+=	=	=	=	=	=	=
+2D:min	D	min	la	m2	min	2.0000
+2Bo	B	o	fi	M6	dim	2.0000
+=	=	=	=	=	=	=
+2F/C	F	.	do	d5	maj	2.0000
+2C7sus	C	7sus	so	P5	sus	2.0000
+=	=	=	=	=	=	=
+1F	F	.	do	P4	maj	4.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

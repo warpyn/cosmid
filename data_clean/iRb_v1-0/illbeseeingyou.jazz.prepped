@@ -1,0 +1,86 @@
+!!!OTL: I'll Be Seeing You
+!!!COM: Fain, Sammy
+!!!ODT: 1938
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*E-:	*E-:	*E-:	*E-:	*E-:	*E-:	*E-:
+1E-:maj7	E-	maj7	do	[E-]	maj	4.0000
+=	=	=	=	=	=	=
+1G7b13	G	7b13	mi	M3	dom	4.0000
+=	=	=	=	=	=	=
+2F:min7(F:min7)	F	min7	re	m7	min7	2.0000
+2C7b13	C	7b13	la	P5	dom	2.0000
+=	=	=	=	=	=	=
+2F:min7(C7b13)	F	min7	re	P4	min7	2.0000
+2C7b13	C	7b13	la	P5	dom	2.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+1B-7	B-	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2Dh7	D	h7	ti	M7	half	2.0000
+2G7b9	G	7b9	mi	P4	dom	2.0000
+=	=	=	=	=	=	=
+1C:min7	C	min7	la	P4	min7	4.0000
+=	=	=	=	=	=	=
+1C:min7	C	min7	la	P1	min7	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1B-7#5	B-	7#5	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+1B-7#5	B-	7#5	so	P5	dom	4.0000
+=	=	=	=	=	=	=
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1E-:maj7	E-	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+1G7b13	G	7b13	mi	M3	dom	4.0000
+=	=	=	=	=	=	=
+2F:min7(F:min7)	F	min7	re	m7	min7	2.0000
+2C7b13	C	7b13	la	P5	dom	2.0000
+=	=	=	=	=	=	=
+2F:min7(C7b13)	F	min7	re	P4	min7	2.0000
+2C7b13	C	7b13	la	P5	dom	2.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+1B-7	B-	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1Gh7(B-:min7)	G	h7	mi	M6	half	4.0000
+=	=	=	=	=	=	=
+2C7b9(Gh7)	C	7b9	la	P4	dom	2.0000
+2C7b9(C7b9)	C	7b9	la	P1	dom	2.0000
+=	=	=	=	=	=	=
+1A-:maj7(F:min7)	A-	maj7	fa	m6	maj	4.0000
+=	=	=	=	=	=	=
+1G7b9	G	7b9	mi	M7	dom	4.0000
+=	=	=	=	=	=	=
+1C:min7	C	min7	la	P4	min7	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	re	P4	dom	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+2A-:min6	A-	min6	fa	m3	min	2.0000
+2B-7b9	B-	7b9	so	M2	dom	2.0000
+=	=	=	=	=	=	=
+1E-6	E-	6	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2F:min7	F	min7	re	M2	min7	2.0000
+2B-7	B-	7	so	P4	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

@@ -1,0 +1,65 @@
+!!!OTL: I've Got A Crush On You
+!!!COM: Gershwin, George
+!!!ODT: 1928
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*B-:	*B-:	*B-:	*B-:	*B-:	*B-:	*B-:
+2B-:maj7	B-	maj7	do	[B-]	maj	2.0000
+2D-o7	D-	o7	me	m3	dim	2.0000
+=	=	=	=	=	=	=
+2C:min7	C	min7	re	M7	min7	2.0000
+2F7	F	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2B-:maj7	B-	maj7	do	P4	maj	2.0000
+2D-o7	D-	o7	me	m3	dim	2.0000
+=	=	=	=	=	=	=
+2C:min7	C	min7	re	M7	min7	2.0000
+2F7	F	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2D:min7	D	min7	mi	M6	min7	2.0000
+2G:min7	G	min7	la	P4	min7	2.0000
+=	=	=	=	=	=	=
+1C7	C	7	re	P4	dom	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	re	P1	dom	4.0000
+=	=	=	=	=	=	=
+2C:min7	C	min7	re	P1	min7	2.0000
+2F7	F	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+2B-:maj7	B-	maj7	do	P4	maj	2.0000
+2D-o7	D-	o7	me	m3	dim	2.0000
+=	=	=	=	=	=	=
+2C:min7	C	min7	re	M7	min7	2.0000
+2F7	F	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2B-:maj7	B-	maj7	do	P4	maj	2.0000
+2D-o7	D-	o7	me	m3	dim	2.0000
+=	=	=	=	=	=	=
+2C:min7	C	min7	re	M7	min7	2.0000
+4E-:min7	E-	min7	fa	m3	min7	1.0000
+4A-7	A-	7	te	P4	dom	1.0000
+=	=	=	=	=	=	=
+2D:min7	D	min7	mi	A4	min7	2.0000
+2G:min7	G	min7	la	P4	min7	2.0000
+=	=	=	=	=	=	=
+1C7	C	7	re	P4	dom	4.0000
+=	=	=	=	=	=	=
+2B-/F	B-	.	do	m7	maj	2.0000
+2G:min7	G	min7	la	M6	min7	2.0000
+=	=	=	=	=	=	=
+2C7	C	7	re	P4	dom	2.0000
+2F7	F	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+1B-6	B-	6	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2C:min7	C	min7	re	M2	min7	2.0000
+2F7	F	7	so	P4	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

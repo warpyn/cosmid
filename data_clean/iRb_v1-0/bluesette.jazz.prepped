@@ -1,0 +1,60 @@
+!!!OTL: Bluesette
+!!!COM: Thielemans, Toots
+!!!ODT: 1962
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3	*M3/4
+*B-:	*B-:	*B-:	*B-:	*B-:	*B-:	*B-:
+2.B-:maj7	B-	maj7	do	[B-]	maj	3.0000
+=	=	=	=	=	=	=
+2.B-:maj7	B-	maj7	do	P1	maj	3.0000
+=	=	=	=	=	=	=
+2.Ah7	A	h7	ti	M7	half	3.0000
+=	=	=	=	=	=	=
+2.D7b9	D	7b9	mi	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.G:min7	G	min7	la	P4	min7	3.0000
+=	=	=	=	=	=	=
+2.C7b9	C	7b9	re	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.F:min7	F	min7	so	P4	min7	3.0000
+=	=	=	=	=	=	=
+2.B-7	B-	7	do	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.E-:maj7	E-	maj7	fa	P4	maj	3.0000
+=	=	=	=	=	=	=
+2.E-:maj7	E-	maj7	fa	P1	maj	3.0000
+=	=	=	=	=	=	=
+2.E-:min7	E-	min7	fa	P1	min7	3.0000
+=	=	=	=	=	=	=
+2.A-7	A-	7	te	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.D-:maj7	D-	maj7	me	P4	maj	3.0000
+=	=	=	=	=	=	=
+2.D-:maj7	D-	maj7	me	P1	maj	3.0000
+=	=	=	=	=	=	=
+2.C#:min7	C#	min7	ri	A7	min7	3.0000
+=	=	=	=	=	=	=
+2.F#7	F#	7	si	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.B:maj7	B	maj7	di	P4	maj	3.0000
+=	=	=	=	=	=	=
+2.B:maj7	B	maj7	di	P1	maj	3.0000
+=	=	=	=	=	=	=
+2.C:min7	C	min7	re	m2	min7	3.0000
+=	=	=	=	=	=	=
+2.F7	F	7	so	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.D:min7	D	min7	mi	M6	min7	3.0000
+=	=	=	=	=	=	=
+2.G7	G	7	la	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.C:min7	C	min7	re	P4	min7	3.0000
+=	=	=	=	=	=	=
+2.F7	F	7	so	P4	dom	3.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

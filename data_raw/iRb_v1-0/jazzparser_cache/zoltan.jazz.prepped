@@ -1,0 +1,84 @@
+!!!OTL: Zoltan
+!!!COM: Shaw, Woody
+!!!ODT: 1965
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*C:	*C:	*C:	*C:	*C:	*C:	*C:
+1C:maj7#11	C	maj7#11	do	[C]	maj	4.0000
+=	=	=	=	=	=	=
+1C:maj7#11	C	maj7#11	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1C:maj7#11	C	maj7#11	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1C:maj7#11	C	maj7#11	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1B-:maj7#11	B-	maj7#11	te	m7	maj	4.0000
+=	=	=	=	=	=	=
+1B-:maj7#11	B-	maj7#11	te	P1	maj	4.0000
+=	=	=	=	=	=	=
+1B-:maj7#11	B-	maj7#11	te	P1	maj	4.0000
+=	=	=	=	=	=	=
+1B-:maj7#11	B-	maj7#11	te	P1	maj	4.0000
+==	==	==	==	==	==	==
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*C:	*C:	*C:	*C:	*C:	*C:	*C:
+1C:maj7#11	C	maj7#11	do	M2	maj	4.0000
+=	=	=	=	=	=	=
+1C:maj7#11	C	maj7#11	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1C:maj7#11	C	maj7#11	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1C:maj7#11	C	maj7#11	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1B-:maj7#11	B-	maj7#11	te	m7	maj	4.0000
+=	=	=	=	=	=	=
+1B-:maj7#11	B-	maj7#11	te	P1	maj	4.0000
+=	=	=	=	=	=	=
+1B-:maj7#11	B-	maj7#11	te	P1	maj	4.0000
+=	=	=	=	=	=	=
+1B-:maj7#11	B-	maj7#11	te	P1	maj	4.0000
+==	==	==	==	==	==	==
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1G-:maj7#11	G-	maj7#11	se	m6	maj	4.0000
+=	=	=	=	=	=	=
+1G-:maj7#11	G-	maj7#11	se	P1	maj	4.0000
+=	=	=	=	=	=	=
+1G-:maj7#11	G-	maj7#11	se	P1	maj	4.0000
+=	=	=	=	=	=	=
+1F7#11	F	7#11	fa	M7	dom	4.0000
+=	=	=	=	=	=	=
+1E-:maj7#11	E-	maj7#11	me	m7	maj	4.0000
+=	=	=	=	=	=	=
+1E-:maj7#11	E-	maj7#11	me	P1	maj	4.0000
+=	=	=	=	=	=	=
+2E-:maj7#11	E-	maj7#11	me	P1	maj	2.0000
+2F:maj7#11	F	maj7#11	fa	M2	maj	2.0000
+=	=	=	=	=	=	=
+2A-:maj7#11	A-	maj7#11	le	m3	maj	2.0000
+2B-:maj7#11	B-	maj7#11	te	M2	maj	2.0000
+==	==	==	==	==	==	==
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
+1C:maj7#11	C	maj7#11	do	M2	maj	4.0000
+=	=	=	=	=	=	=
+1C:maj7#11	C	maj7#11	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1C:maj7#11	C	maj7#11	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1C:maj7#11	C	maj7#11	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1B-:maj7#11	B-	maj7#11	te	m7	maj	4.0000
+=	=	=	=	=	=	=
+1B-:maj7#11	B-	maj7#11	te	P1	maj	4.0000
+=	=	=	=	=	=	=
+1B-:maj7#11	B-	maj7#11	te	P1	maj	4.0000
+=	=	=	=	=	=	=
+1B-:maj7#11	B-	maj7#11	te	P1	maj	4.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

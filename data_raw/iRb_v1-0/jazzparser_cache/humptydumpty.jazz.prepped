@@ -1,0 +1,48 @@
+!!!OTL: Humpty Dumpty
+!!!COM: Corea, Chick
+!!!ODT: 1978
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*C:	*C:	*C:	*C:	*C:	*C:	*C:
+1E-:maj7	E-	maj7	me	[E-]	maj	4.0000
+=	=	=	=	=	=	=
+1D:maj7	D	maj7	re	M7	maj	4.0000
+=	=	=	=	=	=	=
+1G-:maj7	G-	maj7	se	d4	maj	4.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	fa	M7	maj	4.0000
+=	=	=	=	=	=	=
+1A7alt	A	7alt	la	M3	dom	4.0000
+=	=	=	=	=	=	=
+1B-:maj7	B-	maj7	te	m2	maj	4.0000
+=	=	=	=	=	=	=
+1B-:min7	B-	min7	te	P1	min7	4.0000
+=	=	=	=	=	=	=
+1B-:min7	B-	min7	te	P1	min7	4.0000
+=	=	=	=	=	=	=
+1B-:min7	B-	min7	te	P1	min7	4.0000
+=	=	=	=	=	=	=
+1B-:min7	B-	min7	te	P1	min7	4.0000
+==	==	==	==	==	==	==
+1D:min7	D	min7	re	M3	min7	4.0000
+=	=	=	=	=	=	=
+1B:min7	B	min7	ti	M6	min7	4.0000
+=	=	=	=	=	=	=
+1A-:min7	A-	min7	le	d7	min7	4.0000
+=	=	=	=	=	=	=
+1A-:min7	A-	min7	le	P1	min7	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	fa	M6	min7	4.0000
+=	=	=	=	=	=	=
+1A-:min7	A-	min7	le	m3	min7	4.0000
+=	=	=	=	=	=	=
+1G-:maj7	G-	maj7	se	m7	maj	4.0000
+=	=	=	=	=	=	=
+1B-7#5	B-	7#5	te	M3	dom	4.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

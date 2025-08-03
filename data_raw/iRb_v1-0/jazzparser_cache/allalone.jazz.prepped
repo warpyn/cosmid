@@ -1,0 +1,79 @@
+!!!OTL: All Alone
+!!!COM: Berlin, Irving
+!!!ODT: 1924
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3	*M3/4
+*F:	*F:	*F:	*F:	*F:	*F:	*F:
+2.F	F	.	do	[F]	maj	3.0000
+=	=	=	=	=	=	=
+2.F/C	F	.	do	P1	maj	3.0000
+=	=	=	=	=	=	=
+2.C7	C	7	so	P5	dom	3.0000
+=	=	=	=	=	=	=
+2.C7	C	7	so	P1	dom	3.0000
+=	=	=	=	=	=	=
+2.F	F	.	do	P4	maj	3.0000
+=	=	=	=	=	=	=
+2.C7#5	C	7#5	so	P5	dom	3.0000
+=	=	=	=	=	=	=
+2.F:maj7	F	maj7	do	P4	maj	3.0000
+=	=	=	=	=	=	=
+2.F6	F	6	do	P1	maj	3.0000
+=	=	=	=	=	=	=
+2.Eh7	E	h7	ti	M7	half	3.0000
+=	=	=	=	=	=	=
+2.A7b9	A	7b9	mi	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.D:min7	D	min7	la	P4	min7	3.0000
+=	=	=	=	=	=	=
+2.G7	G	7	re	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.A	A	.	mi	M2	maj	3.0000
+=	=	=	=	=	=	=
+2.E7	E	7	ti	P5	dom	3.0000
+=	=	=	=	=	=	=
+2.A	A	.	mi	P4	maj	3.0000
+=	=	=	=	=	=	=
+4.G:min7	G	min7	re	m7	min7	1.5000
+4.C7	C	7	so	P4	dom	1.5000
+=	=	=	=	=	=	=
+2.C:min7	C	min7	so	P1	min7	3.0000
+=	=	=	=	=	=	=
+2.F7	F	7	do	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.B-	B-	.	fa	P4	maj	3.0000
+=	=	=	=	=	=	=
+2.B-	B-	.	fa	P1	maj	3.0000
+=	=	=	=	=	=	=
+2.G7	G	7	re	M6	dom	3.0000
+=	=	=	=	=	=	=
+2.G7	G	7	re	P1	dom	3.0000
+=	=	=	=	=	=	=
+2.C7	C	7	so	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.C7#5	C	7#5	so	P1	dom	3.0000
+=	=	=	=	=	=	=
+2.F	F	.	do	P4	maj	3.0000
+=	=	=	=	=	=	=
+4.C:min7	C	min7	so	P5	min7	1.5000
+4.F7	F	7	do	P4	dom	1.5000
+=	=	=	=	=	=	=
+2.B-:maj7	B-	maj7	fa	P4	maj	3.0000
+=	=	=	=	=	=	=
+2.E-7	E-	7	te	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.F/C	F	.	do	M2	maj	3.0000
+=	=	=	=	=	=	=
+2.C7	C	7	so	P5	dom	3.0000
+=	=	=	=	=	=	=
+2.F	F	.	do	P4	maj	3.0000
+=	=	=	=	=	=	=
+4.G:min7	G	min7	re	M2	min7	1.5000
+4.C7	C	7	so	P4	dom	1.5000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

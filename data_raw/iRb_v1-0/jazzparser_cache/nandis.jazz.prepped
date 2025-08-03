@@ -1,0 +1,83 @@
+!!!OTL: Nandis
+!!!COM1: Davis, Miles
+!!!COM2: Evans, Bill
+!!!ODT: 1959
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*e:	*e:	*e:	*e:	*e:	*e:	*e:
+1E:min7	E	min7	do	[E]	min7	4.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	ra	m2	maj	4.0000
+=	=	=	=	=	=	=
+1B7	B	7	so	A4	dom	4.0000
+=	=	=	=	=	=	=
+1C:maj7	C	maj7	le	m2	maj	4.0000
+=	=	=	=	=	=	=
+1A:min7	A	min7	fa	M6	min7	4.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	ra	m6	maj	4.0000
+=	=	=	=	=	=	=
+1E:maj7	E	maj7	do	M7	maj	4.0000
+=	=	=	=	=	=	=
+1E:min7	E	min7	do	P1	min7	4.0000
+==	==	==	==	==	==	==
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*e:	*e:	*e:	*e:	*e:	*e:	*e:
+1E:min7	E	min7	do	P1	min7	4.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	ra	m2	maj	4.0000
+=	=	=	=	=	=	=
+1B7	B	7	so	A4	dom	4.0000
+=	=	=	=	=	=	=
+1C:maj7	C	maj7	le	m2	maj	4.0000
+=	=	=	=	=	=	=
+1A:min7	A	min7	fa	M6	min7	4.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	ra	m6	maj	4.0000
+=	=	=	=	=	=	=
+1E:maj7	E	maj7	do	M7	maj	4.0000
+=	=	=	=	=	=	=
+1E:min7	E	min7	do	P1	min7	4.0000
+==	==	==	==	==	==	==
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1A:min7	A	min7	fa	P4	min7	4.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	ra	m6	maj	4.0000
+=	=	=	=	=	=	=
+1A:min7	A	min7	fa	M3	min7	4.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	ra	m6	maj	4.0000
+=	=	=	=	=	=	=
+1D:min7	D	min7	te	M6	min7	4.0000
+=	=	=	=	=	=	=
+1G7	G	7	me	P4	dom	4.0000
+=	=	=	=	=	=	=
+1C:maj7	C	maj7	le	P4	maj	4.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	ra	P4	maj	4.0000
+=	=	=	=	=	=	=
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
+1E:min7	E	min7	do	M7	min7	4.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	ra	m2	maj	4.0000
+=	=	=	=	=	=	=
+1B7	B	7	so	A4	dom	4.0000
+=	=	=	=	=	=	=
+1C:maj7	C	maj7	le	m2	maj	4.0000
+=	=	=	=	=	=	=
+1A:min7	A	min7	fa	M6	min7	4.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	ra	m6	maj	4.0000
+=	=	=	=	=	=	=
+1E:maj7	E	maj7	do	M7	maj	4.0000
+=	=	=	=	=	=	=
+1E:min7	E	min7	do	P1	min7	4.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

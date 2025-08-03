@@ -1,0 +1,45 @@
+!!!OTL: Swinging Shepherd Blues, The
+!!!COM1: Roberts, Rhoda
+!!!COM2: Koffman, Moe
+!!!COM3: Jacobson, Kenny
+!!!ODT: 1958
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*B-:	*B-:	*B-:	*B-:	*B-:	*B-:	*B-:
+1B-6	B-	6	do	[B-]	maj	4.0000
+=	=	=	=	=	=	=
+1B-6	B-	6	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1B-6	B-	6	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1B-6	B-	6	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1E-7	E-	7	fa	P4	dom	4.0000
+=	=	=	=	=	=	=
+1E-7	E-	7	fa	P1	dom	4.0000
+=	=	=	=	=	=	=
+2B-7	B-	7	do	P5	dom	2.0000
+4C:min7	C	min7	re	M2	min7	1.0000
+4C#o	C#	o	ri	A1	dim	1.0000
+=	=	=	=	=	=	=
+2B-/D	B-	.	do	d7	maj	2.0000
+2G7#9	G	7#9	la	M6	dom	2.0000
+=	=	=	=	=	=	=
+1C:min7	C	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+2B-7	B-	7	do	P4	dom	2.0000
+4E-7	E-	7	fa	P4	dom	1.0000
+4G-7/E	G-	7	le	m3	dom	1.0000
+=	=	=	=	=	=	=
+2F7	F	7	so	M7	dom	2.0000
+2B-7	B-	7	do	P4	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!! Solos on B- blues
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

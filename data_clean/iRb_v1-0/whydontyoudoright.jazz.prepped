@@ -1,0 +1,47 @@
+!!!OTL: Why Don't You Do Right?
+!!!COM: McCoy, Kansas Joe
+!!!ODT: 1936
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*d:	*d:	*d:	*d:	*d:	*d:	*d:
+2D:min7	D	min7	do	[D]	min7	2.0000
+2Bh7	B	h7	la	M6	half	2.0000
+=	=	=	=	=	=	=
+2B-7	B-	7	le	d1	dom	2.0000
+2A7	A	7	so	M7	dom	2.0000
+=	=	=	=	=	=	=
+2D:min7	D	min7	do	P4	min7	2.0000
+2Bh7	B	h7	la	M6	half	2.0000
+=	=	=	=	=	=	=
+2B-7	B-	7	le	d1	dom	2.0000
+2A7	A	7	so	M7	dom	2.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	fa	m7	min7	4.0000
+=	=	=	=	=	=	=
+2G:min7	G	min7	fa	P1	min7	2.0000
+2A7	A	7	so	M2	dom	2.0000
+=	=	=	=	=	=	=
+2D:min7	D	min7	do	P4	min7	2.0000
+2Bh7	B	h7	la	M6	half	2.0000
+=	=	=	=	=	=	=
+2B-7	B-	7	le	d1	dom	2.0000
+2A7	A	7	so	M7	dom	2.0000
+=	=	=	=	=	=	=
+2B-7	B-	7	le	m2	dom	2.0000
+2A7	A	7	so	M7	dom	2.0000
+=	=	=	=	=	=	=
+2B-7	B-	7	le	m2	dom	2.0000
+2A7	A	7	so	M7	dom	2.0000
+=	=	=	=	=	=	=
+2D:min7	D	min7	do	P4	min7	2.0000
+2Bh7	B	h7	la	M6	half	2.0000
+=	=	=	=	=	=	=
+2B-7	B-	7	le	d1	dom	2.0000
+2A7	A	7	so	M7	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

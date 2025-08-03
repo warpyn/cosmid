@@ -1,0 +1,46 @@
+!!!OTL: Central Park West
+!!!COM: Coltrane, John
+!!!ODT: 1959
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*B:	*B:	*B:	*B:	*B:	*B:	*B:
+2B:maj7	B	maj7	do	[B]	maj	2.0000
+4E:min7	E	min7	fa	P4	min7	1.0000
+4A7	A	7	te	P4	dom	1.0000
+=	=	=	=	=	=	=
+2D:maj7	D	maj7	me	P4	maj	2.0000
+4B-:min7	B-	min7	de	m6	min7	1.0000
+4E-7	E-	7	fe	P4	dom	1.0000
+=	=	=	=	=	=	=
+2A-:maj7	A-	maj7	te	P4	maj	2.0000
+4G:min7	G	min7	le	M7	min7	1.0000
+4C7	C	7	ra	P4	dom	1.0000
+=	=	=	=	=	=	=
+2F:maj7	F	maj7	se	P4	maj	2.0000
+4C#:min7	C#	min7	re	A5	min7	1.0000
+4F#7	F#	7	so	P4	dom	1.0000
+=	=	=	=	=	=	=
+2B:maj7	B	maj7	do	P4	maj	2.0000
+4E:min7	E	min7	fa	P4	min7	1.0000
+4A7	A	7	te	P4	dom	1.0000
+=	=	=	=	=	=	=
+2D:maj7	D	maj7	me	P4	maj	2.0000
+4C#:min7	C#	min7	re	M7	min7	1.0000
+4F#7	F#	7	so	P4	dom	1.0000
+=	=	=	=	=	=	=
+1B:maj7	B	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+1C#:min7/B	C#	min7	re	M2	min7	4.0000
+=	=	=	=	=	=	=
+1B:maj7	B	maj7	do	m7	maj	4.0000
+=	=	=	=	=	=	=
+2C#:min7/B	C#	min7	re	M2	min7	2.0000
+4C#:min7	C#	min7	re	P1	min7	1.0000
+4F#7	F#	7	so	P4	dom	1.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

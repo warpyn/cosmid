@@ -1,0 +1,91 @@
+!!!OTL: That Old Feeling
+!!!COM: Fain, Sammy
+!!!LYR: Brown, Lew
+!!!ODT: 1937
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*C:	*C:	*C:	*C:	*C:	*C:	*C:
+1C69	C	69	do	[C]	maj	4.0000
+=	=	=	=	=	=	=
+1C69	C	69	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1Eh7	E	h7	mi	M3	half	4.0000
+=	=	=	=	=	=	=
+1A7	A	7	la	P4	dom	4.0000
+=	=	=	=	=	=	=
+2D:min7	D	min7	re	P4	min7	2.0000
+2D:min7(A7#5)	D	min7	re	P1	min7	2.0000
+=	=	=	=	=	=	=
+1D:min7	D	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+2F:min7(E-:min7)	F	min7	fa	m3	min7	2.0000
+2F:min7(A-7)	F	min7	fa	P1	min7	2.0000
+=	=	=	=	=	=	=
+2G7(D:min7)	G	7	so	M2	dom	2.0000
+2G7(E7)	G	7	so	P1	dom	2.0000
+=	=	=	=	=	=	=
+1A:min7	A	min7	la	M2	min7	4.0000
+=	=	=	=	=	=	=
+1E7#5	E	7#5	mi	P5	dom	4.0000
+=	=	=	=	=	=	=
+1Eh7	E	h7	mi	P1	half	4.0000
+=	=	=	=	=	=	=
+1A7	A	7	la	P4	dom	4.0000
+=	=	=	=	=	=	=
+1D7(A:min7)	D	7	re	P4	dom	4.0000
+=	=	=	=	=	=	=
+2A:min7(D7)	A	min7	la	P5	min7	2.0000
+2D7	D	7	re	P4	dom	2.0000
+=	=	=	=	=	=	=
+1A-7(D:min7)	A-	7	le	d5	dom	4.0000
+=	=	=	=	=	=	=
+2D:min7(G7)	D	min7	re	A4	min7	2.0000
+2G7	G	7	so	P4	dom	2.0000
+==	==	==	==	==	==	==
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1C69	C	69	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+1C69	C	69	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1Eh7	E	h7	mi	M3	half	4.0000
+=	=	=	=	=	=	=
+1A7	A	7	la	P4	dom	4.0000
+=	=	=	=	=	=	=
+2D:min7	D	min7	re	P4	min7	2.0000
+2D:min7(A7#5)	D	min7	re	P1	min7	2.0000
+=	=	=	=	=	=	=
+1D:min7	D	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1F7(Fh7)	F	7	fa	m3	dom	4.0000
+=	=	=	=	=	=	=
+1E7(B7)	E	7	mi	M7	dom	4.0000
+=	=	=	=	=	=	=
+2Eh7(F:min7)	E	h7	mi	P1	half	2.0000
+2Eh7(B-7)	E	h7	mi	P1	half	2.0000
+=	=	=	=	=	=	=
+2A7b9(Eh7)	A	7b9	la	P4	dom	2.0000
+2A7b9(A7b9)	A	7b9	la	P1	dom	2.0000
+=	=	=	=	=	=	=
+1D:min7	D	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+2F:min7	F	min7	fa	m3	min7	2.0000
+2B-7	B-	7	te	P4	dom	2.0000
+=	=	=	=	=	=	=
+2A:min7(C:maj7)	A	min7	la	M7	min7	2.0000
+2A:min7(B7)	A	min7	la	P1	min7	2.0000
+=	=	=	=	=	=	=
+2D7(B-7)	D	7	re	P4	dom	2.0000
+2D7(A7)	D	7	re	P1	dom	2.0000
+=	=	=	=	=	=	=
+2D:min7	D	min7	re	P1	min7	2.0000
+2G7	G	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+1C69	C	69	do	P4	maj	4.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

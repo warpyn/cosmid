@@ -1,0 +1,78 @@
+!!!OTL: Mirror, Mirror
+!!!COM: Chick, Corea
+!!!ODT: 1980
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3	*M3/4
+*C:	*C:	*C:	*C:	*C:	*C:	*C:
+2.C:maj7	C	maj7	do	[C]	maj	3.0000
+=	=	=	=	=	=	=
+2.E7alt	E	7alt	mi	M3	dom	3.0000
+=	=	=	=	=	=	=
+2.F:maj7	F	maj7	fa	m2	maj	3.0000
+=	=	=	=	=	=	=
+2.A7alt	A	7alt	la	M3	dom	3.0000
+=	=	=	=	=	=	=
+2.D:maj7	D	maj7	re	P4	maj	3.0000
+=	=	=	=	=	=	=
+2.F#7alt	F#	7alt	fi	M3	dom	3.0000
+=	=	=	=	=	=	=
+2.G:maj7	G	maj7	so	m2	maj	3.0000
+=	=	=	=	=	=	=
+2.B7alt	B	7alt	ti	M3	dom	3.0000
+==	==	==	==	==	==	==
+2.C:maj7	C	maj7	do	m2	maj	3.0000
+=	=	=	=	=	=	=
+2.B7#11	B	7#11	ti	M7	dom	3.0000
+=	=	=	=	=	=	=
+2.B:maj7	B	maj7	ti	P1	maj	3.0000
+=	=	=	=	=	=	=
+2.A:min7	A	min7	la	m7	min7	3.0000
+=	=	=	=	=	=	=
+2.F7	F	7	fa	m6	dom	3.0000
+=	=	=	=	=	=	=
+2.F#o7	F#	o7	fi	A1	dim	3.0000
+=	=	=	=	=	=	=
+2.C/G	C	.	do	d5	maj	3.0000
+=	=	=	=	=	=	=
+2.C7b9	C	7b9	do	P1	dom	3.0000
+==	==	==	==	==	==	==
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+2.B:maj7	B	maj7	ti	M7	maj	3.0000
+=	=	=	=	=	=	=
+2.E-7alt	E-	7alt	me	d4	dom	3.0000
+=	=	=	=	=	=	=
+2.E:maj7	E	maj7	mi	A1	maj	3.0000
+=	=	=	=	=	=	=
+2.A-7alt	A-	7alt	le	d4	dom	3.0000
+=	=	=	=	=	=	=
+2.G:maj7	G	maj7	so	M7	maj	3.0000
+=	=	=	=	=	=	=
+2.E:maj7	E	maj7	mi	M6	maj	3.0000
+=	=	=	=	=	=	=
+2.D-:maj7#11	D-	maj7#11	ra	d7	maj	3.0000
+=	=	=	=	=	=	=
+2.B-7	B-	7	te	M6	dom	3.0000
+=	=	=	=	=	=	=
+2.A7alt	A	7alt	la	M7	dom	3.0000
+=	=	=	=	=	=	=
+2.D:min7	D	min7	re	P4	min7	3.0000
+=	=	=	=	=	=	=
+2.G7	G	7	so	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.G#o7	G#	o7	si	A1	dim	3.0000
+=	=	=	=	=	=	=
+2.A:min7	A	min7	la	m2	min7	3.0000
+=	=	=	=	=	=	=
+2.D7#11	D	7#11	re	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.F:min11	F	min11	fa	m3	min7	3.0000
+=	=	=	=	=	=	=
+2.G7	G	7	so	M2	dom	3.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

@@ -1,0 +1,53 @@
+!!!OTL: El Gaucho
+!!!COM: Shorter, Wayne
+!!!ODT: 1965
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*F:	*F:	*F:	*F:	*F:	*F:	*F:
+1F:maj7	F	maj7	do	[F]	maj	4.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	te	m7	maj	4.0000
+=	=	=	=	=	=	=
+2D:min7	D	min7	la	M7	min7	2.0000
+2B-7	B-	7	fa	m6	dom	2.0000
+=	=	=	=	=	=	=
+2B7	B	7	fi	A1	dom	2.0000
+2E7#9#5	E	7#9#5	ti	P4	dom	2.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	do	m2	min7	4.0000
+=	=	=	=	=	=	=
+1G-:maj7	G-	maj7	ra	m2	maj	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	do	M7	min7	4.0000
+=	=	=	=	=	=	=
+2G-:maj7	G-	maj7	ra	m2	maj	2.0000
+2E-:maj7	E-	maj7	te	M6	maj	2.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	te	P1	maj	4.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	te	P1	maj	4.0000
+=	=	=	=	=	=	=
+1C:min7	C	min7	so	M6	min7	4.0000
+=	=	=	=	=	=	=
+2D:min7	D	min7	la	M2	min7	2.0000
+2G7	G	7	re	P4	dom	2.0000
+=	=	=	=	=	=	=
+1C:min7	C	min7	so	P4	min7	4.0000
+=	=	=	=	=	=	=
+2D:min7	D	min7	la	M2	min7	2.0000
+2E:min7	E	min7	ti	M2	min7	2.0000
+=	=	=	=	=	=	=
+1E:min7	E	min7	ti	P1	min7	4.0000
+=	=	=	=	=	=	=
+1E:min7	E	min7	ti	P1	min7	4.0000
+=	=	=	=	=	=	=
+1E:min7	E	min7	ti	P1	min7	4.0000
+=	=	=	=	=	=	=
+1E:min7	E	min7	ti	P1	min7	4.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

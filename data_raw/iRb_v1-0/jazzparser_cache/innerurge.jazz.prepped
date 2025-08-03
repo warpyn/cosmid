@@ -1,0 +1,61 @@
+!!!OTL: Inner Urge
+!!!COM: Henderson, Joe
+!!!ODT: 1965
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*G:	*G:	*G:	*G:	*G:	*G:	*G:
+1F#h7	F#	h7	ti	[F#]	half	4.0000
+=	=	=	=	=	=	=
+1F#h7	F#	h7	ti	P1	half	4.0000
+=	=	=	=	=	=	=
+1F#h7	F#	h7	ti	P1	half	4.0000
+=	=	=	=	=	=	=
+1F#h7	F#	h7	ti	P1	half	4.0000
+=	=	=	=	=	=	=
+1F:maj7#11	F	maj7#11	te	d1	maj	4.0000
+=	=	=	=	=	=	=
+1F:maj7#11	F	maj7#11	te	P1	maj	4.0000
+=	=	=	=	=	=	=
+1F:maj7#11	F	maj7#11	te	P1	maj	4.0000
+=	=	=	=	=	=	=
+1F:maj7#11	F	maj7#11	te	P1	maj	4.0000
+=	=	=	=	=	=	=
+1E-:maj7#11	E-	maj7#11	le	m7	maj	4.0000
+=	=	=	=	=	=	=
+1E-:maj7#11	E-	maj7#11	le	P1	maj	4.0000
+=	=	=	=	=	=	=
+1E-:maj7#11	E-	maj7#11	le	P1	maj	4.0000
+=	=	=	=	=	=	=
+1E-:maj7#11	E-	maj7#11	le	P1	maj	4.0000
+=	=	=	=	=	=	=
+1D-:maj7#11	D-	maj7#11	se	m7	maj	4.0000
+=	=	=	=	=	=	=
+1D-:maj7#11	D-	maj7#11	se	P1	maj	4.0000
+=	=	=	=	=	=	=
+1D-:maj7#11	D-	maj7#11	se	P1	maj	4.0000
+=	=	=	=	=	=	=
+1D-:maj7#11	D-	maj7#11	se	P1	maj	4.0000
+=	=	=	=	=	=	=
+1E:maj7#11	E	maj7#11	la	A2	maj	4.0000
+=	=	=	=	=	=	=
+1D-:maj7#11	D-	maj7#11	se	d7	maj	4.0000
+=	=	=	=	=	=	=
+1D:maj7#11	D	maj7#11	so	A1	maj	4.0000
+=	=	=	=	=	=	=
+1B:maj7#11	B	maj7#11	mi	M6	maj	4.0000
+=	=	=	=	=	=	=
+1C:maj7	C	maj7	fa	m2	maj	4.0000
+=	=	=	=	=	=	=
+1A:maj7	A	maj7	re	M6	maj	4.0000
+=	=	=	=	=	=	=
+1B-7	B-	7	me	m2	dom	4.0000
+=	=	=	=	=	=	=
+1G:maj7	G	maj7	do	M6	maj	4.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

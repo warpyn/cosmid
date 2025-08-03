@@ -1,0 +1,90 @@
+!!!OTL: Fever
+!!!COM1: Davenport, John (Otis Blackwell)
+!!!COM2: Cooley, Eddie
+!!!ODT: 1956
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*a:	*a:	*a:	*a:	*a:	*a:	*a:
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+1A:min	A	min	do	[A]	min	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P1	min	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P1	min	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P1	min	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P1	min	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P1	min	4.0000
+=	=	=	=	=	=	=
+1E7	E	7	so	P5	dom	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P4	min	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P1	min	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P1	min	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P1	min	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P1	min	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P1	min	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P1	min	4.0000
+*>ToCod	*>ToCod	*>ToCod	*>ToCod	*>ToCod	*>ToCod	*>ToCod
+=	=	=	=	=	=	=
+1E7	E	7	so	P5	dom	4.0000
+=	=	=	=	=	=	=
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+1A:min	A	min	do	P4	min	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P1	min	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P1	min	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P1	min	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P1	min	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P1	min	4.0000
+=	=	=	=	=	=	=
+1E7	E	7	so	P5	dom	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P4	min	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P1	min	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P1	min	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P1	min	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P1	min	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P1	min	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P1	min	4.0000
+*>Coda	*>Coda	*>Coda	*>Coda	*>Coda	*>Coda	*>Coda
+1E7	E	7	so	P5	dom	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P4	min	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P1	min	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P1	min	4.0000
+=	=	=	=	=	=	=
+1E7	E	7	so	P5	dom	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P4	min	4.0000
+=	=	=	=	=	=	=
+1E7	E	7	so	P5	dom	4.0000
+=	=	=	=	=	=	=
+1A:min;	A	min	do	P4	min	4.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

@@ -1,0 +1,68 @@
+!!!OTL: In The Wee Small Hours Of The Morning
+!!!COM: Mann, David
+!!!LYR: Hilliard, Bob
+!!!ODT: 1955
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*C:	*C:	*C:	*C:	*C:	*C:	*C:
+2C:maj7	C	maj7	do	[C]	maj	2.0000
+2C7	C	7	do	P1	dom	2.0000
+=	=	=	=	=	=	=
+2C6	C	6	do	P1	maj	2.0000
+2C+	C	+	do	P1	aug	2.0000
+=	=	=	=	=	=	=
+2C:maj7	C	maj7	do	P1	maj	2.0000
+2C+	C	+	do	P1	aug	2.0000
+=	=	=	=	=	=	=
+2D:min7	D	min7	re	M2	min7	2.0000
+2G7	G	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2D:min7	D	min7	re	P5	min7	2.0000
+2G7	G	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2Eh7	E	h7	mi	M6	half	2.0000
+2A7	A	7	la	P4	dom	2.0000
+=	=	=	=	=	=	=
+2F#h7	F#	h7	fi	M6	half	2.0000
+2B7	B	7	ti	P4	dom	2.0000
+=	=	=	=	=	=	=
+4E:min7	E	min7	mi	P4	min7	1.0000
+4A7	A	7	la	P4	dom	1.0000
+4D:min7	D	min7	re	P4	min7	1.0000
+4G7	G	7	so	P4	dom	1.0000
+=	=	=	=	=	=	=
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+2C:maj7	C	maj7	do	P4	maj	2.0000
+2C7	C	7	do	P1	dom	2.0000
+=	=	=	=	=	=	=
+2C6	C	6	do	P1	maj	2.0000
+2C+	C	+	do	P1	aug	2.0000
+=	=	=	=	=	=	=
+2C:maj7	C	maj7	do	P1	maj	2.0000
+2Eh7	E	h7	mi	M3	half	2.0000
+=	=	=	=	=	=	=
+1A7	A	7	la	P4	dom	4.0000
+=	=	=	=	=	=	=
+2D:min7	D	min7	re	P4	min7	2.0000
+2D#o7	D#	o7	ri	A1	dim	2.0000
+=	=	=	=	=	=	=
+2E:min7	E	min7	mi	m2	min7	2.0000
+2A7	A	7	la	P4	dom	2.0000
+=	=	=	=	=	=	=
+1D:min7	D	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+2A-7#11	A-	7#11	le	d5	dom	2.0000
+2G7	G	7	so	M7	dom	2.0000
+=	=	=	=	=	=	=
+1C6	C	6	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2D:min7	D	min7	re	M2	min7	2.0000
+2G7	G	7	so	P4	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

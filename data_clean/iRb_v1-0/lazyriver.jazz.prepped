@@ -1,0 +1,69 @@
+!!!OTL: Lazy River
+!!!COM: Carmichael, Hoagy
+!!!ODT: 1931
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*F:	*F:	*F:	*F:	*F:	*F:	*F:
+1D7	D	7	la	[D]	dom	4.0000
+=	=	=	=	=	=	=
+4D7	D	7	la	P1	dom	1.0000
+4D-7	D-	7	le	d1	dom	1.0000
+4C7	C	7	so	M7	dom	1.0000
+4F#o	F#	o	di	A4	dim	1.0000
+=	=	=	=	=	=	=
+1G7	G	7	re	m2	dom	4.0000
+=	=	=	=	=	=	=
+4G7	G	7	re	P1	dom	1.0000
+4A-7	A-	7	me	m2	dom	1.0000
+2G7	G	7	re	M7	dom	2.0000
+=	=	=	=	=	=	=
+1C7	C	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+4C7	C	7	so	P1	dom	1.0000
+4D-7	D-	7	le	m2	dom	1.0000
+2C7	C	7	so	M7	dom	2.0000
+=	=	=	=	=	=	=
+2F6	F	6	do	P4	maj	2.0000
+2C7	C	7	so	P5	dom	2.0000
+=	=	=	=	=	=	=
+1F6	F	6	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1D7	D	7	la	M6	dom	4.0000
+=	=	=	=	=	=	=
+4D7	D	7	la	P1	dom	1.0000
+4D-7	D-	7	le	d1	dom	1.0000
+4C7	C	7	so	M7	dom	1.0000
+4F#o	F#	o	di	A4	dim	1.0000
+=	=	=	=	=	=	=
+1G7	G	7	re	m2	dom	4.0000
+=	=	=	=	=	=	=
+4G7	G	7	re	P1	dom	1.0000
+4A-7	A-	7	me	m2	dom	1.0000
+2G7	G	7	re	M7	dom	2.0000
+=	=	=	=	=	=	=
+2B-6	B-	6	fa	m3	maj	2.0000
+2Bo7	B	o7	fi	A1	dim	2.0000
+=	=	=	=	=	=	=
+2F6/C	F	6	do	d5	maj	2.0000
+2D7	D	7	la	M6	dom	2.0000
+=	=	=	=	=	=	=
+2G7	G	7	re	P4	dom	2.0000
+2C7	C	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2F6	F	6	do	P4	maj	2.0000
+2D7	D	7	la	M6	dom	2.0000
+=	=	=	=	=	=	=
+2G7	G	7	re	P4	dom	2.0000
+2C7	C	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2F6	F	6	do	P4	maj	2.0000
+2A7	A	7	mi	M3	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

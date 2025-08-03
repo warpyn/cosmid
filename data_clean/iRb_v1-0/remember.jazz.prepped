@@ -1,0 +1,87 @@
+!!!OTL: Remember
+!!!COM: Berlin, Irving
+!!!ODT: 1925
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*A-:	*A-:	*A-:	*A-:	*A-:	*A-:	*A-:
+1D-7	D-	7	fa	[D-]	dom	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	mi	M7	dom	4.0000
+=	=	=	=	=	=	=
+1B7	B	7	ri	M7	dom	4.0000
+=	=	=	=	=	=	=
+1B-7	B-	7	re	d1	dom	4.0000
+=	=	=	=	=	=	=
+1B-:min7	B-	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1E-:min7b5	E-	min7b5	so	P4	half	4.0000
+=	=	=	=	=	=	=
+*>N1	*>N1	*>N1	*>N1	*>N1	*>N1	*>N1
+1A-:maj7	A-	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2E-:min7	E-	min7	so	P5	min7	2.0000
+2A-7	A-	7	do	P4	dom	2.0000
+==	==	==	==	==	==	==
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*A-:	*A-:	*A-:	*A-:	*A-:	*A-:	*A-:
+1D-7	D-	7	fa	P4	dom	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	mi	M7	dom	4.0000
+=	=	=	=	=	=	=
+1B7	B	7	ri	M7	dom	4.0000
+=	=	=	=	=	=	=
+1B-7	B-	7	re	d1	dom	4.0000
+=	=	=	=	=	=	=
+1B-:min7	B-	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1E-:min7b5	E-	min7b5	so	P4	half	4.0000
+=	=	=	=	=	=	=
+*>N2	*>N2	*>N2	*>N2	*>N2	*>N2	*>N2
+1A-:maj7	A-	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2E-:min7	E-	min7	so	P5	min7	2.0000
+2A-7	A-	7	do	P4	dom	2.0000
+==	==	==	==	==	==	==
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1D-:maj7	D-	maj7	fa	P4	maj	4.0000
+=	=	=	=	=	=	=
+1D-:maj7	D-	maj7	fa	P1	maj	4.0000
+=	=	=	=	=	=	=
+1D-:min7	D-	min7	fa	P1	min7	4.0000
+=	=	=	=	=	=	=
+1G-7	G-	7	te	P4	dom	4.0000
+=	=	=	=	=	=	=
+1A-:maj7	A-	maj7	do	M2	maj	4.0000
+=	=	=	=	=	=	=
+1A-:maj7	A-	maj7	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1G:min7b5	G	min7b5	ti	M7	half	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	mi	P4	dom	4.0000
+==	==	==	==	==	==	==
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
+1D-7	D-	7	fa	m2	dom	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	mi	M7	dom	4.0000
+=	=	=	=	=	=	=
+1B7	B	7	ri	M7	dom	4.0000
+=	=	=	=	=	=	=
+1B-7	B-	7	re	d1	dom	4.0000
+=	=	=	=	=	=	=
+1B-:min7	B-	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1E-:min7b5	E-	min7b5	so	P4	half	4.0000
+=	=	=	=	=	=	=
+1A-:maj7	A-	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2E-:min7	E-	min7	so	P5	min7	2.0000
+2A-7	A-	7	do	P4	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

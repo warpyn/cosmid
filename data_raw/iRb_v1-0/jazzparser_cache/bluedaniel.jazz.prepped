@@ -1,0 +1,55 @@
+!!!OTL: Blue Daniel
+!!!COM: Rosolino, Frank
+!!!ODT: 1978
+!! first performance I can find) - DS
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3	*M3/4
+*D:	*D:	*D:	*D:	*D:	*D:	*D:
+2.D6	D	6	do	[D]	maj	3.0000
+=	=	=	=	=	=	=
+2.C7	C	7	te	m7	dom	3.0000
+=	=	=	=	=	=	=
+2.B:min7	B	min7	la	M7	min7	3.0000
+=	=	=	=	=	=	=
+2.E7	E	7	re	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.B:min7	B	min7	la	P5	min7	3.0000
+=	=	=	=	=	=	=
+2.E7	E	7	re	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.B:min7	B	min7	la	P5	min7	3.0000
+=	=	=	=	=	=	=
+2.E7	E	7	re	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.G:min7	G	min7	fa	m3	min7	3.0000
+=	=	=	=	=	=	=
+2.C7	C	7	te	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.D:maj7	D	maj7	do	M2	maj	3.0000
+=	=	=	=	=	=	=
+2.C7	C	7	te	m7	dom	3.0000
+=	=	=	=	=	=	=
+2.E:min7	E	min7	re	M3	min7	3.0000
+=	=	=	=	=	=	=
+2.A7	A	7	so	P4	dom	3.0000
+=	=	=	=	=	=	=
+*>ToCod	*>ToCod	*>ToCod	*>ToCod	*>ToCod	*>ToCod	*>ToCod
+*>Coda	*>Coda	*>Coda	*>Coda	*>Coda	*>Coda	*>Coda
+4.D6	D	6	do	P4	maj	1.5000
+4.C7	C	7	te	m7	dom	1.5000
+=	=	=	=	=	=	=
+2.B:min7	B	min7	la	M7	min7	3.0000
+=	=	=	=	=	=	=
+2.E7	E	7	re	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.A7	A	7	so	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.D:maj7;	D	maj7	do	P4	maj	3.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

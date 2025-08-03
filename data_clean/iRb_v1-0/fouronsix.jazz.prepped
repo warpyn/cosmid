@@ -1,0 +1,52 @@
+!!!OTL: Four On Six
+!!!COM: Montgomery, Wes
+!!!ODT: 1960
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*g:	*g:	*g:	*g:	*g:	*g:	*g:
+1G:min7	G	min7	do	[G]	min7	4.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	do	P1	min7	4.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	do	P1	min7	4.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	do	P1	min7	4.0000
+=	=	=	=	=	=	=
+2C:min7	C	min7	fa	P4	min7	2.0000
+2F7	F	7	te	P4	dom	2.0000
+=	=	=	=	=	=	=
+2B-:min7	B-	min7	me	P4	min7	2.0000
+2E-7	E-	7	le	P4	dom	2.0000
+=	=	=	=	=	=	=
+2A:min7	A	min7	re	A4	min7	2.0000
+2D7	D	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2E-:min7	E-	min7	le	m2	min7	2.0000
+2A-7	A-	7	ra	P4	dom	2.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	do	M7	min7	4.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	do	P1	min7	4.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	do	P1	min7	4.0000
+=	=	=	=	=	=	=
+2C:min7	C	min7	fa	P4	min7	2.0000
+2F7	F	7	te	P4	dom	2.0000
+=	=	=	=	=	=	=
+2B-:maj7	B-	maj7	me	P4	maj	2.0000
+2G:min7	G	min7	do	M6	min7	2.0000
+=	=	=	=	=	=	=
+2E-7	E-	7	le	m6	dom	2.0000
+2D7	D	7	so	M7	dom	2.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	do	P4	min7	4.0000
+=	=	=	=	=	=	=
+2Ah7	A	h7	re	M2	half	2.0000
+2D7b9	D	7b9	so	P4	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

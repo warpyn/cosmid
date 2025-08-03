@@ -1,0 +1,46 @@
+!!!OTL: Lady Bird
+!!!COM: Dameron, Tadd
+!!!ODT: 1947
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*C:	*C:	*C:	*C:	*C:	*C:	*C:
+1C:maj7	C	maj7	do	[C]	maj	4.0000
+=	=	=	=	=	=	=
+1C:maj7	C	maj7	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	fa	P4	min7	4.0000
+=	=	=	=	=	=	=
+1B-7	B-	7	te	P4	dom	4.0000
+=	=	=	=	=	=	=
+1C:maj7	C	maj7	do	M2	maj	4.0000
+=	=	=	=	=	=	=
+1C:maj7	C	maj7	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1B-:min7	B-	min7	te	m7	min7	4.0000
+=	=	=	=	=	=	=
+1E-7	E-	7	me	P4	dom	4.0000
+=	=	=	=	=	=	=
+1A-:maj7	A-	maj7	le	P4	maj	4.0000
+=	=	=	=	=	=	=
+1A-:maj7	A-	maj7	le	P1	maj	4.0000
+=	=	=	=	=	=	=
+1A:min7	A	min7	la	A1	min7	4.0000
+=	=	=	=	=	=	=
+1D7	D	7	re	P4	dom	4.0000
+=	=	=	=	=	=	=
+1D:min7	D	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1G7	G	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+2C:maj7	C	maj7	do	P4	maj	2.0000
+2E-:maj7	E-	maj7	me	m3	maj	2.0000
+=	=	=	=	=	=	=
+2A-:maj7	A-	maj7	le	P4	maj	2.0000
+2D-:maj7	D-	maj7	ra	P4	maj	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

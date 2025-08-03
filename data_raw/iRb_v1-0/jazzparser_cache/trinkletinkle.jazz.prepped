@@ -1,0 +1,103 @@
+!!!OTL: Trinkle Tinkle
+!!!COM: Monk, Thelonious
+!!!ODT: 1952
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*E-:	*E-:	*E-:	*E-:	*E-:	*E-:	*E-:
+2B-:min7	B-	min7	so	[B-]	min7	2.0000
+2E-7	E-	7	do	P4	dom	2.0000
+=	=	=	=	=	=	=
+1A7#11	A	7#11	fi	A4	dom	4.0000
+=	=	=	=	=	=	=
+2A-7	A-	7	fa	d1	dom	2.0000
+2D-7	D-	7	te	P4	dom	2.0000
+=	=	=	=	=	=	=
+2F#7	F#	7	ri	A3	dom	2.0000
+2B7	B	7	si	P4	dom	2.0000
+=	=	=	=	=	=	=
+2E7	E	7	di	P4	dom	2.0000
+2F:min7	F	min7	re	m2	min7	2.0000
+=	=	=	=	=	=	=
+2B-7#5	B-	7#5	so	P4	dom	2.0000
+2E-:maj7	E-	maj7	do	P4	maj	2.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	do	P1	maj	4.0000
+==	==	==	==	==	==	==
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*E-:	*E-:	*E-:	*E-:	*E-:	*E-:	*E-:
+2B-:min7	B-	min7	so	P5	min7	2.0000
+2E-7	E-	7	do	P4	dom	2.0000
+=	=	=	=	=	=	=
+1A7#11	A	7#11	fi	A4	dom	4.0000
+=	=	=	=	=	=	=
+2A-7	A-	7	fa	d1	dom	2.0000
+2D-7	D-	7	te	P4	dom	2.0000
+=	=	=	=	=	=	=
+2F#7	F#	7	ri	A3	dom	2.0000
+2B7	B	7	si	P4	dom	2.0000
+=	=	=	=	=	=	=
+2E7	E	7	di	P4	dom	2.0000
+2F:min7	F	min7	re	m2	min7	2.0000
+=	=	=	=	=	=	=
+2B-7#5	B-	7#5	so	P4	dom	2.0000
+2E-:maj7	E-	maj7	do	P4	maj	2.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	do	P1	maj	4.0000
+==	==	==	==	==	==	==
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1B-:min7	B-	min7	so	P5	min7	4.0000
+=	=	=	=	=	=	=
+1E-7#11	E-	7#11	do	P4	dom	4.0000
+=	=	=	=	=	=	=
+1A-:maj7	A-	maj7	fa	P4	maj	4.0000
+=	=	=	=	=	=	=
+1Gh7(C7b9/G)	G	h7	mi	M7	half	4.0000
+=	=	=	=	=	=	=
+2C:min7	C	min7	la	P4	min7	2.0000
+2F7	F	7	re	P4	dom	2.0000
+=	=	=	=	=	=	=
+2A-7	A-	7	fa	m3	dom	2.0000
+2A7	A	7	fi	A1	dom	2.0000
+=	=	=	=	=	=	=
+2F#7	F#	7	ri	M6	dom	2.0000
+2B7	B	7	si	P4	dom	2.0000
+=	=	=	=	=	=	=
+2F:min7	F	min7	re	d5	min7	2.0000
+2B-7	B-	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
+2B-:min7	B-	min7	so	P1	min7	2.0000
+2E-7	E-	7	do	P4	dom	2.0000
+=	=	=	=	=	=	=
+1A7#11	A	7#11	fi	A4	dom	4.0000
+=	=	=	=	=	=	=
+2A-7	A-	7	fa	d1	dom	2.0000
+2D-7	D-	7	te	P4	dom	2.0000
+=	=	=	=	=	=	=
+2F#7	F#	7	ri	A3	dom	2.0000
+2B7	B	7	si	P4	dom	2.0000
+=	=	=	=	=	=	=
+2E7	E	7	di	P4	dom	2.0000
+2F:min7	F	min7	re	m2	min7	2.0000
+=	=	=	=	=	=	=
+2B-7#5	B-	7#5	so	P4	dom	2.0000
+2E-:maj7	E-	maj7	do	P4	maj	2.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	do	P1	maj	4.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!! The last bar of every A sectior car be a 2/4 bar
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze
+!!!AGN: Jazz Lead Sheets

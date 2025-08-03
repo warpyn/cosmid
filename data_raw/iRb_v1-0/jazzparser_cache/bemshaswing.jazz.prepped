@@ -1,0 +1,59 @@
+!!!OTL: Bemsha Swing
+!!!COM: Monk, Thelonious
+!!!ODT: 1952
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*C:	*C:	*C:	*C:	*C:	*C:	*C:
+2C	C	.	do	[C]	maj	2.0000
+2A7	A	7	la	M6	dom	2.0000
+=	=	=	=	=	=	=
+2A-7	A-	7	le	d1	dom	2.0000
+2D-7	D-	7	ra	P4	dom	2.0000
+=	=	=	=	=	=	=
+2C	C	.	do	M7	maj	2.0000
+2E-7	E-	7	me	m3	dom	2.0000
+=	=	=	=	=	=	=
+2D7	D	7	re	M7	dom	2.0000
+2D-7	D-	7	ra	d1	dom	2.0000
+=	=	=	=	=	=	=
+2C	C	.	do	M7	maj	2.0000
+2A7	A	7	la	M6	dom	2.0000
+=	=	=	=	=	=	=
+2A-7	A-	7	le	d1	dom	2.0000
+2D-7	D-	7	ra	P4	dom	2.0000
+=	=	=	=	=	=	=
+2C	C	.	do	M7	maj	2.0000
+2B-7	B-	7	te	m7	dom	2.0000
+=	=	=	=	=	=	=
+2A-7	A-	7	le	m7	dom	2.0000
+2G-7	G-	7	se	m7	dom	2.0000
+=	=	=	=	=	=	=
+2F	F	.	fa	M7	maj	2.0000
+2D7	D	7	re	M6	dom	2.0000
+=	=	=	=	=	=	=
+2D-7	D-	7	ra	d1	dom	2.0000
+2G-7	G-	7	se	P4	dom	2.0000
+=	=	=	=	=	=	=
+2F	F	.	fa	M7	maj	2.0000
+2A-7	A-	7	le	m3	dom	2.0000
+=	=	=	=	=	=	=
+2G7	G	7	so	M7	dom	2.0000
+2D-7	D-	7	ra	d5	dom	2.0000
+=	=	=	=	=	=	=
+2C	C	.	do	M7	maj	2.0000
+2A7	A	7	la	M6	dom	2.0000
+=	=	=	=	=	=	=
+2A-7	A-	7	le	d1	dom	2.0000
+2D-7	D-	7	ra	P4	dom	2.0000
+=	=	=	=	=	=	=
+2C	C	.	do	M7	maj	2.0000
+2D-:maj7	D-	maj7	ra	m2	maj	2.0000
+=	=	=	=	=	=	=
+1D-:maj7	D-	maj7	ra	P1	maj	4.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

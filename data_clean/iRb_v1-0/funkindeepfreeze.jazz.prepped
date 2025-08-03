@@ -1,0 +1,79 @@
+!!!OTL: Funk In Deep Freeze
+!!!COM: Mobley, Hank
+!!!ODT: 1957
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*f:	*f:	*f:	*f:	*f:	*f:	*f:
+1F:min7	F	min7	do	[F]	min7	4.0000
+=	=	=	=	=	=	=
+1D-7	D-	7	le	m6	dom	4.0000
+=	=	=	=	=	=	=
+2Gh7	G	h7	re	A4	half	2.0000
+2C7alt	C	7alt	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2F:min7	F	min7	do	P4	min7	2.0000
+2B7	B	7	fi	A4	dom	2.0000
+=	=	=	=	=	=	=
+2B-7	B-	7	fa	d1	dom	2.0000
+2E-7	E-	7	te	P4	dom	2.0000
+=	=	=	=	=	=	=
+2A-7	A-	7	me	P4	dom	2.0000
+2D-7	D-	7	le	P4	dom	2.0000
+=	=	=	=	=	=	=
+*>N1	*>N1	*>N1	*>N1	*>N1	*>N1	*>N1
+1Gh7	G	h7	re	A4	half	4.0000
+=	=	=	=	=	=	=
+1C7b9	C	7b9	so	P4	dom	4.0000
+==	==	==	==	==	==	==
+*>N2	*>N2	*>N2	*>N2	*>N2	*>N2	*>N2
+2Gh7	G	h7	re	P5	half	2.0000
+2C7alt	C	7alt	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+1F:min69	F	min69	do	P4	min	4.0000
+==	==	==	==	==	==	==
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1C:min7	C	min7	so	P5	min7	4.0000
+=	=	=	=	=	=	=
+1F7b9	F	7b9	do	P4	dom	4.0000
+=	=	=	=	=	=	=
+1B-:maj7	B-	maj7	fa	P4	maj	4.0000
+=	=	=	=	=	=	=
+1B-:maj7	B-	maj7	fa	P1	maj	4.0000
+=	=	=	=	=	=	=
+1E-:min7	E-	min7	te	P4	min7	4.0000
+=	=	=	=	=	=	=
+1A-7	A-	7	me	P4	dom	4.0000
+=	=	=	=	=	=	=
+1D-:maj7	D-	maj7	le	P4	maj	4.0000
+=	=	=	=	=	=	=
+1C7alt	C	7alt	so	M7	dom	4.0000
+==	==	==	==	==	==	==
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
+1F:min7	F	min7	do	P4	min7	4.0000
+=	=	=	=	=	=	=
+1D-7	D-	7	le	m6	dom	4.0000
+=	=	=	=	=	=	=
+2Gh7	G	h7	re	A4	half	2.0000
+2C7alt	C	7alt	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2F:min7	F	min7	do	P4	min7	2.0000
+2B7	B	7	fi	A4	dom	2.0000
+=	=	=	=	=	=	=
+2B-7	B-	7	fa	d1	dom	2.0000
+2E-7	E-	7	te	P4	dom	2.0000
+=	=	=	=	=	=	=
+2A-7	A-	7	me	P4	dom	2.0000
+2D-7	D-	7	le	P4	dom	2.0000
+=	=	=	=	=	=	=
+2Gh7	G	h7	re	A4	half	2.0000
+2C7alt	C	7alt	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+1F:min69	F	min69	do	P4	min	4.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

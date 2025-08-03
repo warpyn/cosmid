@@ -1,0 +1,93 @@
+!!!OTL: Along Came Betty
+!!!COM: Golson, Benny
+!!!ODT: 1958
+!! (Art Blakey recording seems to be the first)
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*A-:	*A-:	*A-:	*A-:	*A-:	*A-:	*A-:
+1B-:min7	B-	min7	re	[B-]	min7	4.0000
+=	=	=	=	=	=	=
+2B:min7	B	min7	ri	A1	min7	2.0000
+2E7	E	7	si	P4	dom	2.0000
+=	=	=	=	=	=	=
+1B-:min7	B-	min7	re	d5	min7	4.0000
+=	=	=	=	=	=	=
+2B:min7	B	min7	ri	A1	min7	2.0000
+2E7	E	7	si	P4	dom	2.0000
+=	=	=	=	=	=	=
+1A:maj7	A	maj7	di	P4	maj	4.0000
+=	=	=	=	=	=	=
+1A-7	A-	7	do	d1	dom	4.0000
+=	=	=	=	=	=	=
+1G:maj7	G	maj7	ti	M7	maj	4.0000
+=	=	=	=	=	=	=
+1G-7	G-	7	te	d1	dom	4.0000
+=	=	=	=	=	=	=
+1F#:min7	F#	min7	li	A7	min7	4.0000
+=	=	=	=	=	=	=
+2G:min7	G	min7	ti	m2	min7	2.0000
+2C7	C	7	mi	P4	dom	2.0000
+=	=	=	=	=	=	=
+1F#:min7	F#	min7	li	A4	min7	4.0000
+=	=	=	=	=	=	=
+2G:min7	G	min7	ti	m2	min7	2.0000
+2C7	C	7	mi	P4	dom	2.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	la	P4	maj	4.0000
+=	=	=	=	=	=	=
+1A7b9	A	7b9	di	M3	dom	4.0000
+=	=	=	=	=	=	=
+1D:min7	D	min7	fi	P4	min7	4.0000
+=	=	=	=	=	=	=
+1G7	G	7	ti	P4	dom	4.0000
+=	=	=	=	=	=	=
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1C:min7	C	min7	mi	P4	min7	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	la	P4	dom	4.0000
+=	=	=	=	=	=	=
+2Ah7	A	h7	di	M3	half	2.0000
+2D7b9	D	7b9	fi	P4	dom	2.0000
+=	=	=	=	=	=	=
+2G:min7	G	min7	ti	P4	min7	2.0000
+2G:min7/F	G	min7	ti	P1	min7	2.0000
+=	=	=	=	=	=	=
+1Eh7	E	h7	si	M6	half	4.0000
+=	=	=	=	=	=	=
+1A7b9	A	7b9	di	P4	dom	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	la	m6	min7	4.0000
+=	=	=	=	=	=	=
+1B-7	B-	7	re	P4	dom	4.0000
+=	=	=	=	=	=	=
+*>C	*>C	*>C	*>C	*>C	*>C	*>C
+1B-:min7	B-	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+2B:min7	B	min7	ri	A1	min7	2.0000
+2E7	E	7	si	P4	dom	2.0000
+=	=	=	=	=	=	=
+1B-:min7	B-	min7	re	d5	min7	4.0000
+=	=	=	=	=	=	=
+2B:min7	B	min7	ri	A1	min7	2.0000
+2E7	E	7	si	P4	dom	2.0000
+=	=	=	=	=	=	=
+1Ch7	C	h7	mi	m6	half	4.0000
+=	=	=	=	=	=	=
+1F7b13	F	7b13	la	P4	dom	4.0000
+=	=	=	=	=	=	=
+1B-h7	B-	h7	re	P4	half	4.0000
+=	=	=	=	=	=	=
+1E-7#9	E-	7#9	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1A-:maj7	A-	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2B:min7	B	min7	ri	A2	min7	2.0000
+2E7	E	7	si	P4	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

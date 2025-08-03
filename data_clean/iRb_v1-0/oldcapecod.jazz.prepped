@@ -1,0 +1,105 @@
+!!!OTL: Old Cape Cod
+!!!COM1: Rothrock, Claire
+!!!COM2: Yakus, Milton
+!!!COM3: Jeffrey, Allan
+!!!ODT: 1957
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*E-:	*E-:	*E-:	*E-:	*E-:	*E-:	*E-:
+1E-6	E-	6	do	[E-]	maj	4.0000
+=	=	=	=	=	=	=
+2B-:min7	B-	min7	so	P5	min7	2.0000
+2E-7	E-	7	do	P4	dom	2.0000
+=	=	=	=	=	=	=
+1A-:maj7	A-	maj7	fa	P4	maj	4.0000
+=	=	=	=	=	=	=
+1D-7	D-	7	te	P4	dom	4.0000
+=	=	=	=	=	=	=
+2E-:maj7	E-	maj7	do	M2	maj	2.0000
+2C7	C	7	la	M6	dom	2.0000
+=	=	=	=	=	=	=
+*>N1	*>N1	*>N1	*>N1	*>N1	*>N1	*>N1
+1F7	F	7	re	P4	dom	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1B-7	B-	7	so	P4	dom	4.0000
+==	==	==	==	==	==	==
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*E-:	*E-:	*E-:	*E-:	*E-:	*E-:	*E-:
+1E-6	E-	6	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2B-:min7	B-	min7	so	P5	min7	2.0000
+2E-7	E-	7	do	P4	dom	2.0000
+=	=	=	=	=	=	=
+1A-:maj7	A-	maj7	fa	P4	maj	4.0000
+=	=	=	=	=	=	=
+1D-7	D-	7	te	P4	dom	4.0000
+=	=	=	=	=	=	=
+2E-:maj7	E-	maj7	do	M2	maj	2.0000
+2C7	C	7	la	M6	dom	2.0000
+=	=	=	=	=	=	=
+*>N2	*>N2	*>N2	*>N2	*>N2	*>N2	*>N2
+2F7	F	7	re	P4	dom	2.0000
+2B-7	B-	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+1E-6	E-	6	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2B-:min7	B-	min7	so	P5	min7	2.0000
+2E-7	E-	7	do	P4	dom	2.0000
+==	==	==	==	==	==	==
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+2A-:maj7	A-	maj7	fa	P4	maj	2.0000
+2B-7	B-	7	so	M2	dom	2.0000
+=	=	=	=	=	=	=
+2G:min7	G	min7	mi	M6	min7	2.0000
+2C7b9	C	7b9	la	P4	dom	2.0000
+=	=	=	=	=	=	=
+2F:min7	F	min7	re	P4	min7	2.0000
+2B-7	B-	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2E-:maj7	E-	maj7	do	P4	maj	2.0000
+2E-7	E-	7	do	P1	dom	2.0000
+=	=	=	=	=	=	=
+2A-:maj7	A-	maj7	fa	P4	maj	2.0000
+2Ao7	A	o7	fi	A1	dim	2.0000
+=	=	=	=	=	=	=
+4E-^	E-	^	do	d5	maj	1.0000
+4D-6	D-	6	te	m7	maj	1.0000
+2C7	C	7	la	M7	dom	2.0000
+=	=	=	=	=	=	=
+2F:min7	F	min7	re	P4	min7	2.0000
+2F7	F	7	re	P1	dom	2.0000
+=	=	=	=	=	=	=
+2B-7	B-	7	so	P4	dom	2.0000
+2B-7#5	B-	7#5	so	P1	dom	2.0000
+==	==	==	==	==	==	==
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
+1E-6	E-	6	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2B-:min7	B-	min7	so	P5	min7	2.0000
+2E-7	E-	7	do	P4	dom	2.0000
+=	=	=	=	=	=	=
+1A-:maj7	A-	maj7	fa	P4	maj	4.0000
+=	=	=	=	=	=	=
+1D-7	D-	7	te	P4	dom	4.0000
+=	=	=	=	=	=	=
+2E-:maj7	E-	maj7	do	M2	maj	2.0000
+2C7	C	7	la	M6	dom	2.0000
+=	=	=	=	=	=	=
+2F7	F	7	re	P4	dom	2.0000
+2B-7	B-	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+1E-6	E-	6	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2F:min7	F	min7	re	M2	min7	2.0000
+2B-7	B-	7	so	P4	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

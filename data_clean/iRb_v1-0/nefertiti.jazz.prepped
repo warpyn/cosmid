@@ -1,0 +1,44 @@
+!!!OTL: Nefertiti
+!!!COM: Shorter, Wayne
+!!!ODT: 1968
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*A-:	*A-:	*A-:	*A-:	*A-:	*A-:	*A-:
+1A-:maj7	A-	maj7	do	[A-]	maj	4.0000
+=	=	=	=	=	=	=
+1D-:maj7(D-7sus)	D-	maj7	fa	P4	maj	4.0000
+=	=	=	=	=	=	=
+1Gh7	G	h7	ti	A4	half	4.0000
+=	=	=	=	=	=	=
+1C7b9	C	7b9	mi	P4	dom	4.0000
+=	=	=	=	=	=	=
+1B:maj7	B	maj7	ri	M7	maj	4.0000
+=	=	=	=	=	=	=
+1B:maj7#11	B	maj7#11	ri	P1	maj	4.0000
+=	=	=	=	=	=	=
+1B-h7	B-	h7	re	d1	half	4.0000
+=	=	=	=	=	=	=
+1E-7b9#11	E-	7b9#11	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1E:maj7	E	maj7	si	A1	maj	4.0000
+=	=	=	=	=	=	=
+1A9sus	A	9sus	di	P4	dom	4.0000
+=	=	=	=	=	=	=
+1D7alt/B-	D	7alt	fi	P4	dom	4.0000
+=	=	=	=	=	=	=
+1G-9sus	G-	9sus	te	d4	dom	4.0000
+=	=	=	=	=	=	=
+1E9sus	E	9sus	si	A6	dom	4.0000
+=	=	=	=	=	=	=
+1E-7#11	E-	7#11	so	d1	dom	4.0000
+=	=	=	=	=	=	=
+1B-:min:maj7	B-	min:maj7	re	P5	min	4.0000
+=	=	=	=	=	=	=
+1E-7#11	E-	7#11	so	P4	dom	4.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

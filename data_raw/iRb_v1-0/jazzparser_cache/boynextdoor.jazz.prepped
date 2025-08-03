@@ -1,0 +1,81 @@
+!!!OTL: Boy Next Door
+!!!COM1: Martin, Hugh
+!!!COM2: Blane, Ralph
+!!!ODT: 1944
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3	*M3/4
+*C:	*C:	*C:	*C:	*C:	*C:	*C:
+2.B-:maj7	B-	maj7	te	[B-]	maj	3.0000
+=	=	=	=	=	=	=
+2.G7	G	7	so	M6	dom	3.0000
+=	=	=	=	=	=	=
+2.C:min7	C	min7	do	P4	min7	3.0000
+=	=	=	=	=	=	=
+2.F7	F	7	fa	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.B-:maj7	B-	maj7	te	P4	maj	3.0000
+=	=	=	=	=	=	=
+2.G:min7	G	min7	so	M6	min7	3.0000
+=	=	=	=	=	=	=
+2.C7	C	7	do	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.C7	C	7	do	P1	dom	3.0000
+=	=	=	=	=	=	=
+2.C:min7	C	min7	do	P1	min7	3.0000
+=	=	=	=	=	=	=
+2.F7	F	7	fa	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.B-:maj7	B-	maj7	te	P4	maj	3.0000
+=	=	=	=	=	=	=
+2.G:min7	G	min7	so	M6	min7	3.0000
+=	=	=	=	=	=	=
+2.Eh7	E	h7	mi	M6	half	3.0000
+=	=	=	=	=	=	=
+2.A7b9	A	7b9	la	P4	dom	3.0000
+=	=	=	=	=	=	=
+4.D:min7	D	min7	re	P4	min7	1.5000
+4.D-7	D-	7	ra	d1	dom	1.5000
+=	=	=	=	=	=	=
+4.C:min7	C	min7	do	M7	min7	1.5000
+4.F7	F	7	fa	P4	dom	1.5000
+==	==	==	==	==	==	==
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+2.B-:maj7	B-	maj7	te	P4	maj	3.0000
+=	=	=	=	=	=	=
+2.G7	G	7	so	M6	dom	3.0000
+=	=	=	=	=	=	=
+2.C:min7	C	min7	do	P4	min7	3.0000
+=	=	=	=	=	=	=
+2.F7	F	7	fa	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.B-:maj7	B-	maj7	te	P4	maj	3.0000
+=	=	=	=	=	=	=
+2.G:min7	G	min7	so	M6	min7	3.0000
+=	=	=	=	=	=	=
+2.C7	C	7	do	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.F#7#5	F#	7#5	fi	A4	dom	3.0000
+=	=	=	=	=	=	=
+2.B-:maj7	B-	maj7	te	d4	maj	3.0000
+=	=	=	=	=	=	=
+2.B-:maj7	B-	maj7	te	P1	maj	3.0000
+=	=	=	=	=	=	=
+2.Eh7	E	h7	mi	A4	half	3.0000
+=	=	=	=	=	=	=
+2.C7	C	7	do	m6	dom	3.0000
+=	=	=	=	=	=	=
+2.G-7	G-	7	se	d5	dom	3.0000
+=	=	=	=	=	=	=
+2.F7	F	7	fa	M7	dom	3.0000
+=	=	=	=	=	=	=
+2.B-:maj7	B-	maj7	te	P4	maj	3.0000
+=	=	=	=	=	=	=
+2.B-:maj7	B-	maj7	te	P1	maj	3.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

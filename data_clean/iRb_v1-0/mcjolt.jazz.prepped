@@ -1,0 +1,57 @@
+!!!OTL: Mc Jolt
+!!!COM: Richie, Beirach
+!!!ODT: 1990
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*e-:	*e-:	*e-:	*e-:	*e-:	*e-:	*e-:
+1E:min7	E	min7	di	[E]	min7	4.0000
+=	=	=	=	=	=	=
+1E:min7	E	min7	di	P1	min7	4.0000
+=	=	=	=	=	=	=
+1E-:min7	E-	min7	do	d1	min7	4.0000
+=	=	=	=	=	=	=
+1E-:min7	E-	min7	do	P1	min7	4.0000
+=	=	=	=	=	=	=
+1B:maj7#11	B	maj7#11	si	A5	maj	4.0000
+=	=	=	=	=	=	=
+1B-:min11	B-	min11	so	d1	min7	4.0000
+=	=	=	=	=	=	=
+1D7sus	D	7sus	ti	M3	sus	4.0000
+=	=	=	=	=	=	=
+1D7#9	D	7#9	ti	P1	dom	4.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	mi	P4	min7	4.0000
+=	=	=	=	=	=	=
+1A7b9b13	A	7b9b13	fi	M2	dom	4.0000
+=	=	=	=	=	=	=
+1D:min7	D	min7	ti	P4	min7	4.0000
+=	=	=	=	=	=	=
+1F7sus	F	7sus	re	m3	sus	4.0000
+=	=	=	=	=	=	=
+1A-:min11	A-	min11	fa	m3	min7	4.0000
+=	=	=	=	=	=	=
+1B-7b9b13	B-	7b9b13	so	M2	dom	4.0000
+=	=	=	=	=	=	=
+1E-:min7	E-	min7	do	P4	min7	4.0000
+=	=	=	=	=	=	=
+1G-7sus	G-	7sus	me	m3	sus	4.0000
+==	==	==	==	==	==	==
+*>ToCod	*>ToCod	*>ToCod	*>ToCod	*>ToCod	*>ToCod	*>ToCod
+*>Coda	*>Coda	*>Coda	*>Coda	*>Coda	*>Coda	*>Coda
+!! Latin Feel (on out chorus only )
+1A-:min11	A-	min11	fa	M2	min7	4.0000
+=	=	=	=	=	=	=
+1B-7b9b13	B-	7b9b13	so	M2	dom	4.0000
+=	=	=	=	=	=	=
+1E-:min7	E-	min7	do	P4	min7	4.0000
+=	=	=	=	=	=	=
+1G-7sus	G-	7sus	me	m3	sus	4.0000
+!! repeat and fade
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

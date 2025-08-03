@@ -1,0 +1,63 @@
+!!!OTL: Gee Baby, Ain't I Good To You
+!!!COM: Redman, Don
+!!!ODT: 1929
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*E-:	*E-:	*E-:	*E-:	*E-:	*E-:	*E-:
+2C7	C	7	la	[C]	dom	2.0000
+2A-7	A-	7	fa	m6	dom	2.0000
+=	=	=	=	=	=	=
+2G7	G	7	mi	M7	dom	2.0000
+2C7	C	7	la	P4	dom	2.0000
+=	=	=	=	=	=	=
+2F7	F	7	re	P4	dom	2.0000
+2B-7	B-	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2E-6	E-	6	do	P4	maj	2.0000
+2G7	G	7	mi	M3	dom	2.0000
+=	=	=	=	=	=	=
+2C7	C	7	la	P4	dom	2.0000
+2A-7	A-	7	fa	m6	dom	2.0000
+=	=	=	=	=	=	=
+2G7	G	7	mi	M7	dom	2.0000
+2C7	C	7	la	P4	dom	2.0000
+=	=	=	=	=	=	=
+2F7	F	7	re	P4	dom	2.0000
+2B-7	B-	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2E-6	E-	6	do	P4	maj	2.0000
+2E-7	E-	7	do	P1	dom	2.0000
+==	==	==	==	==	==	==
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+2A-6	A-	6	fa	P4	maj	2.0000
+2Ao7	A	o7	fi	A1	dim	2.0000
+=	=	=	=	=	=	=
+2E-6/B-	E-	6	do	d5	maj	2.0000
+2E-7	E-	7	do	P1	dom	2.0000
+=	=	=	=	=	=	=
+2A-6	A-	6	fa	P4	maj	2.0000
+2Ao7	A	o7	fi	A1	dim	2.0000
+=	=	=	=	=	=	=
+2Dh7	D	h7	ti	P4	half	2.0000
+2G7	G	7	mi	P4	dom	2.0000
+=	=	=	=	=	=	=
+2C7	C	7	la	P4	dom	2.0000
+2A-7	A-	7	fa	m6	dom	2.0000
+=	=	=	=	=	=	=
+2G7	G	7	mi	M7	dom	2.0000
+2C7	C	7	la	P4	dom	2.0000
+=	=	=	=	=	=	=
+2F7	F	7	re	P4	dom	2.0000
+2B-7	B-	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2E-6	E-	6	do	P4	maj	2.0000
+4A-7	A-	7	fa	P4	dom	1.0000
+4G7	G	7	mi	M7	dom	1.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

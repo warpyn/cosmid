@@ -1,0 +1,60 @@
+!!!OTL: Simone
+!!!COM: Foster, Frank
+!!!ODT: 1968
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3	*M3/4
+*d:	*d:	*d:	*d:	*d:	*d:	*d:
+2.D:min7	D	min7	do	[D]	min7	3.0000
+=	=	=	=	=	=	=
+2.E:min7/A	E	min7	re	M2	min7	3.0000
+=	=	=	=	=	=	=
+2.D:min7	D	min7	do	m7	min7	3.0000
+=	=	=	=	=	=	=
+2.E-7#11	E-	7#11	ra	m2	dom	3.0000
+=	=	=	=	=	=	=
+2.D:min7	D	min7	do	M7	min7	3.0000
+=	=	=	=	=	=	=
+2.E:min7/A	E	min7	re	M2	min7	3.0000
+=	=	=	=	=	=	=
+2.A:min7	A	min7	so	P4	min7	3.0000
+=	=	=	=	=	=	=
+2.D7	D	7	do	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.G:min7	G	min7	fa	P4	min7	3.0000
+=	=	=	=	=	=	=
+2.A:min7	A	min7	so	M2	min7	3.0000
+=	=	=	=	=	=	=
+2.B-:min7	B-	min7	le	m2	min7	3.0000
+=	=	=	=	=	=	=
+2.E-7	E-	7	ra	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.D:min7	D	min7	do	M7	min7	3.0000
+=	=	=	=	=	=	=
+2.E:min7	E	min7	re	M2	min7	3.0000
+=	=	=	=	=	=	=
+2.F:maj7	F	maj7	me	m2	maj	3.0000
+=	=	=	=	=	=	=
+2.F#:min7	F#	min7	mi	A1	min7	3.0000
+=	=	=	=	=	=	=
+2.F:min7	F	min7	me	d1	min7	3.0000
+=	=	=	=	=	=	=
+2.B-7	B-	7	le	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.E:min7	E	min7	re	A4	min7	3.0000
+=	=	=	=	=	=	=
+2.A7	A	7	so	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.D:min7	D	min7	do	P4	min7	3.0000
+=	=	=	=	=	=	=
+2.E:min7/A	E	min7	re	M2	min7	3.0000
+=	=	=	=	=	=	=
+2.D:min7	D	min7	do	m7	min7	3.0000
+=	=	=	=	=	=	=
+2.E-7#11	E-	7#11	ra	m2	dom	3.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

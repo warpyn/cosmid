@@ -1,0 +1,81 @@
+!!!OTL: O Grande Amor
+!!!COM: Jobim, Antonio Carlos
+!!!ODT: 1963
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*a:	*a:	*a:	*a:	*a:	*a:	*a:
+1A:min	A	min	do	[A]	min	4.0000
+=	=	=	=	=	=	=
+1A-o7	A-	o7	de	d1	dim	4.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	te	M7	min7	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	me	P4	dom	4.0000
+=	=	=	=	=	=	=
+1Bh7	B	h7	re	M7	half	4.0000
+=	=	=	=	=	=	=
+1E7b9	E	7b9	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P4	min	4.0000
+=	=	=	=	=	=	=
+1A7b9	A	7b9	do	P1	dom	4.0000
+=	=	=	=	=	=	=
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1D:min7	D	min7	fa	P4	min7	4.0000
+=	=	=	=	=	=	=
+1G7	G	7	te	P4	dom	4.0000
+=	=	=	=	=	=	=
+1C:maj7	C	maj7	me	P4	maj	4.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	le	P4	maj	4.0000
+=	=	=	=	=	=	=
+1B-:maj7	B-	maj7	ra	P4	maj	4.0000
+=	=	=	=	=	=	=
+1B-:maj7	B-	maj7	ra	P1	maj	4.0000
+=	=	=	=	=	=	=
+1Bh7	B	h7	re	A1	half	4.0000
+=	=	=	=	=	=	=
+1E7b9	E	7b9	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
+1A:min	A	min	do	P4	min	4.0000
+=	=	=	=	=	=	=
+1A-o7	A-	o7	de	d1	dim	4.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	te	M7	min7	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	me	P4	dom	4.0000
+=	=	=	=	=	=	=
+1Bh7	B	h7	re	M7	half	4.0000
+=	=	=	=	=	=	=
+1E7b9	E	7b9	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1Eh7	E	h7	so	P1	half	4.0000
+=	=	=	=	=	=	=
+1A7b9	A	7b9	do	P4	dom	4.0000
+=	=	=	=	=	=	=
+*>C	*>C	*>C	*>C	*>C	*>C	*>C
+1D:min7	D	min7	fa	P4	min7	4.0000
+=	=	=	=	=	=	=
+1E-o7	E-	o7	se	m2	dim	4.0000
+=	=	=	=	=	=	=
+1C/E	C	.	me	M6	maj	4.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	le	P4	maj	4.0000
+=	=	=	=	=	=	=
+1B-:maj7	B-	maj7	ra	P4	maj	4.0000
+=	=	=	=	=	=	=
+2Bh7	B	h7	re	A1	half	2.0000
+2E7b9	E	7b9	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	P4	min	4.0000
+=	=	=	=	=	=	=
+1E7b9	E	7b9	so	P5	dom	4.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

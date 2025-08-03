@@ -1,0 +1,87 @@
+!!!OTL: Time On My Hands
+!!!COM: Youmans, Vincent
+!!!ODT: 1930
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*F:	*F:	*F:	*F:	*F:	*F:	*F:
+1F:maj7	F	maj7	do	[F]	maj	4.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1Bh7	B	h7	fi	A4	half	4.0000
+=	=	=	=	=	=	=
+1E7b9	E	7b9	ti	P4	dom	4.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	re	m3	min7	4.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+*>N1	*>N1	*>N1	*>N1	*>N1	*>N1	*>N1
+1C7	C	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	so	P1	dom	4.0000
+==	==	==	==	==	==	==
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*F:	*F:	*F:	*F:	*F:	*F:	*F:
+1F:maj7	F	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1Bh7	B	h7	fi	A4	half	4.0000
+=	=	=	=	=	=	=
+1E7b9	E	7b9	ti	P4	dom	4.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	re	m3	min7	4.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+*>N2	*>N2	*>N2	*>N2	*>N2	*>N2	*>N2
+1Eh7	E	h7	ti	M6	half	4.0000
+=	=	=	=	=	=	=
+1A7b9	A	7b9	mi	P4	dom	4.0000
+=	=	=	=	=	=	=
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1D7alt	D	7alt	la	P4	dom	4.0000
+=	=	=	=	=	=	=
+1D7alt	D	7alt	la	P1	dom	4.0000
+=	=	=	=	=	=	=
+1G7#11	G	7#11	re	P4	dom	4.0000
+=	=	=	=	=	=	=
+2G:min7	G	min7	re	P1	min7	2.0000
+2C7	C	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+1D:min7	D	min7	la	M2	min7	4.0000
+=	=	=	=	=	=	=
+1G7	G	7	re	P4	dom	4.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+*>C	*>C	*>C	*>C	*>C	*>C	*>C
+1F:maj7	F	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+1B-7#11	B-	7#11	fa	P4	dom	4.0000
+=	=	=	=	=	=	=
+1A7#9	A	7#9	mi	M7	dom	4.0000
+=	=	=	=	=	=	=
+1D7b13	D	7b13	la	P4	dom	4.0000
+=	=	=	=	=	=	=
+1G7#11	G	7#11	re	P4	dom	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+2F6	F	6	do	P4	maj	2.0000
+2D7	D	7	la	M6	dom	2.0000
+=	=	=	=	=	=	=
+2G:min7	G	min7	re	P4	min7	2.0000
+2C7	C	7	so	P4	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

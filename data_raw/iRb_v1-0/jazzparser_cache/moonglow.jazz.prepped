@@ -1,0 +1,100 @@
+!!!OTL: Moonglow
+!!!COM1: Hudson, Will
+!!!COM2: De Lange, Eddie
+!!!COM3: Mills, Irving
+!!!ODT: 1934
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*G:	*G:	*G:	*G:	*G:	*G:	*G:
+1C:maj7	C	maj7	fa	[C]	maj	4.0000
+=	=	=	=	=	=	=
+1F7#11	F	7#11	te	P4	dom	4.0000
+=	=	=	=	=	=	=
+2G6/B	G	6	do	M2	maj	2.0000
+2E:min7	E	min7	la	M6	min7	2.0000
+=	=	=	=	=	=	=
+1A7	A	7	re	P4	dom	4.0000
+=	=	=	=	=	=	=
+1A:min7	A	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1D7	D	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+2G6	G	6	do	P4	maj	2.0000
+2Go7	G	o7	do	P1	dim	2.0000
+=	=	=	=	=	=	=
+4Ah/G	A	h	re	M2	half	1.0000
+4Go	G	o	do	m7	dim	1.0000
+2G6	G	6	do	P1	maj	2.0000
+==	==	==	==	==	==	==
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*G:	*G:	*G:	*G:	*G:	*G:	*G:
+1C:maj7	C	maj7	fa	P4	maj	4.0000
+=	=	=	=	=	=	=
+1F7#11	F	7#11	te	P4	dom	4.0000
+=	=	=	=	=	=	=
+2G6/B	G	6	do	M2	maj	2.0000
+2E:min7	E	min7	la	M6	min7	2.0000
+=	=	=	=	=	=	=
+1A7	A	7	re	P4	dom	4.0000
+=	=	=	=	=	=	=
+1A:min7	A	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1D7	D	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+2G6	G	6	do	P4	maj	2.0000
+2Go7	G	o7	do	P1	dim	2.0000
+=	=	=	=	=	=	=
+4Ah/G	A	h	re	M2	half	1.0000
+4Go	G	o	do	m7	dim	1.0000
+2G6	G	6	do	P1	maj	2.0000
+==	==	==	==	==	==	==
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1G7	G	7	do	P1	dom	4.0000
+=	=	=	=	=	=	=
+2G7	G	7	do	P1	dom	2.0000
+4G-7	G-	7	de	d1	dom	1.0000
+4F7	F	7	te	M7	dom	1.0000
+=	=	=	=	=	=	=
+1E7	E	7	la	M7	dom	4.0000
+=	=	=	=	=	=	=
+1E7	E	7	la	P1	dom	4.0000
+=	=	=	=	=	=	=
+1A7	A	7	re	P4	dom	4.0000
+=	=	=	=	=	=	=
+1A7	A	7	re	P1	dom	4.0000
+=	=	=	=	=	=	=
+2D7	D	7	so	P4	dom	2.0000
+2E-7	E-	7	le	m2	dom	2.0000
+=	=	=	=	=	=	=
+2D7	D	7	so	M7	dom	2.0000
+2G7	G	7	do	P4	dom	2.0000
+==	==	==	==	==	==	==
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
+1C:maj7	C	maj7	fa	P4	maj	4.0000
+=	=	=	=	=	=	=
+1F7#11	F	7#11	te	P4	dom	4.0000
+=	=	=	=	=	=	=
+2G6/B	G	6	do	M2	maj	2.0000
+2E:min7	E	min7	la	M6	min7	2.0000
+=	=	=	=	=	=	=
+1A7	A	7	re	P4	dom	4.0000
+=	=	=	=	=	=	=
+1A:min7	A	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1D7	D	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+2G6	G	6	do	P4	maj	2.0000
+2Go7	G	o7	do	P1	dim	2.0000
+=	=	=	=	=	=	=
+4Ah/G	A	h	re	M2	half	1.0000
+4Go	G	o	do	m7	dim	1.0000
+2G6	G	6	do	P1	maj	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

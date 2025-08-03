@@ -1,0 +1,85 @@
+!!!OTL: Four
+!!!COM: Davis, Miles
+!!!ODT: 1954
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*E-:	*E-:	*E-:	*E-:	*E-:	*E-:	*E-:
+1E-:maj7	E-	maj7	do	[E-]	maj	4.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1E-:min7	E-	min7	do	P1	min7	4.0000
+=	=	=	=	=	=	=
+1A-7	A-	7	fa	P4	dom	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	M6	min7	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1A-:min7	A-	min7	fa	m3	min7	4.0000
+=	=	=	=	=	=	=
+1D-7	D-	7	te	P4	dom	4.0000
+=	=	=	=	=	=	=
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1E-:maj7/G	E-	maj7	do	M2	maj	4.0000
+=	=	=	=	=	=	=
+2F#:min7	F#	min7	ri	A2	min7	2.0000
+2B7	B	7	si	P4	dom	2.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	d5	min7	4.0000
+=	=	=	=	=	=	=
+1B-7	B-	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1E-:maj7/G	E-	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2F#:min7	F#	min7	ri	A2	min7	2.0000
+2B7	B	7	si	P4	dom	2.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	d5	min7	4.0000
+=	=	=	=	=	=	=
+1B-7	B-	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
+1E-:maj7	E-	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1E-:min7	E-	min7	do	P1	min7	4.0000
+=	=	=	=	=	=	=
+1A-7	A-	7	fa	P4	dom	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	M6	min7	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1A-:min7	A-	min7	fa	m3	min7	4.0000
+=	=	=	=	=	=	=
+1D-7	D-	7	te	P4	dom	4.0000
+=	=	=	=	=	=	=
+*>C	*>C	*>C	*>C	*>C	*>C	*>C
+1E-:maj7/G	E-	maj7	do	M2	maj	4.0000
+=	=	=	=	=	=	=
+2F#:min7	F#	min7	ri	A2	min7	2.0000
+2B7	B	7	si	P4	dom	2.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	d5	min7	4.0000
+=	=	=	=	=	=	=
+1B-7	B-	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+2G:min7	G	min7	mi	M6	min7	2.0000
+2G-:min7	G-	min7	me	d1	min7	2.0000
+=	=	=	=	=	=	=
+2F:min7	F	min7	re	M7	min7	2.0000
+2B-7	B-	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	do	P1	maj	4.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

@@ -1,0 +1,38 @@
+!!!OTL: Solar
+!!!COM: Davis, Miles
+!!!ODT: 1954
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*c:	*c:	*c:	*c:	*c:	*c:	*c:
+1C:min:maj7	C	min:maj7	do	[C]	min	4.0000
+=	=	=	=	=	=	=
+1C:min:maj7	C	min:maj7	do	P1	min	4.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	so	P5	min7	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	do	P4	dom	4.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	fa	P4	maj	4.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	fa	P1	maj	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	fa	P1	min7	4.0000
+=	=	=	=	=	=	=
+1B-7	B-	7	te	P4	dom	4.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	me	P4	maj	4.0000
+=	=	=	=	=	=	=
+2E-:min7	E-	min7	me	P1	min7	2.0000
+2A-7	A-	7	le	P4	dom	2.0000
+=	=	=	=	=	=	=
+1D-:maj7	D-	maj7	ra	P4	maj	4.0000
+=	=	=	=	=	=	=
+2Dh7	D	h7	re	A1	half	2.0000
+2G7b9	G	7b9	so	P4	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

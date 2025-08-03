@@ -1,0 +1,103 @@
+!!!OTL: Nice 'n Easy
+!!!COM1: Spence, Lew
+!!!COM2: Bergman, Alan
+!!!COM3: Keith, Mariyln
+!!!ODT: 1961
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*C:	*C:	*C:	*C:	*C:	*C:	*C:
+1C	C	.	do	[C]	maj	4.0000
+=	=	=	=	=	=	=
+1C+	C	+	do	P1	aug	4.0000
+=	=	=	=	=	=	=
+1C6	C	6	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	do	P1	dom	4.0000
+=	=	=	=	=	=	=
+1D:min7	D	min7	re	M2	min7	4.0000
+=	=	=	=	=	=	=
+2A7b13(Eh7)	A	7b13	la	P5	dom	2.0000
+2A7b13(A7#9)	A	7b13	la	P1	dom	2.0000
+=	=	=	=	=	=	=
+*>N1	*>N1	*>N1	*>N1	*>N1	*>N1	*>N1
+1D:min7	D	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+1G7	G	7	so	P4	dom	4.0000
+==	==	==	==	==	==	==
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*C:	*C:	*C:	*C:	*C:	*C:	*C:
+1C	C	.	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+1C+	C	+	do	P1	aug	4.0000
+=	=	=	=	=	=	=
+1C6	C	6	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	do	P1	dom	4.0000
+=	=	=	=	=	=	=
+1D:min7	D	min7	re	M2	min7	4.0000
+=	=	=	=	=	=	=
+2A7b13(Eh7)	A	7b13	la	P5	dom	2.0000
+2A7b13(A7#9)	A	7b13	la	P1	dom	2.0000
+=	=	=	=	=	=	=
+*>N2	*>N2	*>N2	*>N2	*>N2	*>N2	*>N2
+1D:min7	D	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+2Bh7	B	h7	ti	M6	half	2.0000
+2E7b9	E	7b9	mi	P4	dom	2.0000
+=	=	=	=	=	=	=
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1A:min7	A	min7	la	P4	min7	4.0000
+=	=	=	=	=	=	=
+1A:min:maj7/G#	A	min:maj7	la	P1	min	4.0000
+=	=	=	=	=	=	=
+2A:min/G	A	min	la	P1	min	2.0000
+2F:maj7	F	maj7	fa	m6	maj	2.0000
+=	=	=	=	=	=	=
+1E:min7	E	min7	mi	M7	min7	4.0000
+=	=	=	=	=	=	=
+1Eh7	E	h7	mi	P1	half	4.0000
+=	=	=	=	=	=	=
+1A7#9	A	7#9	la	P4	dom	4.0000
+=	=	=	=	=	=	=
+1A-7#11	A-	7#11	le	d1	dom	4.0000
+=	=	=	=	=	=	=
+2D:min7/G	D	min7	re	A4	min7	2.0000
+2G7	G	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
+1C	C	.	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+1C+	C	+	do	P1	aug	4.0000
+=	=	=	=	=	=	=
+1C6	C	6	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	do	P1	dom	4.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	fa	P4	maj	4.0000
+=	=	=	=	=	=	=
+1E7b9	E	7b9	mi	M7	dom	4.0000
+=	=	=	=	=	=	=
+1A:min7	A	min7	la	P4	min7	4.0000
+=	=	=	=	=	=	=
+2D7	D	7	re	P4	dom	2.0000
+2D#o7	D#	o7	ri	A1	dim	2.0000
+=	=	=	=	=	=	=
+2E:min7	E	min7	mi	m2	min7	2.0000
+2A:min7	A	min7	la	P4	min7	2.0000
+=	=	=	=	=	=	=
+2D:min7	D	min7	re	P4	min7	2.0000
+2G7	G	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+1C6	C	6	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2D:min7	D	min7	re	M2	min7	2.0000
+2G7	G	7	so	P4	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

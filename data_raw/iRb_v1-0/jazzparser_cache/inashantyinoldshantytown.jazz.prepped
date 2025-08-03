@@ -1,0 +1,83 @@
+!!!OTL: In A Shanty In Old Shanty Town
+!!!COM1: Little, Jack
+!!!COM2: Siras, John
+!!!ODT: 1932
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3	*M3/4
+*F:	*F:	*F:	*F:	*F:	*F:	*F:
+2.F:maj7	F	maj7	do	[F]	maj	3.0000
+=	=	=	=	=	=	=
+2.A7	A	7	mi	M3	dom	3.0000
+=	=	=	=	=	=	=
+2.D7	D	7	la	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.D7	D	7	la	P1	dom	3.0000
+=	=	=	=	=	=	=
+2.G7	G	7	re	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.F#7	F#	7	di	M7	dom	3.0000
+=	=	=	=	=	=	=
+2.G7	G	7	re	m2	dom	3.0000
+=	=	=	=	=	=	=
+2.G7	G	7	re	P1	dom	3.0000
+=	=	=	=	=	=	=
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+2.C7	C	7	so	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.C7	C	7	so	P1	dom	3.0000
+=	=	=	=	=	=	=
+2.F6	F	6	do	P4	maj	3.0000
+=	=	=	=	=	=	=
+4.F6	F	6	do	P1	maj	1.5000
+4.D7	D	7	la	M6	dom	1.5000
+=	=	=	=	=	=	=
+2.G7	G	7	re	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.G7	G	7	re	P1	dom	3.0000
+=	=	=	=	=	=	=
+2.G:min7	G	min7	re	P1	min7	3.0000
+=	=	=	=	=	=	=
+2.C7	C	7	so	P4	dom	3.0000
+=	=	=	=	=	=	=
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
+2.F:maj7	F	maj7	do	P4	maj	3.0000
+=	=	=	=	=	=	=
+2.A7	A	7	mi	M3	dom	3.0000
+=	=	=	=	=	=	=
+2.D7	D	7	la	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.D7	D	7	la	P1	dom	3.0000
+=	=	=	=	=	=	=
+2.G7	G	7	re	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.F#7	F#	7	di	M7	dom	3.0000
+=	=	=	=	=	=	=
+2.G7	G	7	re	m2	dom	3.0000
+=	=	=	=	=	=	=
+2.G7	G	7	re	P1	dom	3.0000
+=	=	=	=	=	=	=
+*>C	*>C	*>C	*>C	*>C	*>C	*>C
+2.B-6	B-	6	fa	m3	maj	3.0000
+=	=	=	=	=	=	=
+2.B-:min6	B-	min6	fa	P1	min	3.0000
+=	=	=	=	=	=	=
+4.F:maj7	F	maj7	do	P5	maj	1.5000
+4.A7	A	7	mi	M3	dom	1.5000
+=	=	=	=	=	=	=
+2.D7	D	7	la	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.G:min7	G	min7	re	P4	min7	3.0000
+=	=	=	=	=	=	=
+2.C7	C	7	so	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.F6	F	6	do	P4	maj	3.0000
+=	=	=	=	=	=	=
+2.C7	C	7	so	P5	dom	3.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

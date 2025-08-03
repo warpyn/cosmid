@@ -1,0 +1,60 @@
+!!!OTL: Backstage Sally
+!!!COM: Shorter, Wayne
+!!!ODT: 1961
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*f:	*f:	*f:	*f:	*f:	*f:	*f:
+2F:min6	F	min6	do	[F]	min	2.0000
+2D7#9	D	7#9	la	M6	dom	2.0000
+=	=	=	=	=	=	=
+2G7#5	G	7#5	re	P4	dom	2.0000
+2C7#9	C	7#9	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2E-:min7	E-	min7	te	m3	min7	2.0000
+2A-7	A-	7	me	P4	dom	2.0000
+=	=	=	=	=	=	=
+2C:min7	C	min7	so	M3	min7	2.0000
+2F7	F	7	do	P4	dom	2.0000
+=	=	=	=	=	=	=
+2B-:min6	B-	min6	fa	P4	min	2.0000
+2A-7	A-	7	me	m7	dom	2.0000
+=	=	=	=	=	=	=
+2G7#5	G	7#5	re	M7	dom	2.0000
+2G-7	G-	7	ra	d1	dom	2.0000
+=	=	=	=	=	=	=
+2F:min7	F	min7	do	M7	min7	2.0000
+2B-7	B-	7	fa	P4	dom	2.0000
+=	=	=	=	=	=	=
+2E-:min7	E-	min7	te	P4	min7	2.0000
+2A-7	A-	7	me	P4	dom	2.0000
+=	=	=	=	=	=	=
+2D7b9	D	7b9	la	A4	dom	2.0000
+2G7	G	7	re	P4	dom	2.0000
+=	=	=	=	=	=	=
+2C7#9	C	7#9	so	P4	dom	2.0000
+2F7	F	7	do	P4	dom	2.0000
+=	=	=	=	=	=	=
+2B-7#9	B-	7#9	fa	P4	dom	2.0000
+2E-7	E-	7	te	P4	dom	2.0000
+=	=	=	=	=	=	=
+2Gh7	G	h7	re	M3	half	2.0000
+2C7#5	C	7#5	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2F:min6	F	min6	do	P4	min	2.0000
+2D7#9	D	7#9	la	M6	dom	2.0000
+=	=	=	=	=	=	=
+2G7#5	G	7#5	re	P4	dom	2.0000
+2C7#9	C	7#9	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2F:min7	F	min7	do	P4	min7	2.0000
+2A-7	A-	7	me	m3	dom	2.0000
+=	=	=	=	=	=	=
+2D-^	D-	^	le	P4	maj	2.0000
+2G-7	G-	7	ra	P4	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

@@ -1,0 +1,83 @@
+!!!OTL: Donna Lee
+!!!COM: Charlie, Parker
+!! (Miles Davis claims he wrote it)
+!!!ODT: 1947
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*A-:	*A-:	*A-:	*A-:	*A-:	*A-:	*A-:
+1A-:maj7	A-	maj7	do	[A-]	maj	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	la	M6	dom	4.0000
+=	=	=	=	=	=	=
+1B-7	B-	7	re	P4	dom	4.0000
+=	=	=	=	=	=	=
+1B-7	B-	7	re	P1	dom	4.0000
+=	=	=	=	=	=	=
+1B-:min7	B-	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1E-7	E-	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1A-:maj7	A-	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2E-:min7	E-	min7	so	P5	min7	2.0000
+2A-7	A-	7	do	P4	dom	2.0000
+=	=	=	=	=	=	=
+1D-:maj7	D-	maj7	fa	P4	maj	4.0000
+=	=	=	=	=	=	=
+1G-7	G-	7	te	P4	dom	4.0000
+=	=	=	=	=	=	=
+1A-:maj7	A-	maj7	do	M2	maj	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	la	M6	dom	4.0000
+=	=	=	=	=	=	=
+1B-7	B-	7	re	P4	dom	4.0000
+=	=	=	=	=	=	=
+1B-7	B-	7	re	P1	dom	4.0000
+=	=	=	=	=	=	=
+1B-:min7	B-	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1E-7	E-	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1A-:maj7	A-	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	la	M6	dom	4.0000
+=	=	=	=	=	=	=
+1B-7	B-	7	re	P4	dom	4.0000
+=	=	=	=	=	=	=
+1B-7	B-	7	re	P1	dom	4.0000
+=	=	=	=	=	=	=
+1Gh7	G	h7	ti	M6	half	4.0000
+=	=	=	=	=	=	=
+1C7b9	C	7b9	mi	P4	dom	4.0000
+=	=	=	=	=	=	=
+1F:min	F	min	la	P4	min	4.0000
+=	=	=	=	=	=	=
+1C7b9	C	7b9	mi	P5	dom	4.0000
+=	=	=	=	=	=	=
+1F:min	F	min	la	P4	min	4.0000
+=	=	=	=	=	=	=
+1C7b9	C	7b9	mi	P5	dom	4.0000
+=	=	=	=	=	=	=
+1F:min	F	min	la	P4	min	4.0000
+=	=	=	=	=	=	=
+1Bo7	B	o7	ri	A4	dim	4.0000
+=	=	=	=	=	=	=
+2C:min7	C	min7	mi	m2	min7	2.0000
+2F7	F	7	la	P4	dom	2.0000
+=	=	=	=	=	=	=
+2B-:min7	B-	min7	re	P4	min7	2.0000
+2E-7	E-	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+1A-:maj7	A-	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2B-:min7	B-	min7	re	M2	min7	2.0000
+2E-7	E-	7	so	P4	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

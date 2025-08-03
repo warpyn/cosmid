@@ -1,0 +1,67 @@
+!!!OTL: Like Sonny
+!!!COM: Coltrane, John
+!!!ODT: 1960
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*E-:	*E-:	*E-:	*E-:	*E-:	*E-:	*E-:
+1D:min7	D	min7	ti	[D]	min7	4.0000
+=	=	=	=	=	=	=
+1D:min7	D	min7	ti	P1	min7	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	m3	min7	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1A-:min7	A-	min7	fa	m3	min7	4.0000
+=	=	=	=	=	=	=
+2A-:min7	A-	min7	fa	P1	min7	2.0000
+2B-7	B-	7	so	M2	dom	2.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1A:min7	A	min7	fi	A4	min7	4.0000
+=	=	=	=	=	=	=
+1A:min7	A	min7	fi	P1	min7	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	m6	min7	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1C#:min7	C#	min7	li	A5	min7	4.0000
+=	=	=	=	=	=	=
+2C#:min7	C#	min7	li	P1	min7	2.0000
+2F#7	F#	7	ri	P4	dom	2.0000
+=	=	=	=	=	=	=
+1B:maj7	B	maj7	si	P4	maj	4.0000
+=	=	=	=	=	=	=
+2E-:min7	E-	min7	do	d4	min7	2.0000
+2A-7	A-	7	fa	P4	dom	2.0000
+=	=	=	=	=	=	=
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
+1D:min7	D	min7	ti	A4	min7	4.0000
+=	=	=	=	=	=	=
+1D:min7	D	min7	ti	P1	min7	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	m3	min7	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1A-:min7	A-	min7	fa	m3	min7	4.0000
+=	=	=	=	=	=	=
+2A-:min7	A-	min7	fa	P1	min7	2.0000
+2B-7	B-	7	so	M2	dom	2.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	do	P1	maj	4.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

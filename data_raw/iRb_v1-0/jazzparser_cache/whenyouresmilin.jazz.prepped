@@ -1,0 +1,89 @@
+!!!OTL: When You're Smilin'
+!!!COM1: Shay, Larry
+!!!COM2: Fisher, Marc
+!!!COM3: Goodwin, Joe
+!!!ODT: 1928
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*C:	*C:	*C:	*C:	*C:	*C:	*C:
+1C6	C	6	do	[C]	maj	4.0000
+=	=	=	=	=	=	=
+1C6	C	6	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1C6	C	6	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1C6	C	6	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1E:min7	E	min7	mi	M3	min7	4.0000
+=	=	=	=	=	=	=
+1A7	A	7	la	P4	dom	4.0000
+=	=	=	=	=	=	=
+1D:min7	D	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+1G7	G	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1D:min7	D	min7	re	P5	min7	4.0000
+=	=	=	=	=	=	=
+1D:min7	D	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1D:min7	D	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1D:min7	D	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1G7	G	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+*	*	*7+*	*	*	*7aug*	*
+1G*7+*	G	=	so	P1	=	4.0000
+=	=	6	=	=	maj	=
+1C6	C	=	do	P4	=	4.0000
+=	=	6	=	=	maj	=
+1C6	C	==	do	P1	==	4.0000
+*	*	*>B	*	*	*>B	*
+==	==	7	==	==	dom	==
+*>B	*>B	*	*>B	*>B	*	*>B
+1C7	C	=	do	P1	=	4.0000
+=	=	7	=	=	dom	=
+1C7	C	=	do	P1	=	4.0000
+=	=	6	=	=	maj	=
+1F6	F	=	fa	P4	=	4.0000
+=	=	6	=	=	maj	=
+1F6	F	=	fa	P1	=	4.0000
+=	=	min7	=	=	min7	=
+1A:min7	A	=	la	M3	=	4.0000
+=	=	7	=	=	dom	=
+1D7	D	=	re	P4	=	4.0000
+=	=	min7	=	=	min7	=
+1D:min7	D	=	re	P1	=	4.0000
+=	=	7	=	=	dom	=
+1G7	G	=	so	P4	=	4.0000
+=	=	6	=	=	maj	=
+1C6	C	=	do	P4	=	4.0000
+=	=	6	=	=	maj	=
+1C6	C	=	do	P1	=	4.0000
+=	=	min7	=	=	min7	=
+1E:min7	E	=	mi	M3	=	4.0000
+=	=	7	=	=	dom	=
+1A7	A	=	la	P4	=	4.0000
+=	=	min7	=	=	min7	=
+1D:min7	D	=	re	P4	=	4.0000
+=	=	7	=	=	dom	=
+1G7	G	=	so	P4	=	4.0000
+=	=	6	=	=	maj	=
+1C6	C	=	do	P4	=	4.0000
+=	=	6	=	=	maj	=
+1C6	C	==	do	P1	==	4.0000
+*	*	*-	*	*	*-	*
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze
+!!!AGN: Jazz Lead Sheets
+!!!PPP: http://irealb.com/forums/showthread.php?1580-Jazz-1200-standards
+!!!PPP: http:
+==	==	.	==	==	maj	==
+*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze

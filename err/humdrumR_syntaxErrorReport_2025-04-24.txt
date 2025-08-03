@@ -1,0 +1,498 @@
+In file 'data_clean/iRb_v1-0/brightboy.jazz.prepped':
+	record 1
+		** and *- records in file are missing or don't add up
+
+	record 1
+		contains hanging white space
+
+	record 1
+		contains consecutive tabs
+
+	record 2
+		contains hanging white space
+
+	record 2
+		contains consecutive tabs
+
+
+In file 'data_clean/iRb_v1-0/milesahead.jazz.prepped':
+	record 65
+		mixes data, data, barline, data, data, and data tokens (1 E = m P = 4)
+
+	record 66
+		mixes barline and data tokens (= = h = = h =)
+
+	record 68
+		mixes data, data, barline, data, data, and data tokens (1 E = m P = 4)
+
+	record 70
+		mixes barline, data, and data tokens (= = 7 = = d =)
+
+	record 71
+		mixes data, data, barline, data, data, and data tokens (1 A = l P = 4)
+
+	record 72
+		mixes barline and data tokens (= = m = = m =)
+
+	record 73
+		mixes data, data, barline, data, data, and data tokens (1 D = r P = 4)
+
+	record 74
+		mixes barline, data, and data tokens (= = 7 = = d =)
+
+	record 75
+		mixes data, data, barline, data, data, and data tokens (1 G = s P = 4)
+
+	record 76
+		mixes barline, data, and data tokens (= = 7 = = d =)
+
+	record 77
+		mixes data, data, barline, data, data, and data tokens (1 D = r P = 4)
+
+	record 78
+		mixes barline, data, and data tokens (= = 7 = = d =)
+
+	record 79
+		mixes data, data, barline, data, data, and data tokens (1 G = s P = 4)
+
+	record 83
+		mixes barline and data tokens (= = m = = m =)
+
+	record 87
+		mixes data, data, barline, data, data, and data tokens (1 C = d P = 4)
+
+	record 88
+		mixes barline and data tokens (= = m = = m =)
+
+	record 89
+		mixes data, data, barline, data, data, and data tokens (1 C = d P = 4)
+
+	record 90
+		mixes barline and data tokens (= = m = = m =)
+
+	record 91
+		mixes data, data, barline, data, data, and data tokens (1 C = d P = 4)
+
+	record 92
+		mixes barline and data tokens (= = m = = m =)
+
+	record 93
+		mixes data, data, barline, data, data, and data tokens (1 C = d P = 4)
+
+	record 94
+		mixes barline and data tokens (= = m = = m =)
+
+	record 95
+		mixes data, data, barline, data, data, and data tokens (1 D = r M = 4)
+
+	record 96
+		mixes barline and data tokens (= = m = = m =)
+
+	record 97
+		mixes data, data, barline, data, data, and data tokens (1 G = s P = 4)
+
+	record 98
+		mixes barline and data tokens (= = m = = m =)
+
+	record 99
+		mixes data, data, barline, data, data, and data tokens (1 G = s P = 4)
+
+	record 100
+		mixes barline and data tokens (= = m = = m =)
+
+	record 101
+		mixes data, data, barline, data, data, and data tokens (1 G = s P = 4)
+
+	record 102
+		mixes barline and data tokens (= = m = = m =)
+
+	record 103
+		mixes data, data, barline, data, data, and data tokens (1 F = f m = 4)
+
+	record 104
+		mixes barline and data tokens (= = m = = m =)
+
+	record 105
+		mixes data, data, barline, data, data, and data tokens (1 F = f P = 4)
+
+	record 106
+		mixes barline and data tokens (= = m = = m =)
+
+	record 107
+		mixes data, data, barline, data, data, and data tokens (1 B = t P = 4)
+
+	record 108
+		mixes barline, data, and data tokens (= = 7 = = d =)
+
+	record 110
+		mixes data, data, barline, data, and data tokens (2 E = m P = 2)
+
+	record 111
+		mixes barline and data tokens (= = m = = m =)
+
+	record 113
+		mixes data, data, barline, data, and data tokens (2 A = l P = 2)
+
+	record 114
+		mixes barline and data tokens (= = h = = h =)
+
+	record 116
+		mixes data, data, barline, data, and data tokens (2 F = f d = 2)
+
+	record 117
+		mixes barline and data tokens (= = h = = h =)
+
+	record 118
+		mixes data, data, barline, data, data, and data tokens (1 E = m M = 4)
+
+	record 119
+		mixes barline, data, and data tokens (= = 7 = = d =)
+
+	record 120
+		mixes data, data, barline, data, data, and data tokens (1 A = l P = 4)
+
+	record 122
+		mixes barline and data tokens (= = m = = m =)
+
+	record 124
+		mixes data, data, barline, data, data, and data tokens (1 D = r P = 4)
+
+	record 125
+		mixes barline and data tokens (= = m = = m =)
+
+	record 126
+		mixes data, data, barline, data, data, and data tokens (1 D = r P = 4)
+
+	record 127
+		mixes barline and data tokens (= = m = = m =)
+
+	record 128
+		mixes data, data, barline, data, data, and data tokens (1 C = d m = 4)
+
+	record 129
+		mixes barline and data tokens (= = m = = m =)
+
+	record 130
+		mixes data, data, barline, data, data, and data tokens (1 C = d P = 4)
+
+	record 131
+		mixes barline and data tokens (= = m = = m =)
+
+	record 132
+		mixes data, data, barline, data, data, and data tokens (1 D = r M = 4)
+
+	record 133
+		mixes barline and data tokens (= = m = = m =)
+
+	record 134
+		mixes data, data, barline, data, data, and data tokens (1 G = s P = 4)
+
+	record 135
+		mixes barline and data tokens (= = m = = m =)
+
+	record 137
+		mixes data, data, barline, data, and data tokens (2 C = d P = 2)
+
+	record 138
+		mixes barline and data tokens (= = m = = m =)
+
+	record 139
+		mixes data, data, barline, data, data, and data tokens (1 F = f P = 4)
+
+	record 140
+		mixes barline and data tokens (= = h = = h =)
+
+	record 141
+		mixes data, data, barline, data, data, and data tokens (1 B = t A = 4)
+
+	record 146
+		mixes barline, data, and data tokens (= = 7 = = d =)
+
+	record 147
+		mixes data, data, barline, data, data, and data tokens (1 E = m P = 4)
+
+	record 173
+		drops two columns
+
+
+In file 'data_clean/iRb_v1-0/someday.jazz.prepped':
+	record 23
+		mixes data, data, barline, data, and data tokens (2 B = s P = 2)
+
+	record 24
+		mixes barline, data, and data tokens (= = 6 = = m =)
+
+	record 26
+		mixes data, data, barline, data, and data tokens (2 C = l M = 2)
+
+	record 27
+		mixes barline and data tokens (= = m = = m =)
+
+	record 29
+		mixes data, data, barline, data, and data tokens (2 C = l P = 2)
+
+	record 30
+		mixes barline, data, and data tokens (= = 7 = = d =)
+
+	record 31
+		mixes data, data, barline, data, data, and data tokens (1 C = l P = 4)
+
+	record 33
+		mixes barline and data tokens (= = m = = m =)
+
+	record 37
+		mixes data, data, barline, data, data, and data tokens (4 F = r P = 1)
+
+	record 38
+		mixes barline, data, and data tokens (= = 7 = = d =)
+
+	record 40
+		mixes data, data, barline, data, and data tokens (2 D = t m = 2)
+
+	record 41
+		mixes barline and data tokens (= = m = = m =)
+
+	record 42
+		mixes data, data, barline, data, data, and data tokens (1 G = m A = 4)
+
+	record 43
+		mixes barline and data tokens (= = m = = m =)
+
+	record 44
+		mixes data, data, barline, data, data, and data tokens (1 C = l P = 4)
+
+	record 45
+		mixes barline and data tokens (= = m = = m =)
+
+	record 48
+		mixes data, data, barline, data, data, and data tokens (4 F = r P = 1)
+
+	record 49
+		mixes barline, data, and data tokens (= = 7 = = d =)
+
+	record 50
+		mixes data, data, barline, data, data, and data tokens (1 B = s P = 4)
+
+	record 51
+		mixes barline, data, and data tokens (= = 6 = = m =)
+
+	record 55
+		mixes data, data, barline, data, data, and data tokens (4 G = m d = 1)
+
+	record 56
+		mixes barline, data, and data tokens (= = 7 = = d =)
+
+	record 58
+		mixes data, data, barline, data, and data tokens (2 E = d M = 2)
+
+	record 60
+		mixes barline, data, and data tokens (= = 6 = = m =)
+
+	record 63
+		mixes data, data, barline, data, and data tokens (2 E = d P = 2)
+
+	record 64
+		mixes barline and data tokens (= = m = = m =)
+
+	record 66
+		mixes data, data, barline, data, and data tokens (2 E = d m = 2)
+
+	record 67
+		mixes barline and data tokens (= = m = = m =)
+
+	record 69
+		mixes data, data, barline, data, and data tokens (2 D = t P = 2)
+
+	record 70
+		mixes barline and data tokens (= = m = = m =)
+
+	record 72
+		mixes data, data, barline, data, and data tokens (2 D = t P = 2)
+
+	record 73
+		mixes barline, data, and data tokens (= = 6 = = m =)
+
+	record 75
+		mixes data, data, barline, data, and data tokens (2 E = d m = 2)
+
+	record 77
+		mixes barline and data tokens (= = m = = m =)
+
+	record 78
+		mixes data, data, barline, data, and data tokens (2 E = d P = 2)
+
+	record 80
+		mixes barline, data, and data tokens (= = 7 = = d =)
+
+	record 81
+		mixes data, data, barline, data, and data tokens (2 G = m P = 2)
+
+	record 86
+		mixes barline, data, and data tokens (= = 7 = = d =)
+
+	record 88
+		mixes data, data, barline, data, and data tokens (2 F = r P = 2)
+
+	record 92
+		mixes barline and data tokens (= = m = = m =)
+
+	record 93
+		mixes data, data, barline, data, and data tokens (2 E = d P = 2)
+
+	record 97
+		mixes barline and data tokens (= = m = = m =)
+
+	record 98
+		mixes data, data, barline, data, and data tokens (2 F = r P = 2)
+
+	record 100
+		mixes barline, data, and data tokens (= = 7 = = d =)
+
+	record 101
+		mixes data, data, barline, data, and data tokens (2 F = r M = 2)
+
+	record 103
+		mixes barline and data tokens (= = m = = m =)
+
+	record 104
+		mixes data, data, barline, and data tokens (2 E = d d = 2)
+
+	record 106
+		mixes barline, data, and data tokens (= = 7 = = d =)
+
+	record 107
+		mixes data, data, barline, data, and data tokens (2 F = r m = 2)
+
+	record 116
+		drops two columns
+
+
+In file 'data_clean/iRb_v1-0/whenyouresmilin.jazz.prepped':
+	record 38
+		mixes data, data, barline, data, data, and data tokens (1 G = s P = 4)
+
+	record 39
+		mixes barline, data, and data tokens (= = 6 = = m =)
+
+	record 40
+		mixes data, data, barline, data, data, and data tokens (1 C = d P = 4)
+
+	record 41
+		mixes barline, data, and data tokens (= = 6 = = m =)
+
+	record 42
+		mixes data, data, barline, data, data, and data tokens (1 C = d P = 4)
+
+	record 44
+		mixes barline, data, and data tokens (= = 7 = = d =)
+
+	record 46
+		mixes data, data, barline, data, data, and data tokens (1 C = d P = 4)
+
+	record 47
+		mixes barline, data, and data tokens (= = 7 = = d =)
+
+	record 48
+		mixes data, data, barline, data, data, and data tokens (1 C = d P = 4)
+
+	record 49
+		mixes barline, data, and data tokens (= = 6 = = m =)
+
+	record 50
+		mixes data, data, barline, data, data, and data tokens (1 F = f P = 4)
+
+	record 51
+		mixes barline, data, and data tokens (= = 6 = = m =)
+
+	record 52
+		mixes data, data, barline, data, data, and data tokens (1 F = f P = 4)
+
+	record 53
+		mixes barline and data tokens (= = m = = m =)
+
+	record 54
+		mixes data, data, barline, data, data, and data tokens (1 A = l M = 4)
+
+	record 55
+		mixes barline, data, and data tokens (= = 7 = = d =)
+
+	record 56
+		mixes data, data, barline, data, data, and data tokens (1 D = r P = 4)
+
+	record 57
+		mixes barline and data tokens (= = m = = m =)
+
+	record 58
+		mixes data, data, barline, data, data, and data tokens (1 D = r P = 4)
+
+	record 59
+		mixes barline, data, and data tokens (= = 7 = = d =)
+
+	record 60
+		mixes data, data, barline, data, data, and data tokens (1 G = s P = 4)
+
+	record 61
+		mixes barline, data, and data tokens (= = 6 = = m =)
+
+	record 62
+		mixes data, data, barline, data, data, and data tokens (1 C = d P = 4)
+
+	record 63
+		mixes barline, data, and data tokens (= = 6 = = m =)
+
+	record 64
+		mixes data, data, barline, data, data, and data tokens (1 C = d P = 4)
+
+	record 65
+		mixes barline and data tokens (= = m = = m =)
+
+	record 66
+		mixes data, data, barline, data, data, and data tokens (1 E = m M = 4)
+
+	record 67
+		mixes barline, data, and data tokens (= = 7 = = d =)
+
+	record 68
+		mixes data, data, barline, data, data, and data tokens (1 A = l P = 4)
+
+	record 69
+		mixes barline and data tokens (= = m = = m =)
+
+	record 70
+		mixes data, data, barline, data, data, and data tokens (1 D = r P = 4)
+
+	record 71
+		mixes barline, data, and data tokens (= = 7 = = d =)
+
+	record 72
+		mixes data, data, barline, data, data, and data tokens (1 G = s P = 4)
+
+	record 73
+		mixes barline, data, and data tokens (= = 6 = = m =)
+
+	record 74
+		mixes data, data, barline, data, data, and data tokens (1 C = d P = 4)
+
+	record 75
+		mixes barline, data, and data tokens (= = 6 = = m =)
+
+	record 76
+		mixes data, data, barline, data, data, and data tokens (1 C = d P = 4)
+
+	record 85
+		mixes barline, data, and data tokens (= = . = = m =)
+
+	record 85
+		drops two columns
+
+
+In file 'data_clean/iRb_v1-0/lazyafternoon.jazz.prepped':
+	record 13
+		contains hanging white space
+
+
+In file 'data_clean/iRb_v1-0/conferenceofthebirds.jazz.prepped':
+	record 6
+		drops one column
+
+

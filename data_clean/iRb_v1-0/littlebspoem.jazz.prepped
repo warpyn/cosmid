@@ -1,0 +1,50 @@
+!!!OTL: Little B's Poem
+!!!COM: Hutcherson, Bobby
+!!!ODT: 1965
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3	*M3/4
+*f:	*f:	*f:	*f:	*f:	*f:	*f:
+2.G-:maj7#11	G-	maj7#11	ra	[G-]	maj	3.0000
+=	=	=	=	=	=	=
+2.F:min7	F	min7	do	M7	min7	3.0000
+=	=	=	=	=	=	=
+2.G-:maj7#11	G-	maj7#11	ra	m2	maj	3.0000
+=	=	=	=	=	=	=
+2.F:min7	F	min7	do	M7	min7	3.0000
+=	=	=	=	=	=	=
+2.E-:min7	E-	min7	te	m7	min7	3.0000
+=	=	=	=	=	=	=
+2.D-:maj7	D-	maj7	le	m7	maj	3.0000
+=	=	=	=	=	=	=
+2.E-:min7	E-	min7	te	M2	min7	3.0000
+=	=	=	=	=	=	=
+2.C7b9	C	7b9	so	M6	dom	3.0000
+=	=	=	=	=	=	=
+2.F:min7	F	min7	do	P4	min7	3.0000
+=	=	=	=	=	=	=
+4.F#:min7	F#	min7	di	A1	min7	1.5000
+4.B7	B	7	fi	P4	dom	1.5000
+=	=	=	=	=	=	=
+2.E:maj7	E	maj7	ti	P4	maj	3.0000
+=	=	=	=	=	=	=
+4.F:min7	F	min7	do	m2	min7	1.5000
+4.B-7	B-	7	fa	P4	dom	1.5000
+=	=	=	=	=	=	=
+2.E-:maj7	E-	maj7	te	P4	maj	3.0000
+=	=	=	=	=	=	=
+2.D-7#11	D-	7#11	le	m7	dom	3.0000
+=	=	=	=	=	=	=
+4C7	C	7	so	M7	dom	1.0000
+4C7/D	C	7	so	P1	dom	1.0000
+4C7/E	C	7	so	P1	dom	1.0000
+=	=	=	=	=	=	=
+4F:min7	F	min7	do	P4	min7	1.0000
+4F:min/G	F	min	do	P1	min	1.0000
+4F:min/A-	F	min	do	P1	min	1.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

@@ -1,0 +1,84 @@
+!!!OTL: Autumn Leaves
+!!!COM: Kosma, Joseph
+!!!ODT: 1947
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*g:	*g:	*g:	*g:	*g:	*g:	*g:
+1C:min7	C	min7	fa	[C]	min7	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	te	P4	dom	4.0000
+=	=	=	=	=	=	=
+1B-:maj7	B-	maj7	me	P4	maj	4.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	le	P4	maj	4.0000
+=	=	=	=	=	=	=
+1Ah7	A	h7	re	A4	half	4.0000
+=	=	=	=	=	=	=
+1D7b13	D	7b13	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1G:min6	G	min6	do	P4	min	4.0000
+=	=	=	=	=	=	=
+1G:min6	G	min6	do	P1	min	4.0000
+==	==	==	==	==	==	==
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*g:	*g:	*g:	*g:	*g:	*g:	*g:
+1C:min7	C	min7	fa	P4	min7	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	te	P4	dom	4.0000
+=	=	=	=	=	=	=
+1B-:maj7	B-	maj7	me	P4	maj	4.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	le	P4	maj	4.0000
+=	=	=	=	=	=	=
+1Ah7	A	h7	re	A4	half	4.0000
+=	=	=	=	=	=	=
+1D7b13	D	7b13	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1G:min6	G	min6	do	P4	min	4.0000
+=	=	=	=	=	=	=
+1G:min6	G	min6	do	P1	min	4.0000
+==	==	==	==	==	==	==
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1Ah7	A	h7	re	M2	half	4.0000
+=	=	=	=	=	=	=
+1D7b13	D	7b13	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1G:min6	G	min6	do	P4	min	4.0000
+=	=	=	=	=	=	=
+1G:min6	G	min6	do	P1	min	4.0000
+=	=	=	=	=	=	=
+1C:min7	C	min7	fa	P4	min7	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	te	P4	dom	4.0000
+=	=	=	=	=	=	=
+1B-:maj7	B-	maj7	me	P4	maj	4.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	le	P4	maj	4.0000
+=	=	=	=	=	=	=
+*>C	*>C	*>C	*>C	*>C	*>C	*>C
+1Ah7	A	h7	re	A4	half	4.0000
+=	=	=	=	=	=	=
+1D7b13	D	7b13	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+2G:min7	G	min7	do	P4	min7	2.0000
+2G-7	G-	7	de	d1	dom	2.0000
+=	=	=	=	=	=	=
+2F:min7	F	min7	te	M7	min7	2.0000
+2E7	E	7	la	M7	dom	2.0000
+=	=	=	=	=	=	=
+1Ah7	A	h7	re	P4	half	4.0000
+=	=	=	=	=	=	=
+1D7b13	D	7b13	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1G:min6	G	min6	do	P4	min	4.0000
+=	=	=	=	=	=	=
+1G:min6	G	min6	do	P1	min	4.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

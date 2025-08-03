@@ -1,0 +1,80 @@
+!!!OTL: Someday My Prince Will Come
+!!!COM: Churchill, Frank
+!!!ODT: 1937
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3	*M3/4
+*B-:	*B-:	*B-:	*B-:	*B-:	*B-:	*B-:
+2.B-:maj7	B-	maj7	do	[B-]	maj	3.0000
+=	=	=	=	=	=	=
+2.D7#5	D	7#5	mi	M3	dom	3.0000
+=	=	=	=	=	=	=
+2.E-:maj7	E-	maj7	fa	m2	maj	3.0000
+=	=	=	=	=	=	=
+2.G7b9	G	7b9	la	M3	dom	3.0000
+=	=	=	=	=	=	=
+2.C:min7	C	min7	re	P4	min7	3.0000
+=	=	=	=	=	=	=
+2.G7b9	G	7b9	la	P5	dom	3.0000
+=	=	=	=	=	=	=
+2.C:min7	C	min7	re	P4	min7	3.0000
+=	=	=	=	=	=	=
+2.F7	F	7	so	P4	dom	3.0000
+=	=	=	=	=	=	=
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+2.D:min7	D	min7	mi	M6	min7	3.0000
+=	=	=	=	=	=	=
+2.C#o7	C#	o7	ri	M7	dim	3.0000
+=	=	=	=	=	=	=
+2.C:min7	C	min7	re	d1	min7	3.0000
+=	=	=	=	=	=	=
+2.F7	F	7	so	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.D:min7	D	min7	mi	M6	min7	3.0000
+=	=	=	=	=	=	=
+2.C#o7	C#	o7	ri	M7	dim	3.0000
+=	=	=	=	=	=	=
+2.C:min7	C	min7	re	d1	min7	3.0000
+=	=	=	=	=	=	=
+2.F7	F	7	so	P4	dom	3.0000
+=	=	=	=	=	=	=
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
+2.B-:maj7	B-	maj7	do	P4	maj	3.0000
+=	=	=	=	=	=	=
+2.D7#5	D	7#5	mi	M3	dom	3.0000
+=	=	=	=	=	=	=
+2.E-:maj7	E-	maj7	fa	m2	maj	3.0000
+=	=	=	=	=	=	=
+2.G7b9	G	7b9	la	M3	dom	3.0000
+=	=	=	=	=	=	=
+2.C:min7	C	min7	re	P4	min7	3.0000
+=	=	=	=	=	=	=
+2.G7b9	G	7b9	la	P5	dom	3.0000
+=	=	=	=	=	=	=
+2.C:min7	C	min7	re	P4	min7	3.0000
+=	=	=	=	=	=	=
+2.F7	F	7	so	P4	dom	3.0000
+=	=	=	=	=	=	=
+*>C	*>C	*>C	*>C	*>C	*>C	*>C
+2.F:min7	F	min7	so	P1	min7	3.0000
+=	=	=	=	=	=	=
+2.B-7	B-	7	do	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.E-:maj7	E-	maj7	fa	P4	maj	3.0000
+=	=	=	=	=	=	=
+2.Eo7	E	o7	fi	A1	dim	3.0000
+=	=	=	=	=	=	=
+2.B-:maj7/F	B-	maj7	do	d5	maj	3.0000
+=	=	=	=	=	=	=
+2.G7	G	7	la	M6	dom	3.0000
+=	=	=	=	=	=	=
+2.C:min7	C	min7	re	P4	min7	3.0000
+=	=	=	=	=	=	=
+2.F7	F	7	so	P4	dom	3.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

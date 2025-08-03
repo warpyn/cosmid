@@ -1,0 +1,60 @@
+!!!OTL: Summer Band Camp
+!!!COM: Goodrick, Mick
+!!!ODT: 1979
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*C:	*C:	*C:	*C:	*C:	*C:	*C:
+1C:maj7/G	C	maj7	do	[C]	maj	4.0000
+=	=	=	=	=	=	=
+1C:maj7/G	C	maj7	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1A-:maj7#11/G	A-	maj7#11	le	m6	maj	4.0000
+=	=	=	=	=	=	=
+1A-:maj7#11/G	A-	maj7#11	le	P1	maj	4.0000
+=	=	=	=	=	=	=
+1G-:maj7#11	G-	maj7#11	se	m7	maj	4.0000
+=	=	=	=	=	=	=
+1G-:maj7#11	G-	maj7#11	se	P1	maj	4.0000
+=	=	=	=	=	=	=
+1D:maj7#11/F#	D	maj7#11	re	A5	maj	4.0000
+=	=	=	=	=	=	=
+1D:maj7#11/F#	D	maj7#11	re	P1	maj	4.0000
+==	==	==	==	==	==	==
+1B-7/F	B-	7	te	m6	dom	4.0000
+=	=	=	=	=	=	=
+1B-7	B-	7	te	P1	dom	4.0000
+=	=	=	=	=	=	=
+1E:maj7#11/G#	E	maj7#11	mi	A4	maj	4.0000
+=	=	=	=	=	=	=
+1E:maj7#11/G#	E	maj7#11	mi	P1	maj	4.0000
+=	=	=	=	=	=	=
+1D-:maj7/A-	D-	maj7	ra	d7	maj	4.0000
+=	=	=	=	=	=	=
+1D-:maj7/A-	D-	maj7	ra	P1	maj	4.0000
+=	=	=	=	=	=	=
+1F7/A	F	7	fa	M3	dom	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	fa	P1	dom	4.0000
+=	=	=	=	=	=	=
+1B:maj7/B-	B	maj7	ti	A4	maj	4.0000
+=	=	=	=	=	=	=
+1B:maj7/B-	B	maj7	ti	P1	maj	4.0000
+=	=	=	=	=	=	=
+1G7sus	G	7sus	so	m6	sus	4.0000
+=	=	=	=	=	=	=
+1G7sus	G	7sus	so	P1	sus	4.0000
+=	=	=	=	=	=	=
+1E-:maj7/G	E-	maj7	me	m6	maj	4.0000
+=	=	=	=	=	=	=
+1E-:maj7/G	E-	maj7	me	P1	maj	4.0000
+=	=	=	=	=	=	=
+1A7/G	A	7	la	A4	dom	4.0000
+=	=	=	=	=	=	=
+1A7/G	A	7	la	P1	dom	4.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

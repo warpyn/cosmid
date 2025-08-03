@@ -1,0 +1,79 @@
+!!!OTL: House Of Jade
+!!!COM: Shorter, Wayne
+!!!ODT: 1964
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*c:	*c:	*c:	*c:	*c:	*c:	*c:
+2Dh7	D	h7	re	[D]	half	2.0000
+2D-:maj7	D-	maj7	ra	d1	maj	2.0000
+=	=	=	=	=	=	=
+2C:min7	C	min7	do	M7	min7	2.0000
+2D-7	D-	7	ra	m2	dom	2.0000
+=	=	=	=	=	=	=
+2E-7	E-	7	me	M2	dom	2.0000
+2F7	F	7	fa	M2	dom	2.0000
+=	=	=	=	=	=	=
+2D-7	D-	7	ra	m6	dom	2.0000
+2C:min7	C	min7	do	M7	min7	2.0000
+=	=	=	=	=	=	=
+2Dh7	D	h7	re	M2	half	2.0000
+2D-:maj7	D-	maj7	ra	d1	maj	2.0000
+=	=	=	=	=	=	=
+2C:min7	C	min7	do	M7	min7	2.0000
+2F7	F	7	fa	P4	dom	2.0000
+=	=	=	=	=	=	=
+2E-7	E-	7	me	m7	dom	2.0000
+2D9sus	D	9sus	re	M7	dom	2.0000
+=	=	=	=	=	=	=
+2D-7	D-	7	ra	d1	dom	2.0000
+2C:min7	C	min7	do	M7	min7	2.0000
+==	==	==	==	==	==	==
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1E-7sus	E-	7sus	me	m3	sus	4.0000
+=	=	=	=	=	=	=
+1E-7sus	E-	7sus	me	P1	sus	4.0000
+=	=	=	=	=	=	=
+1E-7sus	E-	7sus	me	P1	sus	4.0000
+=	=	=	=	=	=	=
+1E-7sus	E-	7sus	me	P1	sus	4.0000
+=	=	=	=	=	=	=
+1D7sus	D	7sus	re	M7	sus	4.0000
+=	=	=	=	=	=	=
+1D7sus	D	7sus	re	P1	sus	4.0000
+=	=	=	=	=	=	=
+1E:min7	E	min7	mi	M2	min7	4.0000
+=	=	=	=	=	=	=
+1E-7	E-	7	me	d1	dom	4.0000
+==	==	==	==	==	==	==
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
+2Dh7	D	h7	re	M7	half	2.0000
+2D-:maj7	D-	maj7	ra	d1	maj	2.0000
+=	=	=	=	=	=	=
+2C:min7	C	min7	do	M7	min7	2.0000
+2D-7	D-	7	ra	m2	dom	2.0000
+=	=	=	=	=	=	=
+2E-7	E-	7	me	M2	dom	2.0000
+2F7	F	7	fa	M2	dom	2.0000
+=	=	=	=	=	=	=
+2D-7	D-	7	ra	m6	dom	2.0000
+2C:min7	C	min7	do	M7	min7	2.0000
+=	=	=	=	=	=	=
+2Dh7	D	h7	re	M2	half	2.0000
+2D-:maj7	D-	maj7	ra	d1	maj	2.0000
+=	=	=	=	=	=	=
+2C:min7	C	min7	do	M7	min7	2.0000
+2F7	F	7	fa	P4	dom	2.0000
+=	=	=	=	=	=	=
+2E-7	E-	7	me	m7	dom	2.0000
+2D9sus	D	9sus	re	M7	dom	2.0000
+=	=	=	=	=	=	=
+2D-7	D-	7	ra	d1	dom	2.0000
+2C:min7	C	min7	do	M7	min7	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

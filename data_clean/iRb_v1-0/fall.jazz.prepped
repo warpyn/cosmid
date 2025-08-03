@@ -1,0 +1,47 @@
+!!!OTL: Fall
+!!!COM: Shorter, Wayne
+!!!ODT: 1967
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*e:	*e:	*e:	*e:	*e:	*e:	*e:
+1F#7susadd3	F#	7susadd3	re	[F#]	sus	4.0000
+=	=	=	=	=	=	=
+1B13b9	B	13b9	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1E7sus	E	7sus	do	P4	sus	4.0000
+=	=	=	=	=	=	=
+1E-:maj7#11	E-	maj7#11	de	d1	maj	4.0000
+=	=	=	=	=	=	=
+1F#7susadd3	F#	7susadd3	re	A2	sus	4.0000
+=	=	=	=	=	=	=
+1B13b9	B	13b9	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1E7sus	E	7sus	do	P4	sus	4.0000
+=	=	=	=	=	=	=
+1E-:maj7#11	E-	maj7#11	de	d1	maj	4.0000
+=	=	=	=	=	=	=
+1D:maj7	D	maj7	te	M7	maj	4.0000
+=	=	=	=	=	=	=
+1D13b9	D	13b9	te	P1	dom	4.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	me	P4	min7	4.0000
+=	=	=	=	=	=	=
+2B:min7	B	min7	so	M3	min7	2.0000
+2A-:maj7#11	A-	maj7#11	fe	d7	maj	2.0000
+=	=	=	=	=	=	=
+1F#7susadd3	F#	7susadd3	re	A6	sus	4.0000
+=	=	=	=	=	=	=
+1B13b9	B	13b9	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+2E:min7	E	min7	do	P4	min7	2.0000
+2C:maj7/B	C	maj7	le	m6	maj	2.0000
+=	=	=	=	=	=	=
+2E:min7	E	min7	do	M3	min7	2.0000
+2C:maj7/B	C	maj7	le	m6	maj	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

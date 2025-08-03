@@ -1,0 +1,84 @@
+!!!OTL: My Melancholy Baby
+!!!COM1: Burnett, Ernie
+!!!COM2: Norton, George
+!!!ODT: 1911
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*B-:	*B-:	*B-:	*B-:	*B-:	*B-:	*B-:
+1B-:maj7	B-	maj7	do	[B-]	maj	4.0000
+=	=	=	=	=	=	=
+1B-:maj7	B-	maj7	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1A-7	A-	7	te	m7	dom	4.0000
+=	=	=	=	=	=	=
+1G7	G	7	la	M7	dom	4.0000
+=	=	=	=	=	=	=
+1C:min7	C	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+1G9#5	G	9#5	la	P5	dom	4.0000
+=	=	=	=	=	=	=
+1C:min7	C	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+1G9#5	G	9#5	la	P5	dom	4.0000
+==	==	==	==	==	==	==
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1C:min7	C	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+1C:min7	C	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1G-o7	G-	o7	le	m2	dim	4.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	la	A1	min7	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	re	P4	dom	4.0000
+=	=	=	=	=	=	=
+1C:min7	C	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	so	P4	dom	4.0000
+==	==	==	==	==	==	==
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
+1B-:maj7	B-	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+1B-:maj7	B-	maj7	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1A-7	A-	7	te	m7	dom	4.0000
+=	=	=	=	=	=	=
+1G7	G	7	la	M7	dom	4.0000
+=	=	=	=	=	=	=
+1C:min7	C	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+1G9#5	G	9#5	la	P5	dom	4.0000
+=	=	=	=	=	=	=
+1C:min7	C	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+2F:min7	F	min7	so	P4	min7	2.0000
+2B-7	B-	7	do	P4	dom	2.0000
+==	==	==	==	==	==	==
+*>C	*>C	*>C	*>C	*>C	*>C	*>C
+1E-:maj7	E-	maj7	fa	P4	maj	4.0000
+=	=	=	=	=	=	=
+1Eo7	E	o7	fi	A1	dim	4.0000
+=	=	=	=	=	=	=
+1B-7	B-	7	do	d5	dom	4.0000
+=	=	=	=	=	=	=
+1G7	G	7	la	M6	dom	4.0000
+=	=	=	=	=	=	=
+1C:min7	C	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+2B-6	B-	6	do	P4	maj	2.0000
+2Bo7	B	o7	di	A1	dim	2.0000
+=	=	=	=	=	=	=
+2C:min7	C	min7	re	m2	min7	2.0000
+2F7	F	7	so	P4	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

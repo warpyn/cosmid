@@ -1,0 +1,87 @@
+!!!OTL: You're Nobody Till Somebody Loves You
+!!!COM1: Morgan, Russ
+!!!COM2: Stock, Larry
+!!!COM3: Cavanaugh, James
+!!!ODT: 1944
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*E-:	*E-:	*E-:	*E-:	*E-:	*E-:	*E-:
+1E-:maj7	E-	maj7	do	[E-]	maj	4.0000
+=	=	=	=	=	=	=
+1G7	G	7	mi	M3	dom	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	la	P4	dom	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	la	P1	dom	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+1B-7	B-	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1E-6	E-	6	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+1E-6	E-	6	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1G:min7	G	min7	mi	M3	min7	4.0000
+=	=	=	=	=	=	=
+1G-o7	G-	o7	me	d1	dim	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	M7	min7	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	la	P5	dom	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+2F:min7	F	min7	re	P1	min7	2.0000
+2B-7	B-	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+1E-6	E-	6	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2F:min7	F	min7	re	M2	min7	2.0000
+2B-7	B-	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
+1E-:maj7	E-	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+1G7	G	7	mi	M3	dom	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	la	P4	dom	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	la	P1	dom	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	la	P5	dom	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+*>C	*>C	*>C	*>C	*>C	*>C	*>C
+1A-:maj7	A-	maj7	fa	m3	maj	4.0000
+=	=	=	=	=	=	=
+1Ao7	A	o7	fi	A1	dim	4.0000
+=	=	=	=	=	=	=
+2E-:maj7/B-	E-	maj7	do	d5	maj	2.0000
+2G:min7	G	min7	mi	M3	min7	2.0000
+=	=	=	=	=	=	=
+1C7	C	7	la	P4	dom	4.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+2F:min7	F	min7	re	P1	min7	2.0000
+2B-7	B-	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+1E-6	E-	6	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2F:min7	F	min7	re	M2	min7	2.0000
+2B-7	B-	7	so	P4	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

@@ -1,0 +1,89 @@
+!!!OTL: Lamp Is Low, The
+!!!COM1: DeRose, Peter
+!!!COM2: Shefter, Bert
+!!!ODT: 1939
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*G:	*G:	*G:	*G:	*G:	*G:	*G:
+1A:min9(D13sus)	A	min9	re	[A]	min7	4.0000
+=	=	=	=	=	=	=
+1A:min9(D13sus)	A	min9	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1D13sus	D	13sus	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+2D13sus	D	13sus	so	P1	dom	2.0000
+2D7	D	7	so	P1	dom	2.0000
+=	=	=	=	=	=	=
+1G6	G	6	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+1C9	C	9	fa	P4	dom	4.0000
+=	=	=	=	=	=	=
+1B:min7	B	min7	mi	M7	min7	4.0000
+=	=	=	=	=	=	=
+1E7	E	7	la	P4	dom	4.0000
+==	==	==	==	==	==	==
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
+1A:min9(D13sus)	A	min9	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+1A:min9(D13sus)	A	min9	re	P1	min7	4.0000
+=	=	=	=	=	=	=
+1D13sus	D	13sus	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+2D13sus	D	13sus	so	P1	dom	2.0000
+2D7	D	7	so	P1	dom	2.0000
+=	=	=	=	=	=	=
+1G6	G	6	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+1C9	C	9	fa	P4	dom	4.0000
+=	=	=	=	=	=	=
+1G6	G	6	do	P5	maj	4.0000
+=	=	=	=	=	=	=
+1G6	G	6	do	P1	maj	4.0000
+==	==	==	==	==	==	==
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1D:min7	D	min7	so	P5	min7	4.0000
+=	=	=	=	=	=	=
+1D:min7	D	min7	so	P1	min7	4.0000
+=	=	=	=	=	=	=
+2G7sus	G	7sus	do	P4	sus	2.0000
+2G7	G	7	do	P1	dom	2.0000
+=	=	=	=	=	=	=
+1G9	G	9	do	P1	dom	4.0000
+=	=	=	=	=	=	=
+1C:maj7	C	maj7	fa	P4	maj	4.0000
+=	=	=	=	=	=	=
+1C:maj7	C	maj7	fa	P1	maj	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	te	P4	dom	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	te	P1	dom	4.0000
+==	==	==	==	==	==	==
+*>C	*>C	*>C	*>C	*>C	*>C	*>C
+1A13sus(D13u)	A	13sus	re	M3	dom	4.0000
+=	=	=	=	=	=	=
+1A13sus(D13u)	A	13sus	re	P1	dom	4.0000
+=	=	=	=	=	=	=
+1D13sus	D	13sus	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	fa	m7	dom	4.0000
+=	=	=	=	=	=	=
+1B:min11	B	min11	mi	M7	min7	4.0000
+=	=	=	=	=	=	=
+1E7	E	7	la	P4	dom	4.0000
+=	=	=	=	=	=	=
+1Ah7	A	h7	re	P4	half	4.0000
+=	=	=	=	=	=	=
+1D7b9	D	7b9	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1G6	G	6	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2B:min7	B	min7	mi	M3	min7	2.0000
+2E7	E	7	la	P4	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

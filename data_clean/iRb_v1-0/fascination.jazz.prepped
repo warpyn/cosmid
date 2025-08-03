@@ -1,0 +1,80 @@
+!!!OTL: Fascination
+!!!COM: Marchetti, Fernando Dante
+!!!ODT: 1932
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3	*M3/4
+*C:	*C:	*C:	*C:	*C:	*C:	*C:
+2.C6	C	6	do	[C]	maj	3.0000
+=	=	=	=	=	=	=
+2.E-o7	E-	o7	me	m3	dim	3.0000
+=	=	=	=	=	=	=
+2.C:maj7	C	maj7	do	M6	maj	3.0000
+=	=	=	=	=	=	=
+2.C:maj7	C	maj7	do	P1	maj	3.0000
+=	=	=	=	=	=	=
+2.C:maj7	C	maj7	do	P1	maj	3.0000
+=	=	=	=	=	=	=
+2.E-o7	E-	o7	me	m3	dim	3.0000
+=	=	=	=	=	=	=
+2.D:min7	D	min7	re	M7	min7	3.0000
+=	=	=	=	=	=	=
+2.G7	G	7	so	P4	dom	3.0000
+=	=	=	=	=	=	=
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+2.D:min7	D	min7	re	P5	min7	3.0000
+=	=	=	=	=	=	=
+2.D:min7	D	min7	re	P1	min7	3.0000
+=	=	=	=	=	=	=
+2.D:min7	D	min7	re	P1	min7	3.0000
+=	=	=	=	=	=	=
+2.D:min7	D	min7	re	P1	min7	3.0000
+=	=	=	=	=	=	=
+2.D:min7	D	min7	re	P1	min7	3.0000
+=	=	=	=	=	=	=
+2.D:min7	D	min7	re	P1	min7	3.0000
+=	=	=	=	=	=	=
+2.A-7	A-	7	le	d5	dom	3.0000
+=	=	=	=	=	=	=
+2.G7	G	7	so	M7	dom	3.0000
+=	=	=	=	=	=	=
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
+2.C6	C	6	do	P4	maj	3.0000
+=	=	=	=	=	=	=
+2.E-o7	E-	o7	me	m3	dim	3.0000
+=	=	=	=	=	=	=
+2.C:maj7	C	maj7	do	M6	maj	3.0000
+=	=	=	=	=	=	=
+2.C:maj7	C	maj7	do	P1	maj	3.0000
+=	=	=	=	=	=	=
+2.C:maj7	C	maj7	do	P1	maj	3.0000
+=	=	=	=	=	=	=
+2.E-o7	E-	o7	me	m3	dim	3.0000
+=	=	=	=	=	=	=
+2.D:min7	D	min7	re	M7	min7	3.0000
+=	=	=	=	=	=	=
+2.G7	G	7	so	P4	dom	3.0000
+=	=	=	=	=	=	=
+*>C	*>C	*>C	*>C	*>C	*>C	*>C
+2.D:min7	D	min7	re	P5	min7	3.0000
+=	=	=	=	=	=	=
+2.D:min7	D	min7	re	P1	min7	3.0000
+=	=	=	=	=	=	=
+2.G7	G	7	so	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.G7	G	7	so	P1	dom	3.0000
+=	=	=	=	=	=	=
+2.D:min7	D	min7	re	P5	min7	3.0000
+=	=	=	=	=	=	=
+2.G7	G	7	so	P4	dom	3.0000
+=	=	=	=	=	=	=
+2.C6	C	6	do	P4	maj	3.0000
+=	=	=	=	=	=	=
+2.G7sus	G	7sus	so	P5	sus	3.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

@@ -1,0 +1,81 @@
+!!!OTL: Summer Knows, The
+!!!COM: Legrand, Michel
+!!!ODT: 1971
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*f:	*f:	*f:	*f:	*f:	*f:	*f:
+1F:min	F	min	do	[F]	min	4.0000
+=	=	=	=	=	=	=
+1C7b9/E	C	7b9	so	P5	dom	4.0000
+=	=	=	=	=	=	=
+1F:min7/E-	F	min7	do	P4	min7	4.0000
+=	=	=	=	=	=	=
+1Dh7	D	h7	la	M6	half	4.0000
+=	=	=	=	=	=	=
+1B-:min7	B-	min7	fa	m6	min7	4.0000
+=	=	=	=	=	=	=
+1F7b9/A	F	7b9	do	P5	dom	4.0000
+=	=	=	=	=	=	=
+2B-:min7/A-	B-	min7	fa	P4	min7	2.0000
+2Gh7	G	h7	re	M6	half	2.0000
+=	=	=	=	=	=	=
+2C7b9sus	C	7b9sus	so	P4	dom	2.0000
+2C7b9	C	7b9	so	P1	dom	2.0000
+==	==	==	==	==	==	==
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1F:maj7	F	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+1B-:min6/F	B-	min6	fa	P4	min	4.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	do	P5	maj	4.0000
+=	=	=	=	=	=	=
+2C:min7/F	C	min7	so	P5	min7	2.0000
+2F7b9	F	7b9	do	P4	dom	2.0000
+=	=	=	=	=	=	=
+1B-:maj7	B-	maj7	fa	P4	maj	4.0000
+=	=	=	=	=	=	=
+2Bh7	B	h7	fi	A1	half	2.0000
+2E7b9	E	7b9	ti	P4	dom	2.0000
+=	=	=	=	=	=	=
+2A:maj7	A	maj7	mi	P4	maj	2.0000
+2E7b9	E	7b9	ti	P5	dom	2.0000
+=	=	=	=	=	=	=
+2A:maj7	A	maj7	mi	P4	maj	2.0000
+2E-7b9	E-	7b9	te	d5	dom	2.0000
+=	=	=	=	=	=	=
+2A-:maj7	A-	maj7	me	P4	maj	2.0000
+2E-7b9	E-	7b9	te	P5	dom	2.0000
+=	=	=	=	=	=	=
+2A-:maj7	A-	maj7	me	P4	maj	2.0000
+2D7b9	D	7b9	la	A4	dom	2.0000
+=	=	=	=	=	=	=
+1G:maj7	G	maj7	re	P4	maj	4.0000
+=	=	=	=	=	=	=
+2Gh7	G	h7	re	P1	half	2.0000
+2C7b9	C	7b9	so	P4	dom	2.0000
+==	==	==	==	==	==	==
+*>C	*>C	*>C	*>C	*>C	*>C	*>C
+1F:maj7/C	F	maj7	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+1B-:min6/C	B-	min6	fa	P4	min	4.0000
+=	=	=	=	=	=	=
+1F:maj7/C	F	maj7	do	P5	maj	4.0000
+=	=	=	=	=	=	=
+1B-:min6/C	B-	min6	fa	P4	min	4.0000
+==	==	==	==	==	==	==
+2F:min7/C	F	min7	do	P5	min7	2.0000
+2Fo7/C	F	o7	do	P1	dim	2.0000
+=	=	=	=	=	=	=
+1C7b9sus	C	7b9sus	so	P5	dom	4.0000
+=	=	=	=	=	=	=
+1F:min	F	min	do	P4	min	4.0000
+=	=	=	=	=	=	=
+1F:min	F	min	do	P1	min	4.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

@@ -1,0 +1,103 @@
+!!!OTL: Butch And Butch
+!!!COM: Nelson, Oliver
+!!!ODT: 1961
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>Intro	*>Intro	*>Intro	*>Intro	*>Intro	*>Intro	*>Intro
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*B-:	*B-:	*B-:	*B-:	*B-:	*B-:	*B-:
+2C#h7	C#	h7	ri	[C#]	half	2.0000
+2C:min7	C	min7	re	d1	min7	2.0000
+=	=	=	=	=	=	=
+2B:min7	B	min7	di	M7	min7	2.0000
+2E7	E	7	fi	P4	dom	2.0000
+=	=	=	=	=	=	=
+1A:min7	A	min7	ti	P4	min7	4.0000
+=	=	=	=	=	=	=
+1A:min7	A	min7	ti	P1	min7	4.0000
+=	=	=	=	=	=	=
+2C#h7	C#	h7	ri	M3	half	2.0000
+2F#7b9	F#	7b9	si	P4	dom	2.0000
+=	=	=	=	=	=	=
+2B:min7	B	min7	di	P4	min7	2.0000
+2D-6	D-	6	me	d3	maj	2.0000
+=	=	=	=	=	=	=
+1D7sus	D	7sus	mi	A1	sus	4.0000
+=	=	=	=	=	=	=
+1D7sus	D	7sus	mi	P1	sus	4.0000
+==	==	==	==	==	==	==
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+2G:maj7	G	maj7	la	P4	maj	2.0000
+2G#o7	G#	o7	li	A1	dim	2.0000
+=	=	=	=	=	=	=
+2A:min7	A	min7	ti	m2	min7	2.0000
+2B-o7	B-	o7	do	m2	dim	2.0000
+=	=	=	=	=	=	=
+2B:min7	B	min7	di	A1	min7	2.0000
+2G6	G	6	la	m6	maj	2.0000
+=	=	=	=	=	=	=
+2D:min7	D	min7	mi	P5	min7	2.0000
+2G7	G	7	la	P4	dom	2.0000
+=	=	=	=	=	=	=
+1C:maj7	C	maj7	re	P4	maj	4.0000
+=	=	=	=	=	=	=
+2C#:min7	C#	min7	ri	A1	min7	2.0000
+2F#7	F#	7	si	P4	dom	2.0000
+=	=	=	=	=	=	=
+2C:min7	C	min7	re	d5	min7	2.0000
+2F7	F	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2B:min7	B	min7	di	A4	min7	2.0000
+2E7	E	7	fi	P4	dom	2.0000
+=	=	=	=	=	=	=
+1D7sus	D	7sus	mi	m7	sus	4.0000
+=	=	=	=	=	=	=
+1D7sus	D	7sus	mi	P1	sus	4.0000
+!! solos on G Blues
+=	=	=	=	=	=	=
+2G6	G	6	la	P4	maj	2.0000
+2B-7	B-	7	do	m3	dom	2.0000
+=	=	=	=	=	=	=
+2A7	A	7	ti	M7	dom	2.0000
+2A-7	A-	7	te	d1	dom	2.0000
+==	==	==	==	==	==	==
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+2G:maj7	G	maj7	la	M7	maj	2.0000
+2G#o7	G#	o7	li	A1	dim	2.0000
+=	=	=	=	=	=	=
+2A:min7	A	min7	ti	m2	min7	2.0000
+2B-o7	B-	o7	do	m2	dim	2.0000
+=	=	=	=	=	=	=
+2B:min7	B	min7	di	A1	min7	2.0000
+2G6	G	6	la	m6	maj	2.0000
+=	=	=	=	=	=	=
+2D:min7	D	min7	mi	P5	min7	2.0000
+2G7	G	7	la	P4	dom	2.0000
+=	=	=	=	=	=	=
+1C:maj7	C	maj7	re	P4	maj	4.0000
+=	=	=	=	=	=	=
+2C#:min7	C#	min7	ri	A1	min7	2.0000
+2F#7	F#	7	si	P4	dom	2.0000
+=	=	=	=	=	=	=
+2C:min7	C	min7	re	d5	min7	2.0000
+2F7	F	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2B:min7	B	min7	di	A4	min7	2.0000
+2E7	E	7	fi	P4	dom	2.0000
+=	=	=	=	=	=	=
+1D7sus	D	7sus	mi	m7	sus	4.0000
+=	=	=	=	=	=	=
+1D7sus	D	7sus	mi	P1	sus	4.0000
+!! solos on G Blues
+=	=	=	=	=	=	=
+2G6	G	6	la	P4	maj	2.0000
+2B-7	B-	7	do	m3	dom	2.0000
+=	=	=	=	=	=	=
+2A7	A	7	ti	M7	dom	2.0000
+2A-7	A-	7	te	d1	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

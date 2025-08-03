@@ -1,0 +1,73 @@
+!!!OTL: Blossom Fell, A
+!!!COM1: Barnes, Howard
+!!!COM2: Cornelius, Harold
+!!!COM3: John, Dominic
+!!!ODT: 1954
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*B-:	*B-:	*B-:	*B-:	*B-:	*B-:	*B-:
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+2B-6	B-	6	do	[B-]	maj	2.0000
+2Bo	B	o	di	A1	dim	2.0000
+=	=	=	=	=	=	=
+1C:min7	C	min7	re	m2	min7	4.0000
+=	=	=	=	=	=	=
+2F7	F	7	so	P4	dom	2.0000
+2F7#5	F	7#5	so	P1	dom	2.0000
+=	=	=	=	=	=	=
+1B-6	B-	6	do	P4	maj	4.0000
+=	=	=	=	=	=	=
+2B-:maj7/D	B-	maj7	do	P1	maj	2.0000
+2D-o	D-	o	me	m3	dim	2.0000
+=	=	=	=	=	=	=
+2C:min7	C	min7	re	M7	min7	2.0000
+2F7	F	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2C:min7	C	min7	re	P5	min7	2.0000
+2F7	F	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+4B-6	B-	6	do	P4	maj	1.0000
+4Bo	B	o	di	A1	dim	1.0000
+4F7/C	F	7	so	d5	dom	1.0000
+4F7	F	7	so	P1	dom	1.0000
+==	==	==	==	==	==	==
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+2B-6	B-	6	do	P4	maj	2.0000
+2Bo	B	o	di	A1	dim	2.0000
+=	=	=	=	=	=	=
+1C:min7	C	min7	re	m2	min7	4.0000
+=	=	=	=	=	=	=
+2F7	F	7	so	P4	dom	2.0000
+2F7#5	F	7#5	so	P1	dom	2.0000
+=	=	=	=	=	=	=
+2B-6	B-	6	do	P4	maj	2.0000
+2B-7#5	B-	7#5	do	P1	dom	2.0000
+=	=	=	=	=	=	=
+1E-:maj7	E-	maj7	fa	P4	maj	4.0000
+=	=	=	=	=	=	=
+1B-:maj7/D	B-	maj7	do	P5	maj	4.0000
+=	=	=	=	=	=	=
+1C:min7	C	min7	re	M2	min7	4.0000
+=	=	=	=	=	=	=
+2B-6	B-	6	do	m7	maj	2.0000
+2B-7#5	B-	7#5	do	P1	dom	2.0000
+=	=	=	=	=	=	=
+2E-:maj7	E-	maj7	fa	P4	maj	2.0000
+2E-:min6	E-	min6	fa	P1	min	2.0000
+=	=	=	=	=	=	=
+2B-:maj7/D	B-	maj7	do	P5	maj	2.0000
+2D-o7	D-	o7	me	m3	dim	2.0000
+=	=	=	=	=	=	=
+2C:min7	C	min7	re	M7	min7	2.0000
+2F7	F	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2B-6	B-	6	do	P4	maj	2.0000
+4C:min7	C	min7	re	M2	min7	1.0000
+4F7	F	7	so	P4	dom	1.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

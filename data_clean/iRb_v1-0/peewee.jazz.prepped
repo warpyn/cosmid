@@ -1,0 +1,56 @@
+!!!OTL: Pee Wee
+!!!COM: Williams, Tony
+!!!ODT: 1967
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3	*M3/4
+*D-:	*D-:	*D-:	*D-:	*D-:	*D-:	*D-:
+2.D-:maj7	D-	maj7	do	[D-]	maj	3.0000
+=	=	=	=	=	=	=
+2.E-/D-	E-	.	re	M2	maj	3.0000
+=	=	=	=	=	=	=
+2.F/D-	F	.	mi	M2	maj	3.0000
+=	=	=	=	=	=	=
+2.D:min7	D	min7	di	M6	min7	3.0000
+=	=	=	=	=	=	=
+2.A:maj7/E-(E-h7)	A	maj7	si	P5	maj	3.0000
+=	=	=	=	=	=	=
+2.B-:maj7/E(Eh7)	B-	maj7	la	m2	maj	3.0000
+=	=	=	=	=	=	=
+2.B:maj7/F	B	maj7	li	A1	maj	3.0000
+=	=	=	=	=	=	=
+2.B:maj7/F	B	maj7	li	P1	maj	3.0000
+=	=	=	=	=	=	=
+2.G7sus(D:min7)	G	7sus	fi	m6	sus	3.0000
+=	=	=	=	=	=	=
+2.G7alt	G	7alt	fi	P1	dom	3.0000
+=	=	=	=	=	=	=
+2.F7sus(C:min7)	F	7sus	mi	m7	sus	3.0000
+=	=	=	=	=	=	=
+2.D-:maj7#11	D-	maj7#11	do	m6	maj	3.0000
+=	=	=	=	=	=	=
+2.G-:maj7	G-	maj7	fa	P4	maj	3.0000
+=	=	=	=	=	=	=
+2.G7sus	G	7sus	fi	A1	sus	3.0000
+=	=	=	=	=	=	=
+2.G7alt	G	7alt	fi	P1	dom	3.0000
+=	=	=	=	=	=	=
+4.E-:maj7	E-	maj7	re	m6	maj	1.5000
+4.D-:maj7/F	D-	maj7	do	m7	maj	1.5000
+=	=	=	=	=	=	=
+4.G-:maj7#11	G-	maj7#11	fa	P4	maj	1.5000
+4.G-:maj7#11(F/G-)	G-	maj7#11	fa	P1	maj	1.5000
+=	=	=	=	=	=	=
+2.D-7sus	D-	7sus	do	P5	sus	3.0000
+=	=	=	=	=	=	=
+2.F/D-	F	.	mi	M3	maj	3.0000
+=	=	=	=	=	=	=
+2.F/D-	F	.	mi	P1	maj	3.0000
+=	=	=	=	=	=	=
+2.F/D-	F	.	mi	P1	maj	3.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

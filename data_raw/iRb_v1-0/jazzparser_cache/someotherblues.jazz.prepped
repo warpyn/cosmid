@@ -1,0 +1,36 @@
+!!!OTL: Some Other Blues
+!!!COM: Coltrane, John
+!!!ODT: 1959
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*F:	*F:	*F:	*F:	*F:	*F:	*F:
+1F7	F	7	do	[F]	dom	4.0000
+=	=	=	=	=	=	=
+1B-7sus	B-	7sus	fa	P4	sus	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	do	P5	dom	4.0000
+=	=	=	=	=	=	=
+1B7	B	7	fi	A4	dom	4.0000
+=	=	=	=	=	=	=
+1B-7	B-	7	fa	d1	dom	4.0000
+=	=	=	=	=	=	=
+1E-7	E-	7	te	P4	dom	4.0000
+=	=	=	=	=	=	=
+1A-7	A-	7	me	P4	dom	4.0000
+=	=	=	=	=	=	=
+1D-7	D-	7	le	P4	dom	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	so	M7	dom	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	so	P1	dom	4.0000
+=	=	=	=	=	=	=
+1F7	F	7	do	P4	dom	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	so	P5	dom	4.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

@@ -1,0 +1,69 @@
+!!!OTL: Memories Of Tomorrow
+!!!COM: Jarrett, Keith
+!!!ODT: 1975
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*a:	*a:	*a:	*a:	*a:	*a:	*a:
+1A:min	A	min	do	[A]	min	4.0000
+=	=	=	=	=	=	=
+1A:min:maj7	A	min:maj7	do	P1	min	4.0000
+=	=	=	=	=	=	=
+1A:min7	A	min7	do	P1	min7	4.0000
+=	=	=	=	=	=	=
+1E:min7	E	min7	so	P5	min7	4.0000
+=	=	=	=	=	=	=
+1F	F	.	le	m2	maj	4.0000
+=	=	=	=	=	=	=
+1C	C	.	me	P5	maj	4.0000
+=	=	=	=	=	=	=
+1G9sus	G	9sus	te	P5	dom	4.0000
+=	=	=	=	=	=	=
+1C	C	.	me	P4	maj	4.0000
+==	==	==	==	==	==	==
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1D/F#	D	.	fa	M2	maj	4.0000
+=	=	=	=	=	=	=
+1F	F	.	le	m3	maj	4.0000
+=	=	=	=	=	=	=
+1C	C	.	me	P5	maj	4.0000
+=	=	=	=	=	=	=
+2E-:maj7	E-	maj7	se	m3	maj	2.0000
+2A7	A	7	do	A4	dom	2.0000
+=	=	=	=	=	=	=
+2A-:maj7	A-	maj7	de	d1	maj	2.0000
+2G:min	G	min	te	M7	min	2.0000
+=	=	=	=	=	=	=
+1F:min7	F	min7	le	m7	min7	4.0000
+=	=	=	=	=	=	=
+1B-9sus	B-	9sus	ra	P4	dom	4.0000
+=	=	=	=	=	=	=
+1C	C	.	me	M2	maj	4.0000
+=	=	=	=	=	=	=
+2E7sus	E	7sus	so	M3	sus	2.0000
+2E7	E	7	so	P1	dom	2.0000
+=	=	=	=	=	=	=
+2A:min	A	min	do	P4	min	2.0000
+2F:min/A-	F	min	le	m6	min	2.0000
+=	=	=	=	=	=	=
+2C:maj7/G	C	maj7	me	P5	maj	2.0000
+2D/F#	D	.	fa	M2	maj	2.0000
+=	=	=	=	=	=	=
+2F:maj7	F	maj7	le	m3	maj	2.0000
+2F:min(Fsus)	F	min	le	P1	min	2.0000
+=	=	=	=	=	=	=
+1C/G	C	.	me	P5	maj	4.0000
+=	=	=	=	=	=	=
+1G9sus	G	9sus	te	P5	dom	4.0000
+=	=	=	=	=	=	=
+1C	C	.	me	P4	maj	4.0000
+=	=	=	=	=	=	=
+2E7sus	E	7sus	so	M3	sus	2.0000
+2E7	E	7	so	P1	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

@@ -1,0 +1,80 @@
+!!!OTL: Star-Crossed Lovers
+!!!COM1: Strayhorn, Billy
+!!!COM2: Ellington, Duke
+!!!ODT: 1944
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*D-:	*D-:	*D-:	*D-:	*D-:	*D-:	*D-:
+2G-:maj7	G-	maj7	fa	[G-]	maj	2.0000
+2G9b5	G	9b5	fi	A1	dom	2.0000
+=	=	=	=	=	=	=
+2D-:maj7/A-	D-	maj7	do	d5	maj	2.0000
+2B-:min7	B-	min7	la	M6	min7	2.0000
+=	=	=	=	=	=	=
+2E-:min7	E-	min7	re	P4	min7	2.0000
+2A-13	A-	13	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2D-:maj7	D-	maj7	do	P4	maj	2.0000
+2G7b5	G	7b5	fi	A4	dom	2.0000
+=	=	=	=	=	=	=
+2G-:maj7	G-	maj7	fa	d1	maj	2.0000
+2G9b5	G	9b5	fi	A1	dom	2.0000
+=	=	=	=	=	=	=
+2D-:maj7/A-	D-	maj7	do	d5	maj	2.0000
+2B-:min7	B-	min7	la	M6	min7	2.0000
+=	=	=	=	=	=	=
+2Gh7	G	h7	fi	M6	half	2.0000
+2C7b9	C	7b9	ti	P4	dom	2.0000
+=	=	=	=	=	=	=
+1F:min	F	min	mi	P4	min	4.0000
+==	==	==	==	==	==	==
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+2E-:min7/A-	E-	min7	re	m7	min7	2.0000
+2D-:maj7/A-	D-	maj7	do	m7	maj	2.0000
+=	=	=	=	=	=	=
+2E-:min7/A-	E-	min7	re	M2	min7	2.0000
+2D-:maj7/A-	D-	maj7	do	m7	maj	2.0000
+=	=	=	=	=	=	=
+2E-h7	E-	h7	re	M2	half	2.0000
+2A-13	A-	13	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2E-h7	E-	h7	re	P5	half	2.0000
+2A-13	A-	13	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+1D-7sus	D-	7sus	do	P4	sus	4.0000
+=	=	=	=	=	=	=
+2D-7sus	D-	7sus	do	P1	sus	2.0000
+2D-13b9	D-	13b9	do	P1	dom	2.0000
+=	=	=	=	=	=	=
+2G-:maj7	G-	maj7	fa	P4	maj	2.0000
+2G-7#9	G-	7#9	fa	P1	dom	2.0000
+=	=	=	=	=	=	=
+2F#:min:maj7	F#	min:maj7	my	A7	min	2.0000
+2A-13	A-	13	so	d3	dom	2.0000
+==	==	==	==	==	==	==
+*>C	*>C	*>C	*>C	*>C	*>C	*>C
+2D-:maj7	D-	maj7	do	P4	maj	2.0000
+2D-9#5	D-	9#5	do	P1	dom	2.0000
+=	=	=	=	=	=	=
+2G-:maj7	G-	maj7	fa	P4	maj	2.0000
+2E-7	E-	7	re	M6	dom	2.0000
+=	=	=	=	=	=	=
+1D-:maj7/A-	D-	maj7	do	m7	maj	4.0000
+=	=	=	=	=	=	=
+2A-7sus	A-	7sus	so	P5	sus	2.0000
+2Eadd9/G#	E	add9	ri	A5	maj	2.0000
+=	=	=	=	=	=	=
+2D-:maj7	D-	maj7	do	d7	maj	2.0000
+2B-7	B-	7	la	M6	dom	2.0000
+=	=	=	=	=	=	=
+2E-7	E-	7	re	P4	dom	2.0000
+4A-7	A-	7	so	P4	dom	1.0000
+4G7	G	7	fi	M7	dom	1.0000
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

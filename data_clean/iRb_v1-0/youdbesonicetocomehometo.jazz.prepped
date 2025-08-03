@@ -1,0 +1,86 @@
+!!!OTL: You'd Be So Nice To Come Home To
+!!!COM: Porter, Cole
+!!!ODT: 1942
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*a:	*a:	*a:	*a:	*a:	*a:	*a:
+1A:min7	A	min7	do	[A]	min7	4.0000
+=	=	=	=	=	=	=
+2Bh7	B	h7	re	M2	half	2.0000
+2E7b9	E	7b9	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2A:min7	A	min7	do	P4	min7	2.0000
+2E7b9	E	7b9	so	P5	dom	2.0000
+=	=	=	=	=	=	=
+1A:min7	A	min7	do	P4	min7	4.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	te	m7	min7	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	me	P4	dom	4.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	le	P4	maj	4.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	le	P1	maj	4.0000
+=	=	=	=	=	=	=
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1Bh7	B	h7	re	A4	half	4.0000
+=	=	=	=	=	=	=
+1E7	E	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1A:min7	A	min7	do	P4	min7	4.0000
+=	=	=	=	=	=	=
+1A:min7	A	min7	do	P1	min7	4.0000
+=	=	=	=	=	=	=
+1F#h7	F#	h7	la	M6	half	4.0000
+=	=	=	=	=	=	=
+1B7b9	B	7b9	re	P4	dom	4.0000
+=	=	=	=	=	=	=
+1Bh7	B	h7	re	P1	half	4.0000
+=	=	=	=	=	=	=
+1E7b9	E	7b9	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
+1A:min7	A	min7	do	P4	min7	4.0000
+=	=	=	=	=	=	=
+2Bh7	B	h7	re	M2	half	2.0000
+2E7b9	E	7b9	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2A:min7	A	min7	do	P4	min7	2.0000
+2E7b9	E	7b9	so	P5	dom	2.0000
+=	=	=	=	=	=	=
+1A:min7	A	min7	do	P4	min7	4.0000
+=	=	=	=	=	=	=
+1G:min7	G	min7	te	m7	min7	4.0000
+=	=	=	=	=	=	=
+1C7	C	7	me	P4	dom	4.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	le	P4	maj	4.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	le	P1	maj	4.0000
+=	=	=	=	=	=	=
+*>D	*>D	*>D	*>D	*>D	*>D	*>D
+1F#o7	F#	o7	la	A1	dim	4.0000
+=	=	=	=	=	=	=
+1C6/G	C	6	me	d5	maj	4.0000
+=	=	=	=	=	=	=
+1G#o7	G#	o7	ti	A5	dim	4.0000
+=	=	=	=	=	=	=
+1A:min	A	min	do	m2	min	4.0000
+=	=	=	=	=	=	=
+2D7	D	7	fa	P4	dom	2.0000
+2A-7	A-	7	de	d5	dom	2.0000
+=	=	=	=	=	=	=
+1G7	G	7	te	M7	dom	4.0000
+=	=	=	=	=	=	=
+1C6	C	6	me	P4	maj	4.0000
+=	=	=	=	=	=	=
+2Bh7	B	h7	re	M7	half	2.0000
+2E7b9	E	7b9	so	P4	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

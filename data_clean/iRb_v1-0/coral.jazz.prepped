@@ -1,0 +1,37 @@
+!!!OTL: Coral
+!!!COM: Jarrett, Keith
+!!!ODT: 1973
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*c:	*c:	*c:	*c:	*c:	*c:	*c:
+2C:min7	C	min7	do	[C]	min7	2.0000
+2F7	F	7	fa	P4	dom	2.0000
+=	=	=	=	=	=	=
+2D/B-	D	.	re	M6	maj	2.0000
+2B-:maj7	B-	maj7	te	m6	maj	2.0000
+=	=	=	=	=	=	=
+2Ah	A	h	la	M7	half	2.0000
+2D7b9	D	7b9	re	P4	dom	2.0000
+=	=	=	=	=	=	=
+2G:min7	G	min7	so	P4	min7	2.0000
+2C7	C	7	do	P4	dom	2.0000
+=	=	=	=	=	=	=
+2B:maj7	B	maj7	ti	M7	maj	2.0000
+2F#:maj7/A#	F#	maj7	fi	P5	maj	2.0000
+=	=	=	=	=	=	=
+2G#:min7	G#	min7	si	M2	min7	2.0000
+2B:maj7/F#	B	maj7	ti	m3	maj	2.0000
+=	=	=	=	=	=	=
+2G-^9#11	G-	^9#11	se	d6	maj	2.0000
+2G-7sus	G-	7sus	se	P1	sus	2.0000
+=	=	=	=	=	=	=
+2F:min11	F	min11	fa	M7	min7	2.0000
+4Dh	D	h	re	M6	half	1.0000
+4G7b9	G	7b9	so	P4	dom	1.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

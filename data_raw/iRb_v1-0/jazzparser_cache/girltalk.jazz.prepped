@@ -1,0 +1,51 @@
+!!!OTL: Girl Talk
+!!!COM: Hefti, Neal
+!!!ODT: 1965
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*F:	*F:	*F:	*F:	*F:	*F:	*F:
+2F:maj7	F	maj7	do	[F]	maj	2.0000
+2B7	B	7	fi	A4	dom	2.0000
+=	=	=	=	=	=	=
+2B-:maj7	B-	maj7	fa	d1	maj	2.0000
+2E-7	E-	7	te	P4	dom	2.0000
+=	=	=	=	=	=	=
+2A:min7	A	min7	mi	A4	min7	2.0000
+2D7b9	D	7b9	la	P4	dom	2.0000
+=	=	=	=	=	=	=
+4G:min7	G	min7	re	P4	min7	1.0000
+4A:min7	A	min7	mi	M2	min7	1.0000
+4B-6	B-	6	fa	m2	maj	1.0000
+4C7	C	7	so	M2	dom	1.0000
+=	=	=	=	=	=	=
+2F:min7	F	min7	do	P4	min7	2.0000
+2B-:min7	B-	min7	fa	P4	min7	2.0000
+=	=	=	=	=	=	=
+2G7b9#11	G	7b9#11	re	M6	dom	2.0000
+2C7	C	7	so	P4	dom	2.0000
+=	=	=	=	=	=	=
+2A:min7	A	min7	mi	M6	min7	2.0000
+2D7b9	D	7b9	la	P4	dom	2.0000
+=	=	=	=	=	=	=
+4A:min7	A	min7	mi	P5	min7	1.0000
+4B-:min7	B-	min7	fa	m2	min7	1.0000
+4C:min7	C	min7	so	M2	min7	1.0000
+4D7	D	7	la	M2	dom	1.0000
+=	=	=	=	=	=	=
+1G7	G	7	re	P4	dom	4.0000
+=	=	=	=	=	=	=
+2C7	C	7	so	P4	dom	2.0000
+2B-:min7	B-	min7	fa	m7	min7	2.0000
+=	=	=	=	=	=	=
+2A:min7	A	min7	mi	M7	min7	2.0000
+2D:min7	D	min7	la	P4	min7	2.0000
+=	=	=	=	=	=	=
+2G:min7	G	min7	re	P4	min7	2.0000
+2C7	C	7	so	P4	dom	2.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

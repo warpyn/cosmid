@@ -1,0 +1,69 @@
+!!!OTL: Strayhorn 2
+!!!COM: Mulligan, Gerry
+!!!ODT: 1977
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*D:	*D:	*D:	*D:	*D:	*D:	*D:
+2D:maj7	D	maj7	do	[D]	maj	2.0000
+2Eh7/D	E	h7	re	M2	half	2.0000
+=	=	=	=	=	=	=
+2Do7	D	o7	do	m7	dim	2.0000
+2D:maj7	D	maj7	do	P1	maj	2.0000
+=	=	=	=	=	=	=
+2Do7	D	o7	do	P1	dim	2.0000
+2G:min7	G	min7	fa	P4	min7	2.0000
+=	=	=	=	=	=	=
+2D:maj7	D	maj7	do	P5	maj	2.0000
+4E:min7	E	min7	re	M2	min7	1.0000
+4Asus	A	sus	so	P4	sus	1.0000
+=	=	=	=	=	=	=
+2D:maj7	D	maj7	do	P4	maj	2.0000
+2Eh7/D	E	h7	re	M2	half	2.0000
+=	=	=	=	=	=	=
+2Do7	D	o7	do	m7	dim	2.0000
+2D^9	D	^9	do	P1	maj	2.0000
+=	=	=	=	=	=	=
+2Do7	D	o7	do	P1	dim	2.0000
+2G:min11	G	min11	fa	P4	min7	2.0000
+=	=	=	=	=	=	=
+2D:maj7	D	maj7	do	P5	maj	2.0000
+2A-9	A-	9	se	d5	dom	2.0000
+=	=	=	=	=	=	=
+2G:maj7	G	maj7	fa	M7	maj	2.0000
+2A/G	A	.	so	M2	maj	2.0000
+=	=	=	=	=	=	=
+2F#:min7	F#	min7	mi	M6	min7	2.0000
+2F:maj7	F	maj7	me	d1	maj	2.0000
+=	=	=	=	=	=	=
+2C/E	C	.	te	P5	maj	2.0000
+2F:maj7	F	maj7	me	P4	maj	2.0000
+=	=	=	=	=	=	=
+4F#:min	F#	min	mi	A1	min	1.0000
+4B7	B	7	la	P4	dom	1.0000
+4E^	E	^	re	P4	maj	1.0000
+4B-7	B-	7	le	d5	dom	1.0000
+=	=	=	=	=	=	=
+1G:maj7/A	G	maj7	fa	M6	maj	4.0000
+=	=	=	=	=	=	=
+2D:maj7	D	maj7	do	P5	maj	2.0000
+2Eh7/D	E	h7	re	M2	half	2.0000
+=	=	=	=	=	=	=
+2Do7	D	o7	do	m7	dim	2.0000
+2D^9	D	^9	do	P1	maj	2.0000
+=	=	=	=	=	=	=
+2Do7	D	o7	do	P1	dim	2.0000
+2G:min7	G	min7	fa	P4	min7	2.0000
+=	=	=	=	=	=	=
+2D:maj7	D	maj7	do	P5	maj	2.0000
+2G:min11	G	min11	fa	P4	min7	2.0000
+=	=	=	=	=	=	=
+2D:maj7	D	maj7	do	P5	maj	2.0000
+4E:min7	E	min7	re	M2	min7	1.0000
+4Asus	A	sus	so	P4	sus	1.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze

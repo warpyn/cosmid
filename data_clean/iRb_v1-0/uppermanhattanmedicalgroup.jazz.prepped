@@ -1,0 +1,86 @@
+!!!OTL: Upper Manhattan Medical Group
+!!!COM: Strayhorn, Billy
+!!!ODT: 1956
+**jazz	**kern	**exten	**solfa	**mint	**quals	**dur
+*thru	*thru	*thru	*thru	*thru	*thru	*thru
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*D-:	*D-:	*D-:	*D-:	*D-:	*D-:	*D-:
+1Fh7	F	h7	mi	[F]	half	4.0000
+=	=	=	=	=	=	=
+1B-7b9	B-	7b9	la	P4	dom	4.0000
+=	=	=	=	=	=	=
+1E-:min7	E-	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+1A-7	A-	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+2D-o7	D-	o7	do	P4	dim	2.0000
+2D-6	D-	6	do	P1	maj	2.0000
+=	=	=	=	=	=	=
+1D-:maj7	D-	maj7	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+*>N1	*>N1	*>N1	*>N1	*>N1	*>N1	*>N1
+1D-:min7	D-	min7	do	P1	min7	4.0000
+=	=	=	=	=	=	=
+1G-7	G-	7	fa	P4	dom	4.0000
+==	==	==	==	==	==	==
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4	*M4/4
+*D-:	*D-:	*D-:	*D-:	*D-:	*D-:	*D-:
+1Fh7	F	h7	mi	M7	half	4.0000
+=	=	=	=	=	=	=
+1B-7b9	B-	7b9	la	P4	dom	4.0000
+=	=	=	=	=	=	=
+1E-:min7	E-	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+1A-7	A-	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+2D-o7	D-	o7	do	P4	dim	2.0000
+2D-6	D-	6	do	P1	maj	2.0000
+=	=	=	=	=	=	=
+1D-:maj7	D-	maj7	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+*>N2	*>N2	*>N2	*>N2	*>N2	*>N2	*>N2
+1A-:min7	A-	min7	so	P5	min7	4.0000
+=	=	=	=	=	=	=
+1D-7	D-	7	do	P4	dom	4.0000
+=	=	=	=	=	=	=
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+1Gh7	G	h7	fi	A4	half	4.0000
+=	=	=	=	=	=	=
+1C7b13	C	7b13	ti	P4	dom	4.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	mi	P4	maj	4.0000
+=	=	=	=	=	=	=
+1F:maj7	F	maj7	mi	P1	maj	4.0000
+=	=	=	=	=	=	=
+1A-h7	A-	h7	so	m3	half	4.0000
+=	=	=	=	=	=	=
+1D-7b13	D-	7b13	do	P4	dom	4.0000
+=	=	=	=	=	=	=
+1G-:min	G-	min	fa	P4	min	4.0000
+=	=	=	=	=	=	=
+1A-7	A-	7	so	M2	dom	4.0000
+=	=	=	=	=	=	=
+*>A2	*>A2	*>A2	*>A2	*>A2	*>A2	*>A2
+1Fh7	F	h7	mi	M6	half	4.0000
+=	=	=	=	=	=	=
+1B-7b9	B-	7b9	la	P4	dom	4.0000
+=	=	=	=	=	=	=
+1E-:min7	E-	min7	re	P4	min7	4.0000
+=	=	=	=	=	=	=
+1A-7	A-	7	so	P4	dom	4.0000
+=	=	=	=	=	=	=
+1D-o7	D-	o7	do	P4	dim	4.0000
+=	=	=	=	=	=	=
+1D-6	D-	6	do	P1	maj	4.0000
+=	=	=	=	=	=	=
+1D-o7	D-	o7	do	P1	dim	4.0000
+=	=	=	=	=	=	=
+1D-6	D-	6	do	P1	maj	4.0000
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: iRb Corpus 1.0
+!!!YER: 26 Dec 2012
+!!!EED: Daniel Shanahan and Yuri Broze
+!!!ENC: Yuri Broze
