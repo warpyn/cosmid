@@ -1,0 +1,6 @@
+[submodule "data_raw/CoCoPops"]
+	path = data_raw/CoCoPops
+	url = https://github.com/Computational-Cognitive-Musicology-Lab/CoCoPops
+[submodule "data_raw/Star-Wars-Thematic-Corpus"]
+	path = data_raw/Star-Wars-Thematic-Corpus
+	url = https://github.com/Computational-Cognitive-Musicology-Lab/Star-Wars-Thematic-Corpus
