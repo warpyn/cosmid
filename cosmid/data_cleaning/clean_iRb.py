@@ -12,12 +12,16 @@ and save the output in the cleaned data subdirectory data_clean/iRb_v1-0/*.
 Note: Currently there are still errors in 6 files. Look in the err/ directory for more information.
 """
 
-import os, subprocess
+import os
+import shutil
+import subprocess
+
+from ..constants import PROJECT_ROOT
 
 def main():
 
-    RAW_DATA_IRB_DIR_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__),"../data_raw/iRb_v1-0"))
-    CLEAN_DATA_IRB_DIR_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__),"../data_clean/iRb_v1-0"))
+    RAW_DATA_IRB_DIR_PATH = os.path.abspath(os.path.join(PROJECT_ROOT, "data_raw/iRb_v1-0"))
+    CLEAN_DATA_IRB_DIR_PATH = os.path.abspath(os.path.join(PROJECT_ROOT, "data_clean/iRb_v1-0"))
     assert os.path.isdir(RAW_DATA_IRB_DIR_PATH), RAW_DATA_IRB_DIR_PATH
     assert os.path.isdir(CLEAN_DATA_IRB_DIR_PATH), CLEAN_DATA_IRB_DIR_PATH
     JAZZPARSER_PATH = os.path.join(RAW_DATA_IRB_DIR_PATH, "jazzparser.sh")
@@ -49,7 +53,7 @@ def main():
     for filename in os.listdir(os.path.join(RAW_DATA_IRB_DIR_PATH, "jazzparser_cache")):
         cached_prepped_jazz_filepath = os.path.join(RAW_DATA_IRB_DIR_PATH, "jazzparser_cache", filename)
         clean_data_jazz_filepath = os.path.join(CLEAN_DATA_IRB_DIR_PATH, filename)
-        subprocess.run(["cp", cached_prepped_jazz_filepath, clean_data_jazz_filepath])
+        shutil.copy2(cached_prepped_jazz_filepath, clean_data_jazz_filepath)
 
 if __name__ == "__main__":
     main()
